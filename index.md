@@ -4,28 +4,28 @@ title: Build for Good
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
+      title: Build for Good
       subtitle: Hero subtitle
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+      dropdown:
+        title: Hero Dropdown Title
+        options: []
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: "Reimagine a better Singapore "
+      description: "Build for Good is for the ones who are willing to get their hands
+        dirty to make Singapore better. "
+      button: about build for good
+      url: /about
+  - infopic:
+      title: Big or small, let’s get building.
+      subtitle: Infopic Subtitle
+      description: We will provide you with the necessary support you need — from
+        mentorship, workshops to funding. You just need to focus on solving the
+        problem at hand.
+      button: Be a builder
+      url: /builder
+      alt: Image alt text
 ---
