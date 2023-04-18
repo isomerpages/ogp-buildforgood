@@ -2,4 +2,4 @@ collections:
   about:
     output: true
     order:
-      - About.md
+      - About BFG.md
