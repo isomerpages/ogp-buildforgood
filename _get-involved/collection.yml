@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  get-involved:
     output: true
     order:
       - Be a Builder.md
