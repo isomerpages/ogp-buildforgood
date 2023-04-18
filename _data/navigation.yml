@@ -1,8 +1,10 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About
+    url: /about
   - title: Get Involved
     collection: get-involved
+  - title: FAQ
+    url: /faq
+  - title: Contact Us
+    url: /contact-us/
