@@ -1,5 +1,5 @@
 collections:
-  be-a-builder:
+  get-involved:
     output: true
     order:
       - Be a Builder.md
