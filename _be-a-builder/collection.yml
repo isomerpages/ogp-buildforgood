@@ -2,5 +2,5 @@ collections:
   be-a-builder:
     output: true
     order:
-      - What's in for You.md
+      - Be a Builder.md
       - Submit Problems.md
