@@ -13,7 +13,7 @@ description: ""
 👁 **Visibility** - Present your solutions to government leaders and shine light on the issue which you're passionate about
 
 ## **Who Can Join?**
-Anyone aged 18 and above with a strong desire to make Singapore better!
+Whether you are a student or a working professional, you are welcomed to join us as long as you are **aged 18 and above with a strong desire to make Singapore better**!
 
 ## **Event Timeline**
 (insert timeline)
