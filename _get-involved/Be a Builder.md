@@ -4,16 +4,16 @@ permalink: /builder/
 description: ""
 ---
 ## **What's In for You**
-#### 👤 **Mentorship** 
-Refine your solutions with guidance and mentorship from an OGP mentor
+👤 **Mentorship** - Refine your solution with the guidance of an OGP mentor
 
-#### ✍️ **Workshops**
-Upskill yourself through design and product workshops held by OGP officers
+✍️ **Workshops** - Upskill yourself through design and product workshops curated by OGP officers
 
-#### 💰 **Funding** 
-Bring your projects to the next level with cash funding up to S$10,000
+💰 **Funding** - Bring your projects to the next level with cash funding up to S$10,000
 
-#### 👁 **Visibility** 
-Present your solutions to government leaders and shine light on the problem
+👁 **Visibility** - Present your solutions to government leaders and shine light on the issue which you're passionate about
 
 ## **Who Can Join?**
+Anyone aged 18 and above with a strong desire to make Singapore better!
+
+## **Event Timeline**
+(insert timeline)
