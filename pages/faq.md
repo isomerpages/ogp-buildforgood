@@ -2,8 +2,6 @@
 title: FAQ
 permalink: /faq/
 ---
-### **FAQ**
-
 ### Can I sign up if I don’t have a tech background?
 
 While tech expertise and interest in tech are preferred, we welcome participants from all backgrounds to join us.
@@ -44,10 +42,6 @@ Apart from a kickoff and finale session, there will be 4 weekly sessions (3-hour
 
 No. We will be screening through the applications and shortlist 50 participants. This is to ensure that the opportunity is given to people who have the ability to commit and the drive to do public good.
 
-### How are the projects evaluated?
-
 ### What do I need to deliver by the end of Build for Good?
 
 All solutions need to have demonstrated
-
-### Will there be a certificate of participation after the event?
