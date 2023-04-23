@@ -4,9 +4,9 @@ permalink: /builder/
 description: ""
 ---
 ## **What's In for You**
-👤 **Mentorship** - Refine your solution with the guidance of an OGP mentor
+👤 **Mentorship** - Refine your solution with the guidance of a mentor from Open Government Products (OGP)
 
-✍️ **Workshops** - Upskill yourself through design and product workshops curated by OGP officers
+✍️ **Workshops** - Upskill yourself through design and product workshops curated by Open Government Products (OGP)
 
 💰 **Funding** - Bring your projects to the next level with cash funding up to S$10,000
 
