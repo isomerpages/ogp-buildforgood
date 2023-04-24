@@ -14,7 +14,7 @@ sections:
   - hero:
       background: /images/hero-banner.png
   - infobar:
-      title: "Reimagine a better Singapore "
+      title: A hackathon to make Singapore better
       description: "Build for Good is for the ones who are willing to get their hands
         dirty to make Singapore better. "
       button: about build for good
