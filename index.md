@@ -14,9 +14,9 @@ sections:
   - hero:
       background: /images/hero-banner.png
   - infobar:
-      title: A hackathon for the public good
-      description: "Build for Good is for the ones who are willing to get their hands
-        dirty to make Singapore better. "
+      title: The Hackathon for a Better Singapore
+      description: "Get your hands dirty and build solutions to address pressing
+        issues in Singapore  "
       button: about build for good
       url: /about
   - infopic:
