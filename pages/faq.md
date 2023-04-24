@@ -8,9 +8,9 @@ While tech expertise and interest in tech are preferred, we welcome participants
 
 ### Must I join as a builder to contribute to Build for Good?
 
-While builders are essential to Build for Good, we welcome you to contribute in different ways! If you have a problem statement to share and challenge our builders to work on them, you can submit them here (insert link).
+While builders are essential to Build for Good, we welcome you to contribute in different ways! If you have a problem statement to share and challenge our builders to work on them, you can submit them [here](/problems).
 
-If you are a member of an NGO or a social enterprise who would like to contribute problem statements or provide domain expertise in the issues that you are familiar, do get in touch with us here (insert email address).
+If you are a member of an NGO or a social enterprise who would like to contribute problem statements or provide domain expertise in the issues that you are familiar, do get in touch with us at marketing@open.gov.sg.
 
 ### What kind of problems can I submit?
 
