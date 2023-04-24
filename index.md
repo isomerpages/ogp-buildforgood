@@ -12,7 +12,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/hackathon 4 jan  (46).jpg
   - infobar:
       title: A hackathon to make Singapore better
       description: "Build for Good is for the ones who are willing to get their hands
