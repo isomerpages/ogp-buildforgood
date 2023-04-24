@@ -12,12 +12,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Build for Good
-      subtitle: Hero subtitle
       background: /images/hero-banner.png
-      dropdown:
-        title: Hero Dropdown Title
-        options: []
   - infobar:
       title: "Reimagine a better Singapore "
       description: "Build for Good is for the ones who are willing to get their hands
@@ -26,11 +21,17 @@ sections:
       url: /about
   - infopic:
       title: Big or small, let’s get building.
-      subtitle: Infopic Subtitle
       description: We will provide you with the necessary support you need — from
         mentorship, workshops to funding. You just need to focus on solving the
         problem at hand.
       button: Be a builder
       url: /builder
+      alt: Image alt text
+  - infopic:
+      title: Share with us a problem
+      description: Identified a problem in Singapore that has the potential to be
+        solved? Share them with us and our builders!
+      button: Tell us more
+      url: /submit-problem
       alt: Image alt text
 ---
