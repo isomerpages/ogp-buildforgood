@@ -6,11 +6,11 @@ description: ""
 ## **What's in it for You**
 💰 **Funding** - Bring your projects to the next level with cash funding up to S$10,000
 
-👁 **Visibility** - Present your solutions to government leaders and shine light on issues which you're passionate about
+👁 **Visibility** - Present your solutions to government leaders and citizens, and shine light on issues which you're passionate about
 
 👤 **Mentorship** - Refine your solution with the guidance of a mentor from Open Government Products (OGP)
 
-✍️ **Workshops** - Upskill yourself through design and product workshops curated by Open Government Products (OGP)
+✍️ **Workshops** - Upskill yourself through curated design and product workshops 
 
 ## **Who Can Be a Builder?**
 Whether you are a student or a working professional, you are welcomed to join us as long as you are **aged 18 and above with a strong desire to make Singapore better**!
