@@ -17,9 +17,6 @@ Whether you are a student or a working professional, you are welcomed to join us
 
 You may sign up as a team of 3-5 or as an individual. If you are signing up as a team, it is recommended to ensure that your team consist of members with different strengths that can help you work towards the final solution.
 
-## **What kind of solution can we come up with?**
-
-
 ## **Event Timeline**
 Build for Good will run from 3 June to 1 July 2023, with a kickoff, a series of weekly sessions and a finale event. In between these sessions, builders are free to continue working on the solutions towards the finale. Do note that all sessions are held in-person only with no virtual option so as to maximise the builders’ experience.
 
