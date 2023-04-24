@@ -20,7 +20,7 @@ sections:
       button: about build for good
       url: /about
   - infopic:
-      title: Big or small, let’s get building.
+      title: Big or small, let’s get building
       description: We will provide you with the necessary support you need — from
         mentorship, workshops to funding. You just need to focus on solving the
         problem at hand.
