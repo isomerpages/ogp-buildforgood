@@ -32,6 +32,6 @@ sections:
       description: Identified a problem in Singapore that has the potential to be
         solved? Share them with us and our builders!
       button: Tell us more
-      url: /submit-problem
+      url: /submit-problems
       alt: Image alt text
 ---
