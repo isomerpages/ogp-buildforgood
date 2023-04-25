@@ -10,7 +10,7 @@ description: ""
 
 👤 **Mentorship** - Refine your solution with the guidance of a mentor from Open Government Products (OGP)
 
-✍️ **Workshops** - Upskill yourself through curated design and product workshops 
+✍️ **Workshops** - Upskill yourself through curated engineering, design and product workshops 
 
 ## **Who Can Be a Builder?**
 Whether you are a student or a working professional, you are welcomed to join us as long as you are **aged 18 and above with a strong desire to make Singapore better**!
