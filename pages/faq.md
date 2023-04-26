@@ -12,16 +12,6 @@ While builders are essential to Build for Good, we welcome you to contribute in 
 
 If you are a member of an NGO or a social enterprise who would like to contribute problem statements or provide domain expertise in the issues that you are familiar, do get in touch with us at marketing@open.gov.sg.
 
-### What kind of problems can I submit?
-
-It can be any problem that you believe Singapore and its residents are facing. Example of problem domains includes education, environment, housing, public health, and wellbeing. You are free to explore any other domain which you feel strongly about (or get some inspirations [here](https://newnaratif.com/the-23-most-important-issues-facing-singapore-in-2022/)).
-
-While defining your problem statement, try to be concrete in defining the who, why, what, where, when and how (5W1H) of the problem. You should also consider the scale of impact of your problem.
-
-### What type of solutions can I come up with?
-
-We welcome all kinds of solutions as long as they effectively address the problem that you have identified, and validated through user testing. However, the solutions should be concrete and actionable so that you can develop and implement them after Build for Good.
-
 ### Do I need a team to participate?
 
 We encourage you to sign up in teams. However, if you don’t have a team, you can indicate in the sign up form and we will group you with others who don’t have a team too.
@@ -36,7 +26,7 @@ Yes! We welcome students or working professionals aged 18 years old and above.
 
 ### What’s the commitment level like?
 
-Apart from a kickoff and finale session, there will be 4 weekly sessions (3-hour sessions, once a week) held for teams to provide updates, attend workshops or talks, receive mentoring and participate in product clinics. This ensures that all teams make steady progress in ideating, building prototypes, conduct user research and testing.
+Apart from a kickoff and finale session, there will be 3 weekly sessions (3-hour sessions, once a week) held for teams to provide updates, attend workshops or talks, receive mentoring and participate in product clinics. This ensures that all teams make steady progress in ideating, building prototypes, conduct user research and testing.
 
 ### Does my registration guarantee my participation in Build for Good?
 
