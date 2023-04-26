@@ -26,7 +26,7 @@ Yes! We welcome students or working professionals aged 18 years old and above.
 
 ### What’s the commitment level like?
 
-Apart from a kickoff and finale session, there will be 3 weekly sessions (3-hour sessions, once a week) held for teams to provide updates, attend workshops or talks, receive mentoring and participate in product clinics. This ensures that all teams make steady progress in ideating, building prototypes, conduct user research and testing.
+Apart from a kickoff and finale session, there will be 3 weekly sessions (3-hour sessions, once a week) held for teams to provide updates, attend workshops or talks, receive mentoring and participate in product clinics. These sessions are compulsory to attend and will help ensure that you make steady progress through the month.
 
 ### Does my registration guarantee my participation in Build for Good?
 
