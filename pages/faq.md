@@ -35,3 +35,6 @@ No. We will be screening through the applications and shortlist 50 participants.
 ### What do I need to deliver by the end of Build for Good?
 
 All solutions need to have a demonstrated prototype that's backed up by user testing. You will be required to deliver a short pitch outlining the problem you identified and how your solution tackles it.
+
+### What happens after the finale?
+While only selected teams will be given funding after the finale, all teams will have full ownership of their projects and they can decide whether to continue working on them after the finale. You will also be given a digital certificate of participation after the finale.
