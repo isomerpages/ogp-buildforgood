@@ -10,7 +10,7 @@ While tech expertise and interest in tech are preferred, we welcome participants
 
 While builders are essential to Build for Good, we welcome you to contribute in different ways! If you have a problem statement to share and challenge our builders to work on them, you can submit them [here](/problems).
 
-If you are a member of an NGO or a social enterprise who would like to contribute problem statements or provide domain expertise in the issues that you are familiar, do get in touch with us at marketing@open.gov.sg.
+If you are a member of an NGO or a social enterprise who would like to contribute problem statements or provide domain expertise in the issues that you are familiar, do get in touch with us [here](/contact-us).
 
 ### Do I need a team to participate?
 
@@ -34,4 +34,4 @@ No. We will be screening through the applications and shortlist 50 participants.
 
 ### What do I need to deliver by the end of Build for Good?
 
-All solutions need to have demonstrated
+All solutions need to have a demonstrated prototype that's backed up by user testing. You will be required to deliver a short pitch outlining the problem you identified and how your solution tackles it.
