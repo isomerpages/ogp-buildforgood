@@ -24,7 +24,7 @@ Your solution should be a digital/physical product or service that addresses a c
 
 You will be required to demonstrate a prototype that's backed by user testing at the finale.
 
-If you need inspiration, you can check out some of the projects built at [Hack for Public Good](https://hack.gov.sg/2023-prototypes/armoury/).
+If you need inspiration, you can check out the products built at OGP's internal hackathon, [Hack for Public Good](https://hack.gov.sg/2023-prototypes/armoury/).
 
 ## **Event Timeline**
 Build for Good will run from 3 June to 1 July 2023, with a kickoff, a series of weekly sessions and a finale event. In between these sessions, builders are free to continue working on the solutions towards the finale. 
