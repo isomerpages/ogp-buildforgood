@@ -15,8 +15,7 @@ sections:
       background: /images/hero-banner.png
   - infobar:
       title: The Hackathon for a Better Singapore
-      description: "Get your hands dirty and build solutions to address pressing
-        issues in Singapore  "
+      description: "Build solutions to tackle problems faced by everyday Singaporeans. "
       button: about build for good
       url: /about
   - infopic:
