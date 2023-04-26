@@ -4,7 +4,7 @@ permalink: /faq/
 ---
 ### Can I sign up if I don’t have a tech background?
 
-While tech expertise and interest in tech are preferred, we welcome participants from all backgrounds to join us.
+While tech expertise and interest in tech are preferred, we welcome participants from all backgrounds to join us. 
 
 ### Must I join as a builder to contribute to Build for Good?
 
