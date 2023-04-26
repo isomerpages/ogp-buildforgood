@@ -3,7 +3,7 @@ title: About BFG
 permalink: /about/
 description: ""
 ---
-![](/images/hackathon%204%20jan%20%20(46).jpg)
+![](/images/p%20(165%20of%20243).jpg)
 ## **About Build for Good**
 
 Build for Good is a month-long hackathon organised by [Open Government Products](open.gov.sg) for citizens to build solutions that tackle public good problems in Singapore. Throughout the month, participating teams will pick a problem of their choice, identify solutions, build prototypes, and test them with users. They will be provided the necessary support through their journey — be it domain expert advice, mentorship, workshops, or resources.
