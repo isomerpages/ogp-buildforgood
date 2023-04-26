@@ -36,3 +36,5 @@ Do note that all sessions are on Saturdays, held in-person only with no virtual 
 *  **Weekly session - User testing:** 17 June 2023, 1-5pm
 *  **Weekly session - Iteration and Pitching:** 24 June 2023, 1-5pm
 *  **Finale:** 1 July 2023, 2-4pm
+
+**Refreshments will be provided*
