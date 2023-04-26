@@ -8,7 +8,7 @@ description: ""
 
 Build for Good is a month-long hackathon organised by [Open Government Products](open.gov.sg) for citizens to build solutions that tackle public good problems in Singapore. Throughout the month, participating teams will pick a problem of their choice, identify solutions, build prototypes, and test them with users. They will be provided the necessary support through their journey — be it domain expert advice, mentorship, workshops, or resources.
 
-At the end of the month, teams will present their solutions to government leaders and citizens at the finale, and selected projects will receive funding to carry on their projects. Teams will take ownership of their projects from start to end and decide whether to carry on their project beyond the finale. 
+At the end of the month, teams will present their solutions to government leaders and citizens at the finale, and selected projects will receive funding to carry on their projects. Teams will take ownership of their projects from start to end and decide whether to carry on their projects beyond the finale. 
 
 ## **Why was Build for Good started?**
 
