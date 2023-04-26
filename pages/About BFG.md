@@ -14,6 +14,4 @@ At the end of the month, teams will present their solutions to government leader
 
 We observed that when citizens encounter public good problems in their day-to-day lives, they often feel like they cannot address these problems, especially in areas traditionally seen as part of the government’s domain. Even though many Singaporeans have the skills, desire, and capacity to contribute to the public good, they may lack the support or resources to do so, which results in a lot of untapped potential.
 
-Through Build for Good, we hope to empower citizens with good ideas to lead the change in making Singapore better.
-
-We envision a Singapore where in 5 years, citizens feel emboldened to make Singapore better, and where there are various modalities for everyday Singaporeans to contribute to the public good.
+Through Build for Good, we hope to empower citizens with good ideas to lead the change in making Singapore better. We envision a Singapore where in 5 years, citizens feel emboldened to make Singapore better, and where there are various modalities for everyday Singaporeans to contribute to the public good.
