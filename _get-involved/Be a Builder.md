@@ -39,4 +39,4 @@ Do note that all sessions are on Saturdays, held in-person only, with no virtual
 
 **Refreshments will be provided*
 
-<a class="padding--top padding--bottom is-inline-block" target="_blank" href="https://go.gov.sg/buildforgood23"><button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">Sign up here!</button></a>
+<a class="padding--top padding--bottom is-inline-block" href="https://go.gov.sg/buildforgood23"><button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">Sign up here!</button></a>
