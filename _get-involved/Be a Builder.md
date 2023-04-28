@@ -38,3 +38,7 @@ Do note that all sessions are on Saturdays, held in-person only, with no virtual
 *  **Finale:** 1 July 2023, 2-4pm
 
 **Refreshments will be provided*
+
+```
+<button><a target="_blank" href="https://go.gov.sg/buildforgood23">Sign up here!</a></button>
+```
