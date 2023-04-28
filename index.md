@@ -1,32 +1,36 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Build for Good
+description: Build for Good is a one-month long hackathon for citizens to build
+  solutions to tackle public good problems in Singapore. Throughout the month,
+  participating teams will scope out problem statements, identify solutions,
+  build prototypes, and test them with users. At the end of the month, they will
+  present their solutions to government leaders, and selected teams will receive
+  funding to carry on their projects.
+image: /images/bfg logo final (black text).png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/hero-banner.png
+  - infobar:
+      title: The Hackathon for a Better Singapore
+      description: "Build solutions to tackle problems faced by everyday Singaporeans. "
+      button: about build for good
+      url: /about
+  - infopic:
+      title: Big or small, let’s get building
+      description: We will provide you with the necessary support you need — from
+        mentorship, workshops to funding. You just need to focus on solving the
+        problem at hand.
+      button: Be a builder
+      url: /builder
+      alt: Image alt text
+  - infopic:
+      title: Share with us a problem
+      description: Identified a problem in Singapore that has the potential to be
+        solved? Share them with us and our builders!
+      button: Tell us more
+      url: /submit-problems
+      alt: Image alt text
 ---
-

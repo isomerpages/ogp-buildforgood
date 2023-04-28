@@ -1,15 +1,10 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/bfg logo final (black text).png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About
+    url: /about
+  - title: Get Involved
+    collection: get-involved
+  - title: FAQ
+    url: /faq
+  - title: Contact
+    url: /contact/
