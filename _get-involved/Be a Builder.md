@@ -4,11 +4,11 @@ permalink: /builder/
 description: ""
 ---
 ## **What's in it for You**
-💰 **Funding** - Bring your projects to the next level with cash funding up to S$10,000
+💰 **Support** - Bring your projects to the next level with mentoring and sponsorship
 
-👁 **Visibility** - Present your solutions to government leaders and citizens, and shine a light on issues which you're passionate about
+👁 **Visibility** - Present your solutions to government leaders and citizens, and shine a light on issues you're passionate about
 
-👤 **Mentorship** - Refine your solution with the guidance of mentors and domain experts
+👤 **Impact** - Solve problems on the ground with beneficiaries and NGOs
 
 ✍️ **Workshops** - Upskill yourself through curated engineering, design, and product workshops 
 
@@ -40,3 +40,5 @@ Do note that all sessions are on Saturdays, held in-person only, with no virtual
 **Refreshments will be provided*
 
 <a class="padding--top padding--bottom is-inline-block" href="https://go.gov.sg/buildforgood23"><button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">Sign up here!</button></a>
+
+**Sign up Deadline: 15 May 2023**
