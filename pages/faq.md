@@ -43,7 +43,7 @@ The 3 weekly sessions on 10, 17 and 24 June aim to provide updates on the teams'
 
 ### Does my registration guarantee my participation in Build for Good?
 
-No. We will be screening through the applications and shortlist 50 participants. This is to ensure that the opportunity is given to people who have the ability to commit and the drive to do public good.
+No. We will be screening through the applications and shortlist up 50 participants. This is to ensure that the opportunity is given to people who have the ability to commit and the drive to do public good.
 
 ### What do I need to deliver by the end of Build for Good?
 
