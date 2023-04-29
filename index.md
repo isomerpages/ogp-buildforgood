@@ -27,5 +27,5 @@ sections:
       button: Tell us more
       url: /submit-problems
       alt: Image alt text
-      image: /images/problemv2.png
+      image: /images/problemv3.png
 ---
