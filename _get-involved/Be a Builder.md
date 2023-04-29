@@ -4,13 +4,13 @@ permalink: /builder/
 description: ""
 ---
 ## **What's in it for You**
-💰 **Support** - Bring your projects to the next level with mentoring and sponsorship
+👤 **Make an impact** - Solve problems on the ground with beneficiaries and NGOs
 
-👁 **Visibility** - Present your solutions to government leaders and citizens, and shine a light on issues you're passionate about
+💰 **Realise your solutions** - Bring your projects to the next level with resources, mentorship and sponsorship
 
-👤 **Impact** - Solve problems on the ground with beneficiaries and NGOs
+👁 **Push for change** - Present your solutions to government leaders and citizens, and shine a light on issues you're passionate about
 
-✍️ **Workshops** - Upskill yourself through curated engineering, design, and product workshops 
+✍️ **Learning Opportunity** - Upskill yourself through curated engineering, design, and product workshops 
 
 ## **Who Can Be a Builder?**
 Whether you are a student or a working professional, you are welcome to join us as long as you are **aged 18 and above with a strong desire to make Singapore better**!
