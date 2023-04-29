@@ -14,21 +14,18 @@ sections:
   - hero:
       background: /images/hero banner.png
   - infobar:
-      title: The Hackathon for a Better Singapore
-      description: "Build solutions to tackle problems faced by everyday Singaporeans. "
+      title: a hackathon for a better Singapore
       button: about build for good
       url: /about
   - infopic:
-      title: Big or small, let’s get building
-      description: We will provide you with the necessary support you need — from
-        mentorship, workshops to funding. You just need to focus on solving the
-        problem at hand.
+      title: Be a builder of a better Singapore
+      description: Build solutions to tackle problems faced by everyday Singaporeans.
       button: Be a builder
       url: /builder
       alt: Image alt text
   - infopic:
       title: Share with us a problem
-      description: Identified a problem in Singapore that has the potential to be
+      description: Identified problems in Singapore that has the potential to be
         solved? Share them with us and our builders!
       button: Tell us more
       url: /submit-problems
