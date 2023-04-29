@@ -23,6 +23,7 @@ sections:
       button: Be a builder
       url: /builder
       alt: Image alt text
+      image: /images/big or small.png
   - infopic:
       title: Share with us a problem
       description: Identified problems in Singapore that has the potential to be
@@ -30,4 +31,5 @@ sections:
       button: Tell us more
       url: /submit-problems
       alt: Image alt text
+      image: /images/share with us.png
 ---
