@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Build for Good
-description: Build for Good is a one-month long hackathon for citizens to build
+description: Build for Good is a month-long hackathon for citizens to build
   solutions to tackle public good problems in Singapore. Throughout the month,
   participating teams will scope out problem statements, identify solutions,
   build prototypes, and test them with users. At the end of the month, they will
