@@ -15,7 +15,7 @@ Here are some problem statement examples:
 
 * Singapore generated 1.82 million tonnes of domestic waste in 2021, and is stuck in a ‘buy-throw’ rather than ‘donate-reuse’ cycle. This is partly due to high coordination overheads to donate/source good quality items.
 
-Should our builders express interest in your problem statement submission, we will contact you to find out more and collaborate on the issue you've raised. 
+Use your voice to share a problem statement and raise awareness about an issue faced in Singapore. Should our builders express interest in your problem statement submission, we will contact you to find out more and collaborate on the issue you've raised. 
 
 <a href="https://go.gov.sg/buildforgood-ps">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
