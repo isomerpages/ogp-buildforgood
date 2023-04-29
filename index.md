@@ -12,7 +12,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/hero banner.png
   - infobar:
       title: The Hackathon for a Better Singapore
       description: "Build solutions to tackle problems faced by everyday Singaporeans. "
