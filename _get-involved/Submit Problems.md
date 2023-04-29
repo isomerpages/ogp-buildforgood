@@ -3,10 +3,11 @@ title: Submit Problems
 permalink: /submit-problems/
 description: ""
 ---
-### **Face a problem that you feel strongly about? Share them with us and our builders!**
-This can be any problem that you believe Singapore and its residents are facing. Example of problem domains include education, environment, housing, public health, and wellbeing. You are free to explore any other domain which you feel strongly about (or get some inspirations&nbsp;[here](https://newnaratif.com/the-23-most-important-issues-facing-singapore-in-2022/)).
+### **Notice a problem in Singapore that you feel strongly about? Share with us!**
 
-While defining your problem statement, try to be concrete in defining the who, why, what, where, when and how (5W1H) of the problem. You should also consider the scale of impact of your problem.
+This can be any problem that you believe Singapore and its residents are facing. Example of problem domains include education, environment, housing, public health, and wellbeing. You are free to explore any other domain which you feel strongly about (or get some inspirations&nbsp;[here](https://hack.gov.sg)).
+
+When defining your problem statement, try to be concrete in defining the who, why, what, where, when and how (5W1H) of the problem. You should also consider the scale of impact of your problem.
 
 Here are some example of problem statements which came up at OGP's internal hackathon, [Hack for Public Good](https://hack.gov.sg/2023-prototypes/armoury/):
 * Patients are forced to be present to register and queue at GPs/PHIs. Clinics are having trouble manually managing walk-ins &amp; appointments every day.
