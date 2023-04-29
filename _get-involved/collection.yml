@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Be a Builder.md
-      - Submit Problems.md
+      - Share a problem statement.md
