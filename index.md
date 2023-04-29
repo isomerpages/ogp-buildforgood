@@ -13,10 +13,6 @@ notification: ""
 sections:
   - hero:
       background: /images/hero banner.png
-  - infobar:
-      title: a hackathon for a better Singapore
-      button: about build for good
-      url: /about
   - infopic:
       title: Be a builder of a better Singapore
       description: Build solutions to tackle problems faced by everyday Singaporeans.
