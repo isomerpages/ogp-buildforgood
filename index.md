@@ -15,7 +15,8 @@ sections:
       background: /images/hero banner.png
   - infopic:
       title: Be a builder of a better Singapore
-      description: Build solutions to tackle problems faced by everyday Singaporeans.
+      description: Join us to build solutions that tackle problems faced by everyday
+        Singaporeans.
       button: Be a builder
       url: /builder
       alt: Image alt text
