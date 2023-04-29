@@ -19,7 +19,7 @@ sections:
       button: Be a builder
       url: /builder
       alt: Image alt text
-      image: /images/big or small v3.png
+      image: /images/buildv2.png
   - infopic:
       title: Share with us a problem
       description: Identified problems in Singapore that has the potential to be
