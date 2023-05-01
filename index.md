@@ -15,17 +15,16 @@ sections:
       background: /images/hero banner.png
   - infopic:
       title: Be a builder of a better Singapore
-      description: Join us to build solutions that tackle problems faced by everyday
-        Singaporeans.
+      description: Join our month-long hackathon to build solutions that tackle
+        problems faced by everyday Singaporeans.
       button: Be a builder
       url: /builder
       alt: Image alt text
       image: /images/buildv5.png
   - infopic:
-      title: Share with us a problem
-      description: Identified problems in Singapore that has the potential to be
-        solved? Share them with us and our builders!
-      button: Tell us more
+      title: Tell us how Singapore can be better
+      description: How do you think Singapore can be better? Share with us!
+      button: Submit problem statements
       url: /submit-problems
       alt: Image alt text
       image: /images/problemv5.png

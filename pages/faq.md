@@ -43,13 +43,13 @@ The 3 weekly sessions on 10, 17 and 24 June aim to provide updates on the teams'
 
 ### Does my registration guarantee my participation in Build for Good?
 
-After registration, we will be screening through the applications and shortlist up 50 participants. This is to ensure that the opportunity is given to people who have the ability to commit and the drive to do public good. We will only confirm your participation via email after signups close on 15 May 2023.
+After registration, we will be screening through the applications and shortlist participants. This is to ensure that the opportunity is given to people who have the ability to commit and the drive to do public good. We will only confirm your participation via email after signups close on 15 May 2023.
 
 ### What do I need to deliver by the end of Build for Good?
 
 All solutions need to have a demonstrated prototype that's validated through user testing. You will be required to deliver an in-person pitch outlining the problem you identified and how your solution tackles it. All pitches will be presented to a judging panel comprising of government leaders and industry experts, and 3 winning teams will be awarded sponsorship of up to $10,000 each.
 
 ### What happens after the finale?
-All teams will continue to have full ownership after finale. Winning teams will receive sponsorship to continue developing prototypes into full-fledged products. 
+All teams will continue to have full ownership of their prototypes after finale. Winning teams will receive sponsorship to continue developing prototypes into full-fledged products. 
 
 All builders will also be given a digital certificate of participation after the finale.
