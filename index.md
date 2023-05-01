@@ -22,10 +22,10 @@ sections:
       alt: Image alt text
       image: /images/buildv5.png
   - infopic:
-      title: Share with us a problem
-      description: How do you think Singapore could be better? Share them with us and
+      title: Tell us how Singapore can be better
+      description: How do you think Singapore can be better? Share them with us and
         our builders!
-      button: Tell us more
+      button: Submit problem statements
       url: /submit-problems
       alt: Image alt text
       image: /images/problemv5.png
