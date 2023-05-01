@@ -15,12 +15,12 @@ description: ""
 ### **Who can be a builder?**
 Whether you are a student or a working professional, you are welcome to join us as long as you are **aged 18 and above with a strong desire to make Singapore better**!
 
-You may sign up as a team of 2-5 or as an individual. You will be grouped with other participants if you choose to sign up individually.
+You may sign up as a team or as an individual. During the hackathon, all builders will require to network with one another and form teams of 2 to 5. You may indicate in the signup form if you will find your own team mates or you would like us to match potential team mates for you.
 
 Having tech expertise is preferred but not necessary. It's recommended to ensure that your team consists of members with the skills required to build the solution. But not to worry, we have engineering, design, and product workshops to help you along the way!
 
 ### **What kind of solutions can I come up with?**
-Your solution should be a digital/physical product or service that addresses a chosen public good problem, and it should not be for the purpose of generating profit. 
+Your solution should be a digital/physical product or service that addresses a chosen problem that people are facing in Singapore, and it should not be for the purpose of generating profit. 
 
 You will be required to demonstrate a prototype that's backed by user testing at the finale.
 
