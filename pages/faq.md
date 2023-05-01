@@ -8,7 +8,7 @@ While tech expertise and interest in tech are preferred, we welcome participants
 
 ### Can I participate if I’m not in Singapore?
 
-We strongly encourage you to be in Singapore to participate in our in-5 person sessions held on 3 June, 10 June, 17 June, 24 June and 1 July. Beyond that, you may find a suitable arrangement with your team so that you can contribute meaningfully during the course of the hackathon.
+We strongly encourage you to be in Singapore to participate in our 5 in-person sessions held on 3 June, 10 June, 17 June, 24 June and 1 July. Beyond that, you may find a suitable arrangement with your team so that you can contribute meaningfully during the course of the hackathon.
 
 ### Can I participate if I’m working or schooling?
 
