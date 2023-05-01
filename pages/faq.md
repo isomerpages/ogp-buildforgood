@@ -24,7 +24,9 @@ While builders are essential to Build for Good, we welcome you to contribute in 
 
 ### Do I need a team to participate?
 
-We encourage you to sign up in teams. However, if you don’t have a team, you can indicate in the sign up form and we will group you with others who don’t have a team too.
+You may sign up as an individual or as a team. However, during the course of the hackathon, we will require all builders to network with one another and form teams of 2 to 5. 
+
+If you are signing up as an individual, you may indicate in the form if you are finding your own team mates, or if you would like us to match potential team mates for you.
 
 
 ### What’s the commitment level like?
