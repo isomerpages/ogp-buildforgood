@@ -8,7 +8,7 @@ description: ""
 
 * **Realise your solutions** - Bring your projects to the next level with mentorship and sponsorship
 
-* **Push for change** - Present your solutions to government leaders and citizens, and shine a light on issues you're passionate about
+* **Push for change** - Present your solutions to government leaders and industry experts, and shine a light on issues you're passionate about
 
 *  **Learn and grow** - Upskill yourself through curated engineering, design, and product workshops 
 
