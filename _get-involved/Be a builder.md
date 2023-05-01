@@ -3,14 +3,14 @@ title: Be a builder
 permalink: /builder/
 description: ""
 ---
-### **What's in it for you**
-👤 **Make an impact** - Solve problems on the ground with beneficiaries and NGOs
+### **Why you should be a builder**
+* **Make an impact** - Solve problems on the ground with beneficiaries and NGOs
 
-💰 **Realise your solutions** - Bring your projects to the next level with mentorship and sponsorship
+* **Realise your solutions** - Bring your projects to the next level with mentorship and sponsorship
 
-👁 **Push for change** - Present your solutions to government leaders and citizens, and shine a light on issues you're passionate about
+* **Push for change** - Present your solutions to government leaders and citizens, and shine a light on issues you're passionate about
 
-✍️ **Learn and grow** - Upskill yourself through curated engineering, design, and product workshops 
+*  **Learn and grow** - Upskill yourself through curated engineering, design, and product workshops 
 
 ### **Who can be a builder?**
 Whether you are a student or a working professional, you are welcome to join us as long as you are **aged 18 and above with a strong desire to make Singapore better**!
