@@ -50,6 +50,6 @@ After registration, we will be screening through the applications and shortlist 
 All solutions need to have a demonstrated prototype that's validated through user testing. You will be required to deliver an in-person pitch outlining the problem you identified and how your solution tackles it. All pitches will be presented to a judging panel comprising of government leaders and industry experts, and 3 winning teams will be awarded sponsorship of up to $10,000 each.
 
 ### What happens after the finale?
-All teams will continue to have full ownership after finale. Winning teams will receive sponsorship to continue developing prototypes into full-fledged products. 
+All teams will continue to have full ownership of their prototypes after finale. Winning teams will receive sponsorship to continue developing prototypes into full-fledged products. 
 
 All builders will also be given a digital certificate of participation after the finale.
