@@ -23,8 +23,7 @@ sections:
       image: /images/buildv5.png
   - infopic:
       title: Tell us how Singapore can be better
-      description: How do you think Singapore can be better? Share them with us and
-        our builders!
+      description: How do you think Singapore can be better? Share them with us!
       button: Submit problem statements
       url: /submit-problems
       alt: Image alt text
