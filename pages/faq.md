@@ -33,11 +33,11 @@ If you are signing up as an individual, you may indicate in the form if you are 
 
 During the month-long hackathon from 3 June to 1 July 2023, there will be in-person sessions held every Saturday:
 
-* Builders' Kickoff - 3 June
-* Weekly session: Prototyping - 10 June
-* Weekly session: User testing - 17 June
-* Weekly session: Iterating & Pitching - 24 June
-* Finale - 1 July
+*  **Builders’ Kickoff:** 3 June
+*  **Weekly session - Prototyping:** 10 June
+*  **Weekly session - User testing:** 17 June
+*  **Weekly session - Iteration and Pitching:** 24 June
+*  **Finale:** 1 July
 
 The 3 weekly sessions on 10, 17 and 24 June aim to provide updates on the teams' progress, attend workshops or talks, and receive mentoring. These in-person sessions are compulsory to attend and will ensure that you make steady progress towards the finale.
 
