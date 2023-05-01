@@ -3,7 +3,7 @@ title: Share problem statements
 permalink: /submit-problems/
 description: ""
 ---
-### **Notice a problem in Singapore that you feel strongly about? Share with us!**
+### **Share with us a problem faced in Singapore**
 
 Whether you're an individual or representing a non-profit, tell us more about any problem that you believe Singapore is facing. By sharing these problem statements, our builders will have the opportunity to tackle some of these problems during Build for Good and work towards a better Singapore.
 
