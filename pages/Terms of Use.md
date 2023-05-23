@@ -4,7 +4,6 @@ permalink: /terms-of-use/
 description: ""
 ---
 ## Build for Good Terms and Conditions
-## 
 
 These are the terms and conditions (“Terms and Conditions”) governing participation in Build for Good, which is organised by the Government Technology Agency (“GovTech”). The objective of the Competition (defined below) is to empower citizens to build solutions to tackle problems faced by everyday Singaporeans.
 
