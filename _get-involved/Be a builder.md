@@ -39,6 +39,4 @@ Do note that all sessions are on Saturdays and held in-person only so as to maxi
 
 **Refreshments will be provided*
 
-<a class="padding--top padding--bottom is-inline-block" href="https://go.gov.sg/buildforgood23"><button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">Sign up here!</button></a>
-
-**Sign up Deadline: 15 May 2023**
+**Registration is now closed (deadline: 15 May 2023).**
