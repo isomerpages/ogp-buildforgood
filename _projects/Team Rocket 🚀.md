@@ -5,6 +5,7 @@ description: ""
 ---
 ### About the team
 
+![](/images/team%20rocket.jpeg)
 
 We are Team Rocket. The universe has brought together 4 alumni from Rocket Academy's software engineering bootcamp and an astronaut-level software engineer, all fueled by the desire to build and ship great products. We are super stoked to launch into our problem space and orbit around users!
 
