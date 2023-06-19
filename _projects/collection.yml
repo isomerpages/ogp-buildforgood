@@ -2,6 +2,7 @@ collections:
   projects:
     output: true
     order:
+      - Pivot Pals 🙋🏼.md
       - Closed Anarchy Products.md
       - Ahma Power!.md
       - Smart Cart.md
