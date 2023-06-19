@@ -7,7 +7,7 @@ description: ""
 
 ![](/images/closed%20anarchy%20products%20large.jpeg)
 
-Hi, we are Closed Anarchy Products! We hope to bridge the gap by providing an online platform where users can connect with others who share a similar experience and receive support from an AI chatbox that act as a therapist 24/7, anytime and anywhere
+Hi, we are Closed Anarchy Products! We hope to bridge the gap by providing an online platform where users can connect with others who share a similar experience and receive support from an AI chatbox that acts as a therapist 24/7, anytime and anywhere
 
  
 ### Problem Statement
