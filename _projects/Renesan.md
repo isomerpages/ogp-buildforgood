@@ -20,7 +20,6 @@ Results from our user survey validate these figures - 65.3% of respondents recyc
 
 ### Proposed Solution
 
-  
 1. An item search/scanner that informs users about the recyclability of an item, provides instructions on how to prepare it for recycling and includes a "Find nearest recycling bin" call-to-action button that leads to the bin locator feature.
 
 2. The recycling bin locator allows users to select the specific item they want to recycle, generating a list of the nearest bins that accept that item. The list is organized based on proximity to the user, accompanied by distance indicators (e.g., 50m) for easy reference.
