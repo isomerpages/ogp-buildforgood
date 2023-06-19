@@ -7,7 +7,12 @@ description: ""
 
 ![](/images/ahma%20power.jpg)
 
-Hi everyone! We are team Ahma Power! Since we are working on helping the elderly get jobs, here is a little fun fact about our ideal retirement job.
+Hi everyone! We are team Ahma Power! Since we are working on helping the elderly get jobs, here is a little fun fact about our ideal retirement job:
+* Nurbaya - Cat lady from Puss In Boots 2 
+* Jia Yee - Bus Driver 
+* Hakim - Tour guide 
+* Thor - I'll be running a hostel in Taiwan, with loads of good food, cycling, surfing and all that fun stuff 😆 
+* Leila - Be a food critic! Just go around sampling good food
 
   
 
