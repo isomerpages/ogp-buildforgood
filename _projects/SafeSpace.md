@@ -7,11 +7,11 @@ description: ""
 
 ![](/images/safe%20space.jpeg)
 
-Hi there! We are Team SafeSpace, a group of SMU students who are passionate about using technology to build products/software solutions that provide meaning, benefits and a positive impact on its users.
+Hi there! We are Team SafeSpace, a group of SMU students passionate about using technology to build products/software solutions that provide meaning, are beneficial, and ultimately have a positive impact on its users.
 
 ### Problem Statement
 
-There is a great amount of friction when youths try to seek mental health assistance, due to being bombarded by copious amounts of information online when searching for help.
+A significant amount of friction when youths seek mental health help. Due to being bombarded by copious amounts of information online when searching for resources.
 
 ### Proposed Solution
 
