@@ -2,16 +2,16 @@ collections:
   projects:
     output: true
     order:
-      - NoteFlow.md
+      - Ahma Power!.md
+      - Closed Anarchy Products.md
       - MediClear.md
-      - ScanShield.md
-      - Team MS.md
+      - NoteFlow.md
+      - Palette Pals.md
+      - Pivot Pals.md
+      - Renesan.md
       - SafeSpace.md
       - Scam or Not.md
-      - Renesan.md
-      - Pivot Pals.md
-      - Closed Anarchy Products.md
-      - Ahma Power!.md
+      - ScanShield.md
       - Smart Cart.md
       - SustainaBite.md
-      - Palette Pals.md
+      - Team MS.md
