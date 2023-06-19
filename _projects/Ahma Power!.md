@@ -5,6 +5,8 @@ description: ""
 ---
 ### About the team
 
+![](/images/ahma%20power.jpg)
+
 Hi everyone! We are team Ahma Power! Since we are working on helping the elderly get jobs, here is a little fun fact about our ideal retirement job.
 
   
