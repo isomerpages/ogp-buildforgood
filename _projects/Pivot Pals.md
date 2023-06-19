@@ -13,7 +13,7 @@ Adulting is tough but career switching is so much tougher!
 
 活到老，学到老。(One is never too old to learn)
 
-Most of the team consists career-switchers and job-seekers. We resonate very much with the mental fatigue experienced during transitions. Hence, we would like to provide our fellow career switchers with a safe platform to share, be it small wins or woes, and connect to support each other.
+Most of the team consists of career-switchers and job-seekers. We resonate very much with the mental fatigue experienced during transitions. Hence, we would like to provide our fellow career switchers with a safe platform to share, whether small wins or woes and connect to support each other.
 
   
 
@@ -26,4 +26,4 @@ While there are plenty of avenues to seek structured career advice and feedback,
 
 ### Proposed Solution
 
-Our vision is to let all career-switchers know that they are not alone, and there will be people supporting them in their pursuits throughout this fun yet arduous journey. We want to do this by building a community to connect career-switchers, to support each other throughout the entire process.
+Our vision is to let all career-switchers know that they are not alone and people will support them in their pursuits throughout this fun yet arduous journey. We want to do this by building a community that connects people interested in switching careers and receiving the support they need during this process.
