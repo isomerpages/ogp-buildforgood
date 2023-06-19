@@ -5,7 +5,7 @@ description: ""
 ---
 ### About the team
 
-![](/images/safe%20space.jpeg)
+![](/images/safespace2.jpg)
 
 Hi there! We are Team SafeSpace, a group of SMU students passionate about using technology to build products/software solutions that provide meaning, are beneficial, and ultimately have a positive impact on its users.
 
