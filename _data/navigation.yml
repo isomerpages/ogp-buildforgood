@@ -2,6 +2,8 @@ logo: /images/bfg logo final (black text).png
 links:
   - title: About
     url: /about/
+  - title: Projects
+    collection: projects
   - title: Get Involved
     collection: get-involved
   - title: FAQ
