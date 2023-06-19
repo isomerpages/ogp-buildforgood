@@ -13,12 +13,11 @@ Hi everyone! We are team Ahma Power! Since we are working on helping the elderly
 
 ### Problem Statement
 
-The elderly in Singapore face several hurdles while searching for a job.  Firstly, job portals are difficult to navigate. Job portals require a certain level of technical savviness to navigate through. 
+Senior citizens in Singapore face several hurdles while searching for a job. Firstly, job portals are hard to navigate. Job portals require a certain level of technical savviness to navigate through. 
 
-Next, even creating an account on the job portals pose as a major hurdle. The elderly sometimes either do not have emails. The ones that do, might not remember their password.
+Next, even creating an account on the job portals poses a significant hurdle. They sometimes either do not have emails. The ones that do might not remember their password.
 
-Lastly, they might not have a resume or even have the knowledge on how to craft an effective resume. These factors creates hurdles upon hurdles for the elderly to even apply for a job. How can we make it easier for the elderly to apply for a job?
-
+Lastly, they might not have a resume or know how to craft an effective one. These factors create hurdles upon hurdles for the aged to apply for jobs. How can we make it easier for them to apply for jobs?
   
 
 ### Proposed Solution
