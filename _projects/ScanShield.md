@@ -12,10 +12,10 @@ We are a team of software engineers and UI/UX designers dedicated to improving s
 
 ### Problem Statement
 
-Protect citizens against QR Code Phishing and Malware Scams. Scams are a severe issue contributing to at least 700M in annual economic losses as of 2022.
+Our team hopes to protect citizens against QR Code Phishing and Malware Scams. Scams are a severe issue contributing to at least $700M in annual economic losses as of 2022.
 
 Preventing scams is crucial for protecting individuals from financial and emotional harm, safeguarding personal information, preserving trust in institutions, ensuring economic stability, enhancing cybersecurity, complying with legal regulations, and minimizing the psychological impact on victims.
 
 ### Proposed Solution
 
-To create digital signatures for public-facing QR codes where we control the QR code scanner app (prevents any hijacking). It allows a closed-loop solution that prevents QR codes from being hijacked and gives consumers the confidence to scan.
+To create digital signatures for public-facing QR codes where we control the QR code scanner app (prevents any hijacking). This allows a closed-loop solution that prevents QR codes from being hijacked and gives consumers the confidence to scan.
