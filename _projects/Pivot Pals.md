@@ -21,7 +21,7 @@ Most of the team consists of career-switchers and job-seekers. We resonate very 
 
 Uncertainty and self-doubt are consistent emotions that career-switchers experience, with little avenues and safe outlets for sharing the struggle. 
 
-While there are plenty of avenues to seek structured career advice and feedback, one such service is WorkforceSG, the balance of building a supportive and constructive work culture is non-trivial - the limitations surrounding, firstly helping others succeed and secondly, doing so appropriately in the corporate environment through personal sharing, is a seemingly tall order to stay within boundaries in relationships.
+While there are plenty of avenues to seek structured career advice and feedback, the balance of building a supportive and constructive work culture is non-trivial. The limitations surrounding, firstly helping others succeed and secondly, doing so appropriately in the corporate environment through personal sharing, is a seemingly tall order to stay within boundaries in relationships.
 
 
 ### Proposed Solution
