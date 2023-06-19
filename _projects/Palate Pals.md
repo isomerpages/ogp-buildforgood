@@ -4,6 +4,6 @@ permalink: /projects/palatepals/
 description: ""
 ---
 ### About the team
-dkkk
+Cooasvsdibsdlbv
 
 ### Problem Statement
