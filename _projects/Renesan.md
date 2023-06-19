@@ -13,9 +13,9 @@ Our team is made up of students from NUS, coming from a variety of different maj
 
 ### Problem Statement
 
-Singaporeans who already practice recycling want a convenient way to check if an item is recyclable and where they can recycle items. NEA figures show that over half of Singaporeans engage in recycling practices regularly but they lack exhaustive knowledge of what can be recycled or how to dispose of the recyclables properly.
+Singaporeans who already practice recycling want a convenient way to check if an item is recyclable and where they can recyclables. NEA figures show that over half of Singaporeans engage in recycling practices but lack exhaustive knowledge of what can be recycled or how to dispose of the recyclables properly.
 
-Results from our user survey validates these figures - 65.3% of respondents recycle regularly/occasionally. When asked why they recycle, 83.7% indicated for environmental impact. Our survey also helped us identify 2 main pain points Singaporeans encounter when recycling: they find it hard to locate recycling bins while on-the-go and are unsure of what can be recycled.
+Results from our user survey validate these figures - 65.3% of respondents recycle regularly/occasionally. When asked why they recycle, 83.7% indicated environmental impact. Our survey also helped us identify two main pain points Singaporeans encounter when recycling: they find it hard to locate recycling bins while on the go and are unsure of what can be recycled.
   
 
 ### Proposed Solution
