@@ -2,6 +2,7 @@ collections:
   projects:
     output: true
     order:
+      - NoteFlow.md
       - MediClear.md
       - ScanShield.md
       - Team MS.md
