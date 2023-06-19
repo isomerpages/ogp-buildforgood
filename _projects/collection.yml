@@ -2,5 +2,6 @@ collections:
   projects:
     output: true
     order:
+      - Smart Cart.md
       - SustainaBite.md
       - Palate Pals.md
