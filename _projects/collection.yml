@@ -2,6 +2,7 @@ collections:
   projects:
     output: true
     order:
+      - Ahma Power!.md
       - Smart Cart.md
       - SustainaBite.md
       - Palate Pals.md
