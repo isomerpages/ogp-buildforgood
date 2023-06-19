@@ -5,7 +5,7 @@ description: ""
 ---
 ### About the team
 
-
+![](/images/msteam.jpeg)
 
 We are team MS (Hanh, Wen Yu and Catherine). We were ex-colleagues in a company called guess what, MS. We really enjoyed working with each other last time (well, most of the time). So apart from contributing ideas for public good, we came to BFG to relive the good old days.
 
