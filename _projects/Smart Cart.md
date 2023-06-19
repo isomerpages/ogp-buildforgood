@@ -4,6 +4,8 @@ permalink: /projects/smartcart/
 description: ""
 ---
 ### About the team
+![](/images/smartcart.jpeg)
+
 Welcome to SmartCart, where we're on a mission to combat the edible enemy of food waste using the power of technology. 
 
 We're a group of innovative minds dedicated to cooking up tech magic that addresses this pressing issue. With our cutting-edge solutions, we aim to revolutionize how we shop, cook, and reduce food waste. 
