@@ -3,7 +3,6 @@ title: Pivot Pals 🙋🏼
 permalink: /projects/pivotpals/
 description: ""
 ---
-![](/images/palate%20pals.jpg)
 ### About the team
 
 Pivot Pals are here to help our fellow career-switchers, to transform what seems like a frustrating journey to one of joy and self-discovery.
