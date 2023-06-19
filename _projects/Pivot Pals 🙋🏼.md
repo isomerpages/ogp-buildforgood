@@ -5,6 +5,8 @@ description: ""
 ---
 ### About the team
 
+![](/images/pivot%20pals.jpeg)
+
 Pivot Pals are here to help our fellow career-switchers, to transform what seems like a frustrating journey to one of joy and self-discovery.
 
 Adulting is tough but career switching is so much tougher!
