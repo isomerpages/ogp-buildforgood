@@ -7,7 +7,7 @@ description: ""
 
 ![](/images/noteflow.jpeg)
 
-Our team members come from diverse backgrounds, bringing a wide range of expertise and perspectives to the table.
+We are team Noteflow! Our team members come from diverse backgrounds, bringing a wide range of expertise and perspectives to the table.
 
 We understand the time constraints faced by counsellors, and we're determined to enhance their ability to provide high-quality care to students.
 
