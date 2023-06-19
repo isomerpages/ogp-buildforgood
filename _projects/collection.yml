@@ -2,6 +2,7 @@ collections:
   projects:
     output: true
     order:
+      - Renesan.md
       - Pivot Pals 🙋🏼.md
       - Closed Anarchy Products.md
       - Ahma Power!.md
