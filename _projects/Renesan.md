@@ -5,6 +5,8 @@ description: ""
 ---
 ### About the team
 
+![](/images/renesan%20large.jpeg)
+
 Our team is made up of students from NUS, coming from a variety of different majors and backgrounds.
 
   
