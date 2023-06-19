@@ -2,6 +2,7 @@ collections:
   projects:
     output: true
     order:
+      - SafeSpace.md
       - Team Rocket 🚀.md
       - Renesan.md
       - Pivot Pals 🙋🏼.md
