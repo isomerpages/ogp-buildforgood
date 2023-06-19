@@ -11,7 +11,7 @@ Hi there! We are Team SafeSpace, a group of SMU students passionate about using 
 
 ### Problem Statement
 
-There is a significant amount of friction for youths seeking mental health support as they are bombarded by copious amounts of information online when searching for resources.
+There is a significant amount of friction for youths seeking mental health support as they are bombarded by copious amounts of information when searching for resources online.
 
 ### Proposed Solution
 
