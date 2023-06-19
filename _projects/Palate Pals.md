@@ -4,6 +4,7 @@ permalink: /projects/palatepals/
 description: ""
 ---
 ### About the team
+
 Hello everyone, we are Palette Pals! We are a team of five passionate individuals focused on fostering community culture and promoting mental health for students in Singapore, combining our light-hearted approach with innovative solutions to create a lasting impact.
 
 
