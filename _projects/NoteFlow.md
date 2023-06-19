@@ -20,5 +20,3 @@ School counselors often have busy schedules, handling various responsibilities, 
 Our team is developing NoteFlow to help busy school counsellors write comprehensive case notes quicker using a combination of real-time transcription, efficient note synthesis, and responsive querying. 
 
 With NoteFlow, counsellors can bid farewell to lengthy note-taking sessions and say hello to comprehensive case notes in a fraction of the time. Leveraging AI, our platform streamlines the documentation process, allowing counsellors to focus more on what truly matters— the wellness of their students.
-
-
