@@ -7,7 +7,7 @@ description: ""
 
 ![](/images/mediclear%20large.jpeg)
 
-Hi we are Team mediclear. Our team was brought together by a common friend and we are here to solve the problem of complicated health reports that are difficult for patients to understand. One fun fact (or not so fun for us) about us is that after our first group meeting, most of us came down with covid one week later.
+We are team Mediclear! Our team was brought together by a common friend to solve the problem of complicated health reports that are difficult for patients to understand. One fun fact (or not so fun for us) about us is that after our first group meeting, most of us came down with Covid one week later.
 
 ### Problem Statement
 
@@ -15,4 +15,4 @@ Many people struggle to understand their health records and test results, making
 
 ### Proposed Solution
 
-A standalone web application that allows users to upload their reports/results (image or pdf) and it will generate a simplified version of their medical results using Large Language Models (LLM). Patients data will not be stored, and it'll help patients better understand their health reports and test results.
+A standalone web application that allows users to upload their reports/results (image or pdf) and generate a simplified version of their medical results using Large Language Models (LLM). Patients data will not be stored, and it'll help patients better understand their health reports and test results.
