@@ -4,6 +4,7 @@ permalink: /projects/sustainabite/
 description: ""
 ---
 ### About the team
+![](/images/ahma%20power.jpg)
 
 Hi there! We’re Team SustainaBite, a dynamic group of problem solvers determined to address the critical issue of food waste in Singapore. 
 
