@@ -2,6 +2,7 @@ collections:
   projects:
     output: true
     order:
+      - Team MS.md
       - SafeSpace.md
       - Team Rocket 🚀.md
       - Renesan.md
