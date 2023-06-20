@@ -13,7 +13,7 @@ We are Team Rocket. The universe has brought together four alumni from Rocket Ac
 
 ### Problem Statement
 
-Scammers are constantly creating new ways to make their scams look legit. Even young and digitally savvy people are susceptible: those aged 20-39 are the biggest victims. Scams cost us $661 million in 2022 and are terrible for Singapore economically and catastrophic for the victims.
+Scammers are constantly creating new ways to make their scams look legit. Even young and digitally savvy people are susceptible: those aged 20-39 years old are the biggest victims. Scams cost us $661 million in 2022 and are terrible for Singapore economically and catastrophic for the victims.
 
 ### Proposed Solution
 
