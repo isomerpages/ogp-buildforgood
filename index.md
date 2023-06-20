@@ -14,10 +14,10 @@ sections:
   - hero:
       background: /images/hero banner.png
   - infopic:
-      title: Be a builder of a better Singapore
-      description: Join our month-long hackathon to build solutions that tackle
-        problems faced by everyday Singaporeans.
-      button: Be a builder
+      title: What's building at BFG?
+      description: From tackling scams, preventing food wastage to supporting elderly
+        & youths, our builders are working tirelessly to make Singapore better.
+      button: explore projects
       url: /builder
       alt: Image alt text
       image: /images/buildv5.png
