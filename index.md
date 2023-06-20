@@ -23,7 +23,7 @@ sections:
       alt: Image alt text
       image: /images/projects.png
   - infopic:
-      title: Join us at our finale!
+      title: Join us at our finale livestream!
       description: Watch the teams pitch their solutions and battle to become the top
         three winning teams.
       button: sign up now
