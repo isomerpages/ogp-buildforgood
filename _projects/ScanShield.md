@@ -9,6 +9,7 @@ description: ""
 
 We are a team of software engineers and UI/UX designers dedicated to improving scam protection for Singaporeans. With our combined expertise, we strive to develop innovative solutions that enhance online safety. The focus is on crafting robust technologies and user-friendly designs to safeguard Singaporeans against scams and ensure a secure digital experience.
 
+*Team members: Toh Heng Xing, Shantanu Raoke, Shikhar Kapoor  , Liaw Chin Yun*
 
 ### Problem Statement
 
