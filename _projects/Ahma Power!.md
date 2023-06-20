@@ -14,7 +14,7 @@ Hi everyone! We are team Ahma Power! Since we are working on helping the elderly
 * Thor - I'll be running a hostel in Taiwan, with loads of good food, cycling, surfing and all that fun stuff 😆 
 * Leila - Be a food critic! Just go around sampling good food
 
-  
+*Team members: Siti Nurbaya, Chow Jia Yee, Akmal Hakim Teo,  Thorsten Schaeff, Leila Wang*
 
 ### Problem Statement
 
