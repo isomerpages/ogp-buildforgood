@@ -9,7 +9,7 @@ description: ""
 
 Hi we are team Mediclear! Our team was brought together by a common friend to solve the problem of complicated health reports that are difficult for patients to understand. One fun fact (or not so fun for us) about us is that after our first group meeting, most of us came down with Covid one week later.
 
-*Team members: Peh Hoe Khim Marcus, Dominic Lim Kai Jun, Xiong Jingya, Chrus Chong Kai Ngee, Cheryl Koh*
+*Team members: Peh Hoe Khim Marcus, Dominic Lim Kai Jun, Xiong Jingya, Chrus Chong Kai Ngee, Cheryl Koh Shi Hua*
 
 ### Problem Statement
 
