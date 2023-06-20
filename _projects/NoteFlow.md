@@ -11,6 +11,8 @@ We are team Noteflow! Our team members come from diverse backgrounds, bringing a
 
 We understand the time constraints faced by counsellors, and we're determined to enhance their ability to provide high-quality care to students.
 
+*Team members: Chew Jie Han Benjamin, Lok Bin Kai, Ong Zhi Xuan, Suther David Samuel, Tan Yan Liong*
+
 ### Problem Statement
 
 School counselors often have busy schedules, handling various responsibilities, such as counseling sessions, meetings, and administrative tasks. Limited time can make it challenging for them to dedicate sufficient attention to documenting case notes which can affect case note documentation and quality of care.  
