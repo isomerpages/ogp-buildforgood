@@ -6,7 +6,9 @@ description: ""
 ### About the team
 ![](/images/palate%20pals.jpg)
 
-Hello everyone, we are Palette Pals! We are a team of five passionate individuals focused on fostering community culture and promoting mental health for students in Singapore, combining our light-hearted approach with innovative solutions to create a lasting impact.
+Hello everyone, we are Palate Pals! We are a team of five passionate individuals focused on fostering community culture and promoting mental health for students in Singapore, combining our light-hearted approach with innovative solutions to create a lasting impact.
+
+*Team members: Shawn Sim, Tan Shi Xin, Raihan Rizqullah, Benn Tan, Maximus*
 
 
 ### Problem Statement
