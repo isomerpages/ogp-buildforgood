@@ -26,7 +26,7 @@ sections:
       description: Watch the teams pitch their ideas to the judging panel and find out
         which teams will receive sponsorship.
       button: sign up now
-      url: /finale
+      url: /get-involved/finale/
       alt: Image alt text
       image: /images/finale.png
 ---
