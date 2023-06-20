@@ -23,7 +23,7 @@ To address this, we aim to help Singaporeans avoid over-buying groceries, thus r
 
 ### Proposed Solution
 
-A mobile application for Singaporeans to track grocery inventory within their household.
+A mobile application for Singaporeans to track grocery inventory within their households.
 
 Members of a household can collaborate to make a grocery list while also keeping track of what has been bought and is available in their kitchens.
 
