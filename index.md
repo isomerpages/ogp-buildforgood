@@ -14,18 +14,20 @@ sections:
   - hero:
       background: /images/hero banner.png
   - infopic:
-      title: Be a builder of a better Singapore
-      description: Join our month-long hackathon to build solutions that tackle
-        problems faced by everyday Singaporeans.
-      button: Be a builder
-      url: /builder
+      title: A month-long citizen hackathon
+      description: From tackling scams and environmental problems to healthcare and
+        employment issues, discover more about the solutions aimed at building a
+        better Singapore.
+      button: explore projects
+      url: /projects/ahmapower/
       alt: Image alt text
-      image: /images/buildv5.png
+      image: /images/projects3.png
   - infopic:
-      title: Tell us how Singapore can be better
-      description: How do you think Singapore can be better? Share with us!
-      button: Submit problem statements
-      url: /submit-problems
+      title: Join us at our finale livestream!
+      description: Watch the teams pitch their solutions and find out which teams will
+        emerge as the top 3.
+      button: sign up now
+      url: /get-involved/finale/
       alt: Image alt text
-      image: /images/problemv5.png
+      image: /images/finale4.png
 ---
