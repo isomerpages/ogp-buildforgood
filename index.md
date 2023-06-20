@@ -16,7 +16,7 @@ sections:
   - infopic:
       title: A month-long citizen hackathon
       description: From tackling scams and environmental problems to healthcare and
-        employment issues, find out more about the teams' solutions to build a
+        employment issues, discover more about the solutions aimed at building a
         better Singapore.
       button: explore projects
       url: /projects/ahmapower/
