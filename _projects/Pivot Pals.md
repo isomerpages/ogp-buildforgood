@@ -15,7 +15,7 @@ Adulting is tough but career switching is so much tougher!
 
 Most of the team consists of career-switchers and job-seekers. We resonate very much with the mental fatigue experienced during transitions. Hence, we would like to provide our fellow career switchers with a safe platform to share, whether small wins or woes and connect to support each other.
 
-  
+*Team members: Hansel, Kiat King, Samantha, Weirong, Yan Hao*
 
 ### Problem Statement
 
