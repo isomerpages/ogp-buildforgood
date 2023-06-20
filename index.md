@@ -24,8 +24,8 @@ sections:
       image: /images/projects.png
   - infopic:
       title: Join us at our finale!
-      description: Watch the teams pitch their ideas to the judging panel and find out
-        which teams will receive sponsorship.
+      description: Watch the teams pitch their solutions and battle to become the top
+        three winning teams.
       button: sign up now
       url: /get-involved/finale/
       alt: Image alt text
