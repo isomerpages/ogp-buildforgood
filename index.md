@@ -18,7 +18,7 @@ sections:
       description: From tackling scams, preventing food wastage to supporting elderly
         & youths, our builders are working tirelessly to make Singapore better.
       button: explore projects
-      url: /projects
+      url: /projects/ahmapower/
       alt: Image alt text
       image: /images/buildv5.png
   - infopic:
