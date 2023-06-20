@@ -20,7 +20,7 @@ sections:
       button: explore projects
       url: /projects/ahmapower/
       alt: Image alt text
-      image: /images/buildv5.png
+      image: /images/projects.png
   - infopic:
       title: Join us at our finale!
       description: Watch the teams pitch their ideas to the judging panel and vote for
@@ -28,5 +28,5 @@ sections:
       button: sign up now
       url: /finale
       alt: Image alt text
-      image: /images/problemv5.png
+      image: /images/finale.png
 ---
