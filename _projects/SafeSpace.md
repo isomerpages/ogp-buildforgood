@@ -9,6 +9,8 @@ description: ""
 
 Hi there! We are Team SafeSpace, a group of SMU students passionate about using technology to build products/software solutions that provide meaning, are beneficial, and ultimately have a positive impact on its users.
 
+*Team members: Teo Sean, Tyler Lian, Elton Tay, Keith Loh, Jerome Wong*
+
 ### Problem Statement
 
 There is a significant amount of friction for youths seeking mental health support as they are bombarded by copious amounts of information when searching for resources online.
