@@ -12,6 +12,8 @@ We're a group of innovative minds dedicated to cooking up tech magic that addres
 
 Join us as we unveil a smarter way to tackle this challenge and create a more sustainable future.
 
+*Team members: Agatha Foo, Valerie Ong, Gwyneth Ang, Randall Ong, JJ Lee*
+
 ### Problem Statement
 In Singapore, reducing food waste is crucial to ensure food security and minimize environmental impact. 
 
