@@ -15,8 +15,8 @@ sections:
       background: /images/hero banner.png
   - infopic:
       title: What's building at BFG?
-      description: From tackling scams to supporting the elderly & youths, our
-        builders are working tirelessly to make Singapore better.
+      description: From tackling scams to supporting the elderly & youth, our builders
+        are working tirelessly to make Singapore better.
       button: explore projects
       url: /projects/ahmapower/
       alt: Image alt text
