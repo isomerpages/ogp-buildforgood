@@ -9,7 +9,7 @@ description: ""
 
 Our team is made up of students from NUS, coming from a variety of different majors and backgrounds.
 
-  
+*Team members: Jing Ru, Jun Hong, Remus, Vijay, Zechary*
 
 ### Problem Statement
 
