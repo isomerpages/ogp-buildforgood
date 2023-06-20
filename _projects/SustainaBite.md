@@ -10,6 +10,8 @@ Hi there! We’re Team SustainaBite, a dynamic group of problem solvers determin
 
 Join us in our mission to create a sustainable future for Singapore by tackling food waste, one bite at a time!
 
+*Team members: Sandy Khoo, Neyssa Nathania, Benjy Tan, Hong Sheng Loy*
+
 ### Problem Statement
 
 Food waste + food insecurity. A large amount of food is wasted annually (744 million kg in 2019 as per the 'towardszerowaste' website). 
