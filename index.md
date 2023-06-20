@@ -21,7 +21,7 @@ sections:
       button: explore projects
       url: /projects/ahmapower/
       alt: Image alt text
-      image: /images/projects.png
+      image: /images/projects3.png
   - infopic:
       title: Join us at our finale livestream!
       description: Watch the teams pitch their solutions and battle to become the top
@@ -29,5 +29,5 @@ sections:
       button: sign up now
       url: /get-involved/finale/
       alt: Image alt text
-      image: /images/finale.png
+      image: /images/finale4.png
 ---
