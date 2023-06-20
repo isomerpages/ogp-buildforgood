@@ -7,8 +7,9 @@ description: ""
 
 ![](/images/msteam.jpeg)
 
-We are team MS (Hanh, Wen Yu and Catherine). We were ex-colleagues in a company called guess what, MS. We enjoyed working with each other last time (well, most of the time). So apart from contributing ideas for the public good, we came to BFG to relive the good old days.
+We are team MS. We were ex-colleagues, and we enjoyed working with each other last time (well, most of the time). So apart from contributing ideas for the public good, we came to Build for Good to relive the good old days.
 
+*Team members: Wong Wen Yu, Catherine Cha, Bui Thuy Hanh*
 
 ### Problem Statement
 
