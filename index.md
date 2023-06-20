@@ -24,8 +24,8 @@ sections:
       image: /images/projects3.png
   - infopic:
       title: Join us at our finale livestream!
-      description: Watch the teams pitch their solutions and battle to become the top
-        three winning teams.
+      description: Watch the teams pitch their solutions and find out which teams will
+        emerge as the top 3.
       button: sign up now
       url: /get-involved/finale/
       alt: Image alt text
