@@ -14,9 +14,10 @@ sections:
   - hero:
       background: /images/hero banner.png
   - infopic:
-      title: What's building at BFG?
-      description: From tackling scams to supporting the elderly & youth, our builders
-        are working tirelessly to make Singapore better.
+      title: What's brewing at Build for Good?
+      description: From tackling scams, environment and sustainability to supporting
+        the elderly & youth, our builders are working tirelessly to make
+        Singapore better.
       button: explore projects
       url: /projects/ahmapower/
       alt: Image alt text
