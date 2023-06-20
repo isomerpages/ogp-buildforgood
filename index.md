@@ -14,7 +14,7 @@ sections:
   - hero:
       background: /images/hero banner.png
   - infopic:
-      title: What's brewing at Build for Good?
+      title: Building in progress
       description: From tackling scams, environment and sustainability to supporting
         the elderly & youth, our builders are working tirelessly to make
         Singapore better.
