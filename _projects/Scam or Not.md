@@ -9,7 +9,7 @@ description: ""
 
 We are Team Rocket. The universe has brought together four alumni from Rocket Academy's software engineering boot camp and an astronaut-level software engineer, all fueled by the desire to build and ship great products. We are excited to launch into our problem space and orbit around users!
 
-  
+*Team members: Liu Yabing, Ted Johansson, Sean Heng, Mark Chan, Michael Hung*
 
 ### Problem Statement
 
