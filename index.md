@@ -14,10 +14,10 @@ sections:
   - hero:
       background: /images/hero banner.png
   - infopic:
-      title: Building in progress
-      description: From tackling scams, environment and sustainability to supporting
-        the elderly & youth, our builders are working tirelessly to make
-        Singapore better.
+      title: A month-long citizen hackathon
+      description: From tackling scams and environmental problems to healthcare and
+        employment issues, find out more about the teams' solutions to build a
+        better Singapore.
       button: explore projects
       url: /projects/ahmapower/
       alt: Image alt text
