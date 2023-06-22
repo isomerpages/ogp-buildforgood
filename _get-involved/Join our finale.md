@@ -9,7 +9,7 @@ Join us at our Build for Good finale livestream on the 1 July, Saturday, 2.30-4.
 *   Opening speech by Li Hongyi, Director of OGP
 *   Product pitches by our 13 teams
 *   Announcement of the winning teams
-*   Closing speech by Minister Josephine Teo
+*   Closing speech by Minister Josephine Teo - Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity
 
 ### Our Judging Panel
 *   Low Yen Ling - Minister of State for Culture, Community and Youth and Minister of State for Trade and Industry
