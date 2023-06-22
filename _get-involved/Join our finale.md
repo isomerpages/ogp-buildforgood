@@ -7,7 +7,7 @@ Join us at our Build for Good finale livestream on the 1 July, Saturday, 2.30-4.
 
 ### What you can expect
 *   Opening speech by Li Hongyi, Director of OGP
-*   Finale pitches by 13 teams
+*   Finale pitches by our 13 teams
 *   Announcement of 3 winning teams who will receive sponsorships of $10,000 each for product development
 *   Closing speech by Minister Josephine Teo
 
