@@ -18,5 +18,8 @@ Join us at our Build for Good finale livestream on the 1 July, Saturday, 2.30-4.
 *   Yumin Wong - Staff Engineer at GitHub
 *   Shafudin Jaya - UX &amp; Design Lead, Mastercard
 
-<div style="font-family: Sans-Serif; font-size: 15px; color: #000; opacity: 0.9; padding-top: 5px; padding-bottom: 8px;"> If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/648736be3c96920011314e6b">here</a>. </div> 
-<iframe style="width: 100%; height: 500px" src="https://form.gov.sg/648736be3c96920011314e6b" id="iframe"></iframe> <div style="font-family: Sans-Serif; font-size: 12px; color: #999; opacity: 0.5; padding-top: 5px;"> Powered by <a style="color: #999" href="https://form.gov.sg">Form</a> </div>
+<a href="http://go.gov.sg/bfg-finale">
+    <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
+        Sign up now
+    </button>
+</a>
