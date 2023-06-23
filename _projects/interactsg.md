@@ -15,4 +15,4 @@ Hello everyone, we are interact.sg! We are a team of five passionate individuals
 Singapore faces social challenges, including loneliness and disconnection. Factors contributing to this include the fast-paced lifestyle, emphasis on academic and professional achievements, high competition, the prevalence of nuclear families in small housing units, and the impact of technology and social media. These factors can hinder social interactions and create feelings of isolation.
 
 ### Proposed Solution
-Palette Pals aims to develop innovative solutions that leverage the power of food and matchmaking to cultivate a vibrant community culture amongst students thus promoting better mental well-being.
+interact.sg aims to develop innovative solutions that leverage the power of food and matchmaking to cultivate a vibrant community culture amongst students thus promoting better mental well-being.
