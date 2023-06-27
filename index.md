@@ -27,7 +27,7 @@ sections:
       description: Watch the teams pitch their solutions and find out which teams will
         emerge as the top 3.
       button: sign up now
-      url: /get-involved/finale/
+      url: /finale/
       alt: Image alt text
       image: /images/finale4.png
 ---
