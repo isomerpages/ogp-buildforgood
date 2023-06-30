@@ -18,13 +18,19 @@ Hi everyone! We are team Ahma Power! Since we are working on helping the elderly
 
 ### Problem Statement
 
-Senior citizens in Singapore face several hurdles while searching for a job. Firstly, job portals are hard to navigate. Job portals require a certain level of technical savviness to navigate through. 
+Seniors, particularly those who were not highly educated, face several hurdles while searching for a job.
 
-Next, even creating an account on the job portals poses a significant hurdle. They sometimes either do not have emails. The ones that do might not remember their password.
+First, job portals are hard to navigate, especially when most seniors don’t own a laptop.
 
-Lastly, they might not have a resume or know how to craft an effective one. These factors create hurdles upon hurdles for the aged to apply for jobs. How can we make it easier for them to apply for jobs?
+Second, they do not have an email to create an account.
+
+Third, most of them don’t have resumes. Neither do they know how to create one.
+
+Most seniors turn to in-person help. But that is labour-intensive and costly for our social sector.
+
+So, we thought: how might we make it easier for seniors to get a job?
   
 
 ### Proposed Solution
 
-The upcoming product will incorporate several key features, including profiling the elderly based on their needs, a filtering and recommendation system, chat-based views of job listings, chat-based application submission, chat-based resume crafting (a much-needed feature for many users), availability in common languages in Singapore, and the provision of templates for employers to create job postings.
+We zoned in on resume creation as the first step in making it easier for seniors to get a job. We want to create an AI-powered chatbot to empower seniors with instant resume creation.The chatbot will gather information from the seniors through a conversation and automatically generates a resume ready to be dropped off at job portals and with potential employers. To enhance accessibility, seniors will be able to use voice instead of typing.
