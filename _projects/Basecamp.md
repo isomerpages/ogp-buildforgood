@@ -7,7 +7,7 @@ description: ""
 
 ![](/images/pivot%20pals.jpeg)
 
-Pivot Pals are here to help our fellow career-switchers, to transform what seems like a frustrating journey to one of joy and self-discovery.
+We are team Pivot Pals and we are here to help our fellow career-switchers, to transform what seems like a frustrating journey to one of joy and self-discovery.
 
 Adulting is tough but career switching is so much tougher!
 
@@ -26,4 +26,4 @@ While there are plenty of avenues to seek structured career advice and feedback,
 
 ### Proposed Solution
 
-Our vision is to let all career-switchers know that they are not alone and people will support them in their pursuits throughout this fun yet arduous journey. We want to do this by building a community that connects people interested in switching careers and receiving the support they need during this process.
+Our vision is to let all career-switchers know that they are not alone and people will support them in their pursuits throughout this fun yet arduous journey. We want to do this by building Basecamp, a community that connects people interested in switching careers and receiving the support they need during this process.
