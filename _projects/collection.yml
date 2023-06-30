@@ -2,16 +2,16 @@ collections:
   projects:
     output: true
     order:
-      - Dovejob.md
+      - Basecamp.md
       - ChatLah.md
+      - Dovejob.md
+      - interactsg.md
+      - KnowLiao.md
       - MediClear.md
       - NoteFlow.md
-      - interactsg.md
-      - Basecamp.md
       - SafeSpace.md
       - Scam or Not.md
       - ScanShield.md
       - SmartCart.md
       - SustainaBite.md
-      - KnowLiao.md
       - TrashAway.md
