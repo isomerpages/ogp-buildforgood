@@ -7,7 +7,7 @@ description: ""
 
 ![](/images/renesan%20large.jpeg)
 
-We’re a team of NUS students who were connected through friends of friends! Jing Ru is a Product Designer and Jun Hong, Remus, Vijay, and Zechary are all software developers.  
+We are team Renesan, a team of NUS students who were connected through friends of friends! Jing Ru is a Product Designer and Jun Hong, Remus, Vijay, and Zechary are all software developers.  
 **Fun fact:** Renesan is an AI-generated name! 😋
 
 **Justification:** Renesan is derived from the Latin word “renasci,” which means “to be reborn or renewed.” The name Renesan is fitting for a business that encourages recycling as it implies the idea of giving new life to old materials. It's also a mash-up of recycling/environment related keywords (Renewable + Sanitation = Renesan)
@@ -22,6 +22,7 @@ Results from our user survey validate these figures - 65.3% of respondents recyc
   
 
 ### Proposed Solution
+We are building a website called TrashAway, which has the following features:
 
 1.  Item search/scanner 
 * Tells user if the item is recyclable
