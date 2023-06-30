@@ -13,8 +13,8 @@ Hi there! We are Team SafeSpace, a group of SMU students passionate about using 
 
 ### Problem Statement
 
-There is a significant amount of friction for youths seeking mental health support as they are bombarded by copious amounts of information when searching for resources online.
+There is a significant amount of friction for youths when seeking for mental health support, this hinders them from receiving the adequate support that they require.
 
 ### Proposed Solution
 
-To create a one-stop Telegram bot for youths seeking mental health-related assistance. Through a series of relevant questions, we will use zero-knowledge proofs to match them accordingly to a relevant befriender (counsellor or volunteer). In this safe space, they will embark on their mental health journey as they interact with their counsellor/volunteer.
+To create a one-stop Telegram Bot for youths seeking peer service support. Through a series of relevant questions, we will use zero-knowledge proofs in our matching algorithm to connect individuals with similar mental health concerns together. In this safe space, they will be able to communicate and interact with one another anonymously, allowing them to find relief and solace through understanding and empathizing with one another.

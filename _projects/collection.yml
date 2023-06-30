@@ -2,16 +2,16 @@ collections:
   projects:
     output: true
     order:
-      - Ahma Power!.md
-      - Closed Anarchy Products.md
+      - Basecamp.md
+      - ChatLah.md
+      - Dovejob.md
+      - interactsg.md
+      - KnowLiao.md
       - MediClear.md
       - NoteFlow.md
-      - interactsg.md
-      - Pivot Pals.md
-      - Renesan.md
       - SafeSpace.md
       - Scam or Not.md
       - ScanShield.md
-      - Smart Cart.md
+      - SmartCart.md
       - SustainaBite.md
-      - Team MS.md
+      - TrashAway.md

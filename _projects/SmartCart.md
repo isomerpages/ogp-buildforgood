@@ -1,5 +1,5 @@
 ---
-title: Smart Cart
+title: SmartCart
 permalink: /projects/smartcart/
 description: ""
 ---

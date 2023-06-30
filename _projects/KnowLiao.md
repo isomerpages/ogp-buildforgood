@@ -1,6 +1,6 @@
 ---
-title: Team MS
-permalink: /projects/ms/
+title: KnowLiao
+permalink: /projects/knowliao/
 description: ""
 ---
 ### About the team
