@@ -27,6 +27,6 @@ Our team asks the question: how might we make it easier for seniors to get a job
 
 ### Proposed Solution
 
-We zoned in on resume creation as the first step in making it easier for seniors to get a job. Our proposal: An AI-powered chatbot to empower seniors with instant resume creation.
+We zoned in on resume creation as the first step in making it easier for seniors to get a job. Our proposal: An AI-powered chatbot, Dovejob, to empower seniors with instant resume creation.
 
 The chatbot will gather information from the seniors through a conversation and automatically generates a resume ready to be dropped off at job portals and with potential employers. To enhance accessibility, seniors will be able to use voice instead of typing and also converse in any dialects of their choice.
