@@ -18,21 +18,15 @@ Hi everyone! We are team Ahma Power! Since we are working on helping the elderly
 
 ### Problem Statement
 
-Seniors, particularly those who were not highly educated, face several hurdles while searching for a job.
+Some seniors face several hurdles while searching for a job. Firstly, job portals are hard to navigate, especially when most seniors don’t own a laptop. Next, they might not have an email to create an account. Lastly, some of them don’t have resumes. Neither do they know how to create one.
 
-First, job portals are hard to navigate, especially when most seniors don’t own a laptop.
+As such, they turn to in-person help. However, this is labour-intensive and can be costly for our social services sector.
 
-Second, they do not have an email to create an account.
-
-Third, most of them don’t have resumes. Neither do they know how to create one.
-
-Most seniors turn to in-person help. But that is labour-intensive and costly for our social sector.
-
-So, we thought: how might we make it easier for seniors to get a job?
+Our team asks the question: how might we make it easier for seniors to get a job?
   
 
 ### Proposed Solution
 
-We zoned in on resume creation as the first step in making it easier for seniors to get a job. We want to create an AI-powered chatbot to empower seniors with instant resume creation.
+We zoned in on resume creation as the first step in making it easier for seniors to get a job. Our proposal: An AI-powered chatbot to empower seniors with instant resume creation.
 
-The chatbot will gather information from the seniors through a conversation and automatically generates a resume ready to be dropped off at job portals and with potential employers. To enhance accessibility, seniors will be able to use voice instead of typing.
+The chatbot will gather information from the seniors through a conversation and automatically generates a resume ready to be dropped off at job portals and with potential employers. To enhance accessibility, seniors will be able to use voice instead of typing and also converse in any dialects of their choice.
