@@ -2,7 +2,7 @@ collections:
   projects:
     output: true
     order:
-      - Ahma Power!.md
+      - Dovejob.md
       - ChatLah.md
       - MediClear.md
       - NoteFlow.md
