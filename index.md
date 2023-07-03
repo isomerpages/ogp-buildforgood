@@ -23,11 +23,11 @@ sections:
       alt: Image alt text
       image: /images/projects3.png
   - infopic:
-      title: Join us at our finale livestream!
-      description: Watch the teams pitch their solutions and find out which teams will
-        emerge as the top 3.
-      button: sign up now
+      title: Watch our finale recap!
+      description: We have officially concluded Build for Good 2023 🎊 Find out which
+        are the teams that emerged as the top 3!
+      button: watch now
       url: /finale/
       alt: Image alt text
-      image: /images/finale4.png
+      image: /images/finale5.png
 ---
