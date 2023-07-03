@@ -3,24 +3,18 @@ title: Join our finale
 permalink: /finale/
 description: ""
 ---
-Join us at our Build for Good finale livestream on the 1 July, Saturday, 2.30-4.30pm! At the finale, our teams will pitch their solutions to the judging panel of government leaders and industry experts, and 3 winning teams will be selected to receive sponsorship of $10,000 each to bring their projects to the next level!
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ayP_BzZqQds?start=470" height="315" width="560"></iframe>
 
-### What you can expect
-*   Opening speech by Li Hongyi, Director of OGP
-*   Product pitches by our 13 teams
-*   Announcement of the winning teams
+We have officially concluded Build for Good 2023! We are proud to announce the three teams that were selected to receive $10,000 funding each for further development of their products:
 
-*During the finale, you can also vote for your favourite teams to show your support. [Voting](https://go.gov.sg/bfg-finale-public-voting) begins at 2.30pm and closes at 4pm.*
+![](/images/knowliao.jpg)
+#### KnowLiao
+A centralised Web platform and Telegram messaging bot which disseminates announcements to people living in Housing Board estates.
 
-### Our Judging Panel
-*   Low Yen Ling - Minister of State for Culture, Community and Youth and Minister of State for Trade and Industry
-*   Li Hongyi - Director, Open Government Products
-*   Randy Hunt - Designer, author and Chief Product Officer at Morning
-*   Yumin Wong - Staff Engineer, GitHub
-*   Shafudin Jaya - Creative Director, Digital Labs, Mastercard
+![](/images/noteflow-finale.jpg)
+#### NoteFlow
+An app for school counsellors that uses artificial intelligence to transcribe and sort their case notes, thus saving them time.
 
-<a href="http://go.gov.sg/bfg-finale">
-    <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
-        Sign up now
-    </button>
-</a>
+
+#### TrashAway
+A web-based app that allows users to scan the barcode of various items to show how they can be recycled and where the nearest recycling bins are located.
