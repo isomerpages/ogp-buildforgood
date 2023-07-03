@@ -26,7 +26,7 @@ sections:
       title: Watch our finale recap!
       description: We have officially concluded Build for Good 2023 🎊 Find out which
         are the teams that emerged as the top 3!
-      button: livestream recap
+      button: watch now
       url: /finale/
       alt: Image alt text
       image: /images/finale5.png
