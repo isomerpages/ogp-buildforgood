@@ -29,5 +29,5 @@ sections:
       button: sign up now
       url: /finale/
       alt: Image alt text
-      image: /images/finale4.png
+      image: /images/finale5.png
 ---
