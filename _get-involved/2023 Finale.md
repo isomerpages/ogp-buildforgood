@@ -3,7 +3,7 @@ title: 2023 Finale
 permalink: /finale/
 description: ""
 ---
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ayP_BzZqQds?start=470" height="420" width="860"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ayP_BzZqQds?start=470" height="315" width="560"></iframe>
 
 We have officially concluded Build for Good 2023! We are proud to announce the three teams that were selected to receive $10,000 funding each for further development of their products:
 
