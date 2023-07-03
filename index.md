@@ -24,8 +24,8 @@ sections:
       image: /images/projects3.png
   - infopic:
       title: Watch our finale recap!
-      description: We have officially concluded Build for Good 2023! Check out which
-        are the teams that emerged as the top 3 🎊
+      description: We have officially concluded Build for Good 2023 🎊 Check out which
+        are the teams that emerged as the top 3!
       button: sign up now
       url: /finale/
       alt: Image alt text
