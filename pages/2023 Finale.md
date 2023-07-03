@@ -18,3 +18,5 @@ An app for school counsellors that uses artificial intelligence to transcribe an
 ![](/images/trashaway.jpg)
 #### TrashAway
 A web-based app that allows users to scan the barcode of various items to show how they can be recycled and where the nearest recycling bins are located.
+
+We want to thank all the builders for dedicating their time and energy to building a better Singapore with us. We’re excited to see how each team will bring their projects to the next level!
