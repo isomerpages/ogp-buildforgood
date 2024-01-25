@@ -1,0 +1,16 @@
+logo: /images/bfg logo final (black text).png
+links:
+  - title: About
+    url: /about/
+  - title: Projects
+    collection: projects
+  - title: Get Involved
+    collection: get-involved
+  - title: 2023 Finale
+    url: /finale
+  - title: FAQ
+    url: /faq
+  - title: Contact
+    url: /contact/
+  - title: Newsroom
+    resource_room: true

@@ -1,0 +1,17 @@
+collections:
+  projects:
+    output: true
+    order:
+      - Basecamp.md
+      - ChatLah.md
+      - Dovejob.md
+      - interactsg.md
+      - KnowLiao.md
+      - MediClear.md
+      - NoteFlow.md
+      - SafeSpace.md
+      - Scam or Not.md
+      - ScanShield.md
+      - SmartCart.md
+      - SustainaBite.md
+      - TrashAway.md

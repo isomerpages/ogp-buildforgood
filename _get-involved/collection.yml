@@ -1,0 +1,6 @@
+collections:
+  get-involved:
+    output: true
+    order:
+      - Be a builder.md
+      - Share problem statements.md

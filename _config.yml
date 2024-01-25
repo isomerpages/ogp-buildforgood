@@ -1,0 +1,65 @@
+title: Build for Good
+url: https://build.gov.sg
+favicon: /images/bfg icon.png
+colors:
+  primary-color: "#000000"
+  secondary-color: "#019cdd"
+  media-colors:
+    - title: media-color-one
+      color: "#49759a"
+    - title: media-color-two
+      color: "#f59d34"
+    - title: media-color-three
+      color: "#00838f"
+    - title: media-color-four
+      color: "#00838f"
+    - title: media-color-five
+      color: "#00838f"
+description: Build for Good is a month-long hackathon for citizens to build
+  solutions to tackle public good problems in Singapore. Throughout the month,
+  participating teams will scope out problem statements, identify solutions,
+  build prototypes, and test them with users. At the end of the month, they will
+  present their solutions to government leaders, and selected teams will receive
+  funding to carry on their projects.
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.d13ei45q9pgobs.amplifyapp.com
+prod: https://master.d13ei45q9pgobs.amplifyapp.com
+shareicon: /images/bfg logo final (black text).png
+is_government: true
+facebook-pixel: "1511361893004192"
+google_analytics: ""
+google_analytics_ga4: G-5EWB73T12N
+linkedin-insights: "3782946"
+resources_name: newsroom
