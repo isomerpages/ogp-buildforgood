@@ -58,22 +58,22 @@ projects.</p>
 as to maximise the builders’ experience.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Builders’ Kickoff:</strong> 18 May</p>
+<p><strong>Builders’ Kickoff:</strong> 18 May (10-5pm)</p>
 </li>
 <li>
-<p><strong>Weekly session 1:</strong> 25 May</p>
+<p><strong>Weekly session 1:</strong> 25 May (1-6pm)</p>
 </li>
 <li>
-<p><strong>Weekly session 2:</strong> 1 June</p>
+<p><strong>Weekly session 2:</strong> 1 June (1-6pm)</p>
 </li>
 <li>
-<p><strong>Weekly session 3:</strong> 8 June</p>
+<p><strong>Weekly session 3:</strong> 8 June (10-6pm)</p>
 </li>
 <li>
-<p><strong>Weekly session 4:</strong> 15 June</p>
+<p><strong>Weekly session 4:</strong> 15 June (1-6pm)</p>
 </li>
 <li>
-<p><strong>Finale:</strong> 22 June</p>
+<p><strong>Finale:</strong> 22 June (1-5pm)</p>
 </li>
 </ul>
 <p>*<em>Refreshments will be provided</em>
