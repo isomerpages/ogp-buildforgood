@@ -2,7 +2,6 @@ collections:
   projects:
     output: true
     order:
-      - Dovejob.md
       - interactsg.md
       - KnowLiao.md
       - MediClear.md
