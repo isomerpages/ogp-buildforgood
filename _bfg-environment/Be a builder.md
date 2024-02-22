@@ -51,7 +51,9 @@ Build for Good!</p>
 <h3><strong>Event Timeline</strong></h3>
 <p>The hackathon will run from 18 May to 22 June 2024, which consists of
 a kickoff, 4 weekly sessions, and a finale event. In between these sessions,
-builders are free to continue working on their projects in their own time.</p>
+builders are free to continue working on their projects in their own time.
+We will provide working spaces on Thursdays to allow teams to work on their
+projects.</p>
 <p>Do note that all sessions are on Saturdays and held in-person only so
 as to maximise the builders’ experience.</p>
 <ul data-tight="true" class="tight">
