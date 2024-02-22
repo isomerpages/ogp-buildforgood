@@ -2,12 +2,10 @@ logo: /images/bfg logo final (black text).png
 links:
   - title: About
     url: /about/
-  - title: Projects
-    collection: projects
   - title: Bfg Environment
     collection: bfg-environment
-  - title: 2023 Finale
-    url: /finale
+  - title: BFG 2023
+    collection: bfg-2023
   - title: FAQ
     url: /faq
   - title: Contact
