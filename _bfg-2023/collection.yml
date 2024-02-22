@@ -4,6 +4,10 @@ collections:
     order:
       - 2023 Finale.md
       - Projects/.keep
+      - Projects/Basecamp.md
+      - Projects/ChatLah.md
+      - Projects/Dovejob.md
+      - Projects/interactsg.md
       - Projects/KnowLiao.md
       - Projects/MediClear.md
       - Projects/NoteFlow.md
@@ -13,7 +17,3 @@ collections:
       - Projects/SmartCart.md
       - Projects/SustainaBite.md
       - Projects/TrashAway.md
-      - Projects/interactsg.md
-      - Projects/Dovejob.md
-      - Projects/ChatLah.md
-      - Projects/Basecamp.md
