@@ -5,13 +5,13 @@ description: ""
 variant: markdown
 ---
 ### **Why you should be a builder**
-* **Build solutions that tackle real environmental problems** 
+* Build solutions that tackle real environmental problems 
 
-* **Deepen your understanding of the environmental sector** 
+* Deepen your understanding of the environmental sector 
 
-* **Receive mentorship from tech & environmental experts** 
+* Receive mentorship from tech & environmental experts 
 
-*  **Present your solutions to government leaders and industry experts** 
+*  Present your solutions to government leaders and industry experts 
 
 ### **Who can be a builder?**
 Anyone 18 and above with a strong desire to make Singapore better is welcome to sign up to be a builder. Interested builders may join as a team or as individuals, though during the hackathon, all builders will be required to eventually form teams of 2 to 5. You may indicate in the signup form if you want to find your own teammates or if you would like us to match you with potential teammates instead.
