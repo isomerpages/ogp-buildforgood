@@ -2,10 +2,11 @@
 title: Share problem statements
 permalink: /submit-problems/
 description: ""
+variant: markdown
 ---
-### **How do you think Singapore could be better? Share with us!**
+### **What are some pressing environmental problems in Singapore? Share them with us!**
 
-Whether you're an individual or representing a non-profit, tell us more about any problem that you believe Singapore is facing. By sharing these problem statements, our builders will have the opportunity to tackle some of these problems during Build for Good and work towards a better Singapore.
+Whether you're an individual or representing a non-profit, tell us more about the environmental problems that you believe Singapore is facing. By sharing these problem statements, our builders will have the opportunity to tackle some of these problems during Build for Good and work towards a better Singapore.
 
 Here are some problem statement examples:
 
