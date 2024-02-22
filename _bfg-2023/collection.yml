@@ -2,6 +2,8 @@ collections:
   bfg-2023:
     output: true
     order:
+      - 2023 Finale.md
+      - Projects/.keep
       - Projects/KnowLiao.md
       - Projects/MediClear.md
       - Projects/NoteFlow.md
@@ -15,5 +17,3 @@ collections:
       - Projects/Dovejob.md
       - Projects/ChatLah.md
       - Projects/Basecamp.md
-      - Projects/.keep
-      - 2023 Finale.md
