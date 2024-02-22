@@ -2,6 +2,6 @@ collections:
   bfg-environment:
     output: true
     order:
-      - Funding & Accelerator.md
       - Be a builder.md
+      - Funding & Accelerator.md
       - Share problem statements.md
