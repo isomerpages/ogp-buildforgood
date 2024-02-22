@@ -4,8 +4,8 @@ links:
     url: /about/
   - title: Projects
     collection: projects
-  - title: Environment
-    collection: environment
+  - title: Bfg Environment
+    collection: bfg-environment
   - title: 2023 Finale
     url: /finale
   - title: FAQ
