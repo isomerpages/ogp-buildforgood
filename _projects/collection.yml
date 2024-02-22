@@ -2,7 +2,6 @@ collections:
   projects:
     output: true
     order:
-      - ChatLah.md
       - Dovejob.md
       - interactsg.md
       - KnowLiao.md
