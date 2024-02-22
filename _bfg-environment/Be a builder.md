@@ -2,15 +2,16 @@
 title: Be a builder
 permalink: /builder/
 description: ""
+variant: markdown
 ---
 ### **Why you should be a builder**
-* **Make an impact** - Solve problems on the ground with beneficiaries and NGOs
+* **Build solutions that tackle real environmental problems** 
 
-* **Realise your solutions** - Bring your projects to the next level with mentorship and sponsorship
+* **Deepen your understanding of the environmental sector** 
 
-* **Push for change** - Present your solutions to government leaders and industry experts, and shine a light on issues you're passionate about
+* **Receive mentorship from tech & environmental experts** 
 
-*  **Learn and grow** - Upskill yourself through curated engineering, design, and product workshops 
+*  **Present your solutions to government leaders and industry experts** 
 
 ### **Who can be a builder?**
 Anyone 18 and above with a strong desire to make Singapore better is welcome to sign up to be a builder. Interested builders may join as a team or as individuals, though during the hackathon, all builders will be required to eventually form teams of 2 to 5. You may indicate in the signup form if you want to find your own teammates or if you would like us to match you with potential teammates instead.
@@ -19,24 +20,27 @@ Tech expertise is preferred but not necessary to join as a builder. We do recomm
 
 ### **What kind of solutions can I come up with?**
 
-Your solution should be a digital/physical product or service that addresses a chosen public good problem in Singapore, and it should not be for the purpose of generating profit. 
+Your solution should be a digital/physical product or service that addresses an environmental problem in Singapore, and it should not be for the purpose of generating profit. 
 
 You will be required to demonstrate a prototype that's backed by user testing at the finale.
 
-If you need inspiration, you can check out the products built at OGP's internal hackathon, [Hack for Public Good](https://hack.gov.sg/2023-prototypes/armoury/).
+If you need inspiration, you can check out the projects from our last Build for Good!
 
 ### **Event Timeline**
 
-Build for Good will run from 3 June to 1 July 2023. The hackathon will consist of a kickoff, a series of weekly sessions, and a finale event. In between these sessions, builders are free to continue working on their projects in their own time.
+The hackathon will run from 18 May to 22 June 2024, which consists of a kickoff, 4 weekly sessions, and a finale event. In between these sessions, builders are free to continue working on their projects in their own time.
 
 Do note that all sessions are on Saturdays and held in-person only so as to maximise the builders’ experience. 
 
-*  **Builders’ Kickoff:** 3 June
-*  **Weekly session - Prototyping:** 10 June
-*  **Weekly session - User testing:** 17 June
-*  **Weekly session - Iteration and Pitching:** 24 June
-*  **Finale:** 1 July
+*  **Builders’ Kickoff:** 18 May
+*  **Weekly session 1:** 25 May
+*  **Weekly session 2:** 1 June
+*  **Weekly session 3:** 8 June
+*  **Weekly session 4:** 15 June
+*  **Finale:** 22 June
 
 **Refreshments will be provided*
 
-**Registration is now closed (deadline: 15 May 2023).**
+[sign up now]
+
+Sign ups will close on 31st March 2024.
