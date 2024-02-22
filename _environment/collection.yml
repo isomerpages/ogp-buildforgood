@@ -1,5 +1,5 @@
 collections:
-  get-involved:
+  environment:
     output: true
     order:
       - Be a builder.md
