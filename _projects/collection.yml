@@ -2,7 +2,6 @@ collections:
   projects:
     output: true
     order:
-      - interactsg.md
       - KnowLiao.md
       - MediClear.md
       - NoteFlow.md
