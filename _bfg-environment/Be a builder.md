@@ -4,6 +4,12 @@ permalink: /builder/
 description: ""
 variant: tiptap
 ---
+<p>We are back with another round of Build for Good, but this time, we are
+partnering the <a href="https://www.mse.gov.sg/sgecofund/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Sustainability and the Environment's SG Eco Fund</a> to
+zoom in on the environment!
+<br>
+<br>Join us to build solutions that tackle environmental issues that you’re
+passionate about, be it food waste, sustainability, or climate change.</p>
 <h3><strong>Why you should be a builder</strong></h3>
 <ul>
 <li>
@@ -19,6 +25,9 @@ variant: tiptap
 <p>Present your solutions to government leaders and industry experts</p>
 </li>
 </ul>
+<p>Winning teams will receive funding of up to S$100,000* and take part in
+a 2-month accelerator program to further develop their solutions, and potentially
+launch them to real users!</p>
 <h3><strong>Who can be a builder?</strong></h3>
 <p>Anyone 18 and above with a strong desire to make Singapore better is welcome
 to sign up to be a builder. Interested builders may join as a team or as
