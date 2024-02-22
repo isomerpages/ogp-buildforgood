@@ -28,7 +28,9 @@ more.</p>
 </ul>
 <p>Winning teams will receive funding of up to S$100,000* and take part in
 a 2-month accelerator program to further develop their solutions, and potentially
-launch them to real users!</p>
+launch them to real users!
+<br>
+<br>*Refer to funding structure for more details</p>
 <h3><strong>Who can be a builder?</strong></h3>
 <p>Anyone 18 and above with a strong desire to make Singapore better is welcome
 to sign up to be a builder. Interested builders may join as a team or as
