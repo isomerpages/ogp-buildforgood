@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <p>We are back with another round of Build for Good, but this time, we are
-partnering the <a href="https://www.mse.gov.sg/sgecofund/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Sustainability and the Environment's SG Eco Fund</a> to
+partnering with the <a href="https://www.mse.gov.sg/sgecofund/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Sustainability and the Environment's SG Eco Fund</a> to
 zoom in on the environment!
 <br>
 <br>Join us to build solutions that tackle environmental issues that you’re
