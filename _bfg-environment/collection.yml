@@ -1,5 +1,5 @@
 collections:
-  environment:
+  bfg-environment:
     output: true
     order:
       - Be a builder.md
