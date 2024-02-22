@@ -2,5 +2,6 @@ collections:
   bfg-2023:
     output: true
     order:
+      - Projects/Basecamp.md
       - Projects/.keep
       - 2023 Finale.md
