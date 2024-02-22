@@ -2,6 +2,7 @@ collections:
   bfg-2023:
     output: true
     order:
+      - Projects/MediClear.md
       - Projects/NoteFlow.md
       - Projects/SafeSpace.md
       - Projects/Scam or Not.md
