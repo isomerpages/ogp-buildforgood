@@ -2,6 +2,7 @@ collections:
   bfg-2023:
     output: true
     order:
+      - Projects/SustainaBite.md
       - Projects/TrashAway.md
       - Projects/interactsg.md
       - Projects/Dovejob.md
