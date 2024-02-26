@@ -16,7 +16,7 @@ sections:
       key_highlights:
         - title: 18 May — 22 Jun 2024
           description: Sign up now!
-          url: https://www.build.gov.sg/builder/
+          url: ""
   - infopic:
       title: A month-long citizen hackathon
       description: From tackling scams and environmental problems to healthcare and
