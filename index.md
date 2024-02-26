@@ -12,7 +12,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero_Banner_Option_2.png
+      background: /images/Hero_Banner_Option_5.png
       key_highlights:
         - title: 18 May — 22 Jun 2024
           description: Sign up now!
