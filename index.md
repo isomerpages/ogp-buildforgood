@@ -26,6 +26,22 @@ sections:
       url: /projects/basecamp/
       alt: Image alt text
       image: /images/projects3.png
+  - infocols:
+      title: Why you should be a builder
+      id: infocols
+      linktext: Find out more
+      url: https://www.build.gov.sg/builder/
+      infoboxes:
+        - title: Make an impact
+          description: Solve problems on the ground with beneficiaries and NGOs
+        - title: Realise your solutions
+          description: Bring your projects to the next level with mentorship and sponsorship
+        - title: Push for change
+          description: Present your solutions to government leaders and industry experts,
+            and shine a light on issues you’re passionate about
+        - title: Learn and grow
+          description: Upskill yourself through curated engineering, design, and product
+            workshops
   - infopic:
       title: Watch our finale recap!
       description: We have officially concluded Build for Good 2023 🎊 Find out which
