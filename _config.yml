@@ -2,8 +2,8 @@ title: Build for Good
 url: https://build.gov.sg
 favicon: /images/bfg icon.png
 colors:
-  primary-color: "#000000"
-  secondary-color: "#019cdd"
+  primary-color: "#006241"
+  secondary-color: "#25ac51"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -56,7 +56,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d13ei45q9pgobs.amplifyapp.com
 prod: https://master.d13ei45q9pgobs.amplifyapp.com
-shareicon: /images/bfg logo final (black text).png
+shareicon: /images/Logo.png
 is_government: true
 facebook-pixel: "1511361893004192"
 google_analytics: ""
