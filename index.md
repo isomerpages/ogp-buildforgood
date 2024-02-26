@@ -50,4 +50,10 @@ sections:
       url: /finale/
       alt: Image alt text
       image: /images/finale5.png
+  - infobar:
+      subtitle: WHAT OTHERS HAVE SAID
+      id: infobar
+      description: '"Lorem Ipsum is simply dummy text of the printing and typesetting
+        industry." — Lorem Ipsum'
+      button: Button Text
 ---
