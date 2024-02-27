@@ -14,8 +14,14 @@ sections:
   - hero:
       background: /images/Hero_Banner_Option_5.png
       key_highlights:
-        - title: 18 May — 22 Jun 2024
-          description: Sign up now!
+        - title: Over 100 projects
+          description: unveiled
+          url: ""
+        - title: 18 MAY — 22 JUN 2024
+          description: running dates
+          url: ""
+        - title: ~55
+          description: government agency partners
           url: ""
   - infopic:
       title: A month-long citizen hackathon
@@ -36,8 +42,8 @@ sections:
           linktext: Sign up now
           url: /builder/
         - title: Unleash impact
-          description: "Channel your creativity and craft solutions to tackle Singapore's
-            challenges. "
+          description: Channel your creativity and craft solutions to tackle Singapore's
+            challenges.
           linktext: Make a difference
           url: /builder
         - title: Aim for the top
