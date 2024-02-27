@@ -26,8 +26,27 @@ sections:
       url: /projects/basecamp/
       alt: Image alt text
       image: /images/projects3.png
+  - textcards:
+      title: How it works
+      id: textcards
+      description: Join our month-long citizen hackathon to build for public good
+      cards:
+        - title: Get in the game
+          description: Be a force for good—join solo or as a team!
+          linktext: Sign up now
+          url: /builder/
+        - title: Unleash impact
+          description: "Channel your creativity and craft solutions to tackle Singapore's
+            challenges. "
+          linktext: Make a difference
+          url: /builder
+        - title: Aim for the top
+          description: Three winning teams will receive $10,000 each to amplify their
+            projects.
+          linktext: Make an impact
+          url: /builder
   - infocols:
-      title: Why you should be a builder
+      title: Why you should be a Builder
       id: infocols
       linktext: Find out more
       url: https://www.build.gov.sg/builder/
@@ -42,14 +61,14 @@ sections:
         - title: Learn and grow
           description: Upskill yourself through curated engineering, design, and product
             workshops
-  - infopic:
+  - infobar:
       title: Watch our finale recap!
+      id: infobar
       description: We have officially concluded Build for Good 2023 🎊 Find out which
-        are the teams that emerged as the top 3!
-      button: watch now
+        are the teams that emerged as the top
+        3!<br><br>https://youtu.be/ayP_BzZqQds
+      button: FIND OUT MORE
       url: /finale/
-      alt: Image alt text
-      image: /images/finale5.png
   - infobar:
       subtitle: WHAT OTHERS HAVE SAID
       id: infobar
