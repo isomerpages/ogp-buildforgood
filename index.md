@@ -70,8 +70,12 @@ sections:
   - infobar:
       title: Watch our finale recap!
       id: infobar
-      description: We have officially concluded Build for Good 2023
-        🎊<br><br>https://www.youtube.com/live/ayP_BzZqQds?si=LjIaWkIzaNGCY5Nl
+      description: We have officially concluded Build for Good 2023 🎊<br><br><iframe
+        allowfullscreen="" allow="accelerometer; autoplay; clipboard-write;
+        encrypted-media; gyroscope; picture-in-picture; web-share"
+        frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/ayP_BzZqQds?si=LjIaWkIzaNGCY5Nl"
+        height="315" width="560"></iframe>
       button: FIND OUT MORE
       url: /finale/
   - infobar:
