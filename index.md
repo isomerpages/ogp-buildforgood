@@ -33,9 +33,8 @@ sections:
       alt: Image alt text
       image: /images/projects3.png
   - textcards:
-      title: How it works
+      title: How Build For Good works
       id: textcards
-      description: Join our month-long citizen hackathon to build for public good
       cards:
         - title: Get in the game
           description: Be a force for good—join solo or as a team!
