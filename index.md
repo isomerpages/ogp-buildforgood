@@ -70,9 +70,8 @@ sections:
   - infobar:
       title: Watch our finale recap!
       id: infobar
-      description: We have officially concluded Build for Good 2023 🎊 Find out which
-        are the teams that emerged as the top
-        3!<br><br>https://youtu.be/ayP_BzZqQds
+      description: We have officially concluded Build for Good 2023
+        🎊<br><br>https://www.youtube.com/live/ayP_BzZqQds?si=LjIaWkIzaNGCY5Nl
       button: FIND OUT MORE
       url: /finale/
   - infobar:
