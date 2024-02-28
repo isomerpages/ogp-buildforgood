@@ -18,4 +18,4 @@ Here are some problem statement examples:
 
 Use your voice to share a problem statement and raise awareness about an issue faced in Singapore. Should our builders express interest in your problem statement submission, we will contact you to find out more and collaborate on the issue you've raised. 
 
-**Problem statement submissions is now closed (deadline: 19 May 2023).**
+**We will be opening problem statement submissions on 13 March 2024**
