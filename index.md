@@ -60,8 +60,9 @@ sections:
   - infobar:
       subtitle: WHAT OUR BUILDERS SAID
       id: infobar
-      description: '"Lorem Ipsum is simply dummy text of the printing and typesetting
-        industry." — Lorem Ipsum'
+      description: '"I liked the sharing by industry experts and the pitching
+        workshop. The mentors also helped provide an alternative perspective to
+        the problem space." — Bin Kai'
       button: Be a builder
       url: /builder
 ---
