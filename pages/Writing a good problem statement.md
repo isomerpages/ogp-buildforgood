@@ -39,7 +39,7 @@ participate in activities within their Community Centres will help them
 forge friendships and create human connections with others.</p>
 <p></p>
 <h4>Problem Statement template</h4>
-<p>Here's a template to help guide your problem statement!</p>
+<p>Here's a template to help guide your problem statement writing!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/A4___Problem_Statement.png">
 </div>
