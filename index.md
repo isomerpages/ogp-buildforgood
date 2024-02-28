@@ -36,7 +36,7 @@ sections:
       title: Join us to build a Greener Singapore!
       id: textcards
       cards:
-        - title: Join us as a builder
+        - title: Be a builder
           description: Build solutions to tackle real environmental problems
           linktext: Be a builder
           url: /builder/
