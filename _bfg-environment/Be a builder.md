@@ -41,8 +41,8 @@ you with potential teammates instead.</p>
 <p>Tech expertise is preferred but not necessary to join as a builder. We
 do recommend however that your hackathon team consists of members with
 the skills required to build the solution you want to make. We will be
-hosting networking sessions as well as engineering, design, and product
-workshops to help you along the way!</p>
+hosting engineering, design, and product workshops to help you along the
+way!</p>
 <h3><strong>What kind of solutions can I come up with?</strong></h3>
 <p>Your solution should be a digital/physical product or service that addresses
 an environmental problem in Singapore, and it should not be for the purpose
