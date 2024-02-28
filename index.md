@@ -48,22 +48,6 @@ sections:
           description: Help our builders succeed through guidance and knowledge sharing
           linktext: Be a domain expert
           url: /domain-expert
-  - infocols:
-      title: Why you should be a Builder
-      id: infocols
-      linktext: Find out more
-      url: https://www.build.gov.sg/builder/
-      infoboxes:
-        - title: Make an impact
-          description: Solve problems on the ground with beneficiaries and NGOs
-        - title: Realise your solutions
-          description: Bring your projects to the next level with mentorship and sponsorship
-        - title: Push for change
-          description: Present your solutions to government leaders and industry experts,
-            and shine a light on issues you’re passionate about
-        - title: Learn and grow
-          description: Upskill yourself through curated engineering, design, and product
-            workshops
   - infobar:
       title: Build for Good 2023 Recap
       id: infobar
