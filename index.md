@@ -14,14 +14,14 @@ sections:
   - hero:
       background: /images/Hero_Banner_Option_5.png
       key_highlights:
-        - title: Over 100 projects
-          description: unveiled
+        - title: in collaboration with
+          description: SG ECO FUND
           url: ""
-        - title: 18 MAY — 22 JUN 2024
-          description: running dates
+        - title: Happening on
+          description: 18 MAY — 22 JUN 2024
           url: ""
-        - title: ~55
-          description: government agency partners
+        - title: funding of up to
+          description: $100,000
           url: ""
   - infopic:
       title: A month-long citizen hackathon
