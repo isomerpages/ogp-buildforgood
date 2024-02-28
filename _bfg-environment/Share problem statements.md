@@ -8,14 +8,22 @@ variant: markdown
 
 Whether you're an individual or representing a non-profit, tell us more about the environmental problems that you believe Singapore is facing. By sharing these problem statements, our builders will have the opportunity to tackle some of these problems during Build for Good and work towards a better Singapore.
 
-Here are some problem statement examples:
+### Key areas in the environmental space
 
-* Patients are forced to be present to register and queue at GPs/PHIs. Clinics are having trouble manually managing walk-ins &amp; appointments every day.
+* Climate change
+* Energy
+* Environmental Pollution
+* Food security
+* Nature & biodiversity
+* Recycling
+* Sustainability
+* Waste Management
 
-* Members of the public are unable to identify scam websites effectively, and often fall prey to scams by sharing personal details.
+### Coming up with a good problem statement
+Not sure what to write? Check out our guide on how to craft a good problem statement!
 
-* Singapore generated 1.82 million tonnes of domestic waste in 2021, and is stuck in a ‘buy-throw’ rather than ‘donate-reuse’ cycle. This is partly due to high coordination overheads to donate/source good quality items.
 
-Use your voice to share a problem statement and raise awareness about an issue faced in Singapore. Should our builders express interest in your problem statement submission, we will contact you to find out more and collaborate on the issue you've raised. 
 
 **We will be opening problem statement submissions on 13 March 2024**
+
+Should our builders express interest in your problem statement submission, we will contact you to find out more and collaborate on the issue you've raised. 
