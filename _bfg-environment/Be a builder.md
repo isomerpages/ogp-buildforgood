@@ -82,5 +82,5 @@ as to maximise the builders’ experience.</p>
 </ul>
 <p>*<em>Refreshments will be provided</em>
 </p>
-<p>[sign up now]</p>
-<p>Sign ups will close on 31st March 2024.</p>
+<p><strong>Sign ups will start on 13 Mar 2024.</strong>
+</p>
