@@ -65,20 +65,19 @@ sections:
           description: Upskill yourself through curated engineering, design, and product
             workshops
   - infobar:
-      title: Watch our finale recap!
+      title: Build for Good 2023 Recap
       id: infobar
-      description: We have officially concluded Build for Good 2023 🎊<br><br><iframe
-        allowfullscreen="" allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture; web-share"
-        frameborder="0" title="YouTube video player"
+      description: Check out what happened at last year's Build for Good
+        🎊<br><br><iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/ayP_BzZqQds?si=LjIaWkIzaNGCY5Nl"
         height="315" width="560"></iframe>
-      button: FIND OUT MORE
-      url: /finale/
   - infobar:
-      subtitle: WHAT OTHERS HAVE SAID
+      subtitle: WHAT OUR BUILDERS SAID
       id: infobar
       description: '"Lorem Ipsum is simply dummy text of the printing and typesetting
         industry." — Lorem Ipsum'
-      button: Button Text
+      button: Be a builder
+      url: /builder
 ---
