@@ -61,8 +61,8 @@ behavioral study, audit);</p>
 of environmental-themed organisations</p>
 </li>
 <li>
-<p>Educational seminars and workshops on topics such as product development,
-pitching practice to investors, etc.</p>
+<p>Educational seminars and workshops to help teams further develop the product
+and get stakeholder buy-in</p>
 </li>
 <li>
 <p>Tailored support in linking up with relevant stakeholders</p>
