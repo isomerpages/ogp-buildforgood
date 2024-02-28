@@ -8,7 +8,7 @@ description: ""
 SG Eco Fund will provide funding of up to $100,000 in funding and support
 teams through a 2-month accelerator program to further develop their products,
 and potentially launch them with real users.</p>
-<h3>Funding Structure</h3>
+<h3>Funding</h3>
 <p><strong><u>Phase 1: Accelerator &gt; Pilot &gt; Launch MVP</u></strong>
 </p>
 <p>Up to $20,000, which covers:</p>
