@@ -9,7 +9,7 @@ SG Eco Fund will provide funding of up to $100,000 in funding and support
 teams through a 2-month accelerator program to further develop their products,
 and potentially launch them with real users.</p>
 <h3>Funding Structure</h3>
-<p><strong><u>Phase 1: Accelerator &gt; Pilot &gt; Launch MVP </u></strong>
+<p><strong><u>Phase 1: Accelerator &gt; Pilot &gt; Launch MVP</u></strong>
 </p>
 <p>Up to $20,000, which covers:</p>
 <ul data-tight="true" class="tight">
@@ -52,6 +52,7 @@ behavioral study, audit);</p>
 </ul>
 <h3>Accelerator</h3>
 <p>Duration: 29 June 2024 - 17 Aug 2024 (Bi-weekly in-person sessions)</p>
+<p>*Compulsory for winning teams to attend</p>
 <p><strong>What you can expect:</strong>
 </p>
 <ul data-tight="true" class="tight">
