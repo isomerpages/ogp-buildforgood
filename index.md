@@ -33,23 +33,21 @@ sections:
       alt: Image alt text
       image: /images/projects3.png
   - textcards:
-      title: How Build For Good works
+      title: Join us to build a Greener Singapore!
       id: textcards
       cards:
-        - title: Get in the game
-          description: Be a force for good—join solo or as a team!
-          linktext: Sign up now
+        - title: Join us as a builder
+          description: Build solutions to tackle real environmental problems
+          linktext: Be a builder
           url: /builder/
-        - title: Unleash impact
-          description: Channel your creativity and craft solutions to tackle Singapore's
-            challenges.
-          linktext: Make a difference
-          url: /builder
-        - title: Aim for the top
-          description: Three winning teams will receive $10,000 each to amplify their
-            projects.
-          linktext: Make an impact
-          url: /builder
+        - title: Submit problem statements
+          description: Share with us environmental problems that you wish we could tackle
+          linktext: Submit problems
+          url: /submit-problems
+        - title: Be a domain expert
+          description: Help our builders succeed through guidance and knowledge sharing
+          linktext: Be a domain expert
+          url: /domain-expert
   - infocols:
       title: Why you should be a Builder
       id: infocols
