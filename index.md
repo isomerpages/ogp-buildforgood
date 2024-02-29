@@ -25,11 +25,10 @@ sections:
           url: ""
   - infopic:
       title: A month-long citizen hackathon
-      description: From tackling scams and environmental problems to healthcare and
-        employment issues, discover more about the solutions aimed at building a
-        better Singapore.
-      button: explore projects
-      url: /projects/basecamp/
+      description: Build solutions to tackle issues in Singapore that you feel
+        strongly about.
+      button: be a builder
+      url: /builder
       alt: Image alt text
       image: /images/projects3.png
   - textcards:
