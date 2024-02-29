@@ -50,6 +50,9 @@ behavioral study, audit);</p>
 <p>Equipment and tools necessary for project implementation</p>
 </li>
 </ul>
+<p>On top of the project funding, participants will also receive a stipend
+of $1000 each upon launching their MVPs, as a token of appreciation for
+their contribution to the public good.</p>
 <h3>Accelerator</h3>
 <p>Duration: 29 June 2024 - 17 Aug 2024 (Bi-weekly in-person sessions)</p>
 <p>*Compulsory for winning teams to attend</p>
