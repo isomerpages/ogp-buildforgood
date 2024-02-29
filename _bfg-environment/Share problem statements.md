@@ -20,10 +20,10 @@ Whether you're an individual or representing a non-profit, tell us more about th
 * Waste Management
 
 ### Coming up with a good problem statement
-Not sure what to write? Check out our guide on how to craft a good problem statement!
+Not sure what to write? Check out [our guide](/problem-statement-guide/) on how to craft a good problem statement!
 
 
 
 **We will be opening problem statement submissions on 13 March 2024**
 
-Should our builders express interest in your problem statement submission, we will contact you to find out more and collaborate on the issue you've raised. 
+Should our builders express interest in your problem statement submission, we will contact you to find out more and collaborate on the issue you've raised.
