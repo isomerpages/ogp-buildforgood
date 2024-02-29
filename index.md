@@ -60,9 +60,8 @@ sections:
   - infobar:
       subtitle: WHAT OUR BUILDERS SAID
       id: infobar
-      description: '"I liked the sharing by industry experts and the pitching
-        workshop. The mentors also helped provide an alternative perspective to
-        the problem space." — Bin Kai'
+      description: '"The hackathon gave me an opportunity to work on a topic I feel
+        passionate about and felt could be improved. " — Jing Ru'
       button: Be a builder
       url: /builder
 ---
