@@ -36,9 +36,7 @@ more details</p>
 <p>Anyone 18 and above with a strong desire to make Singapore better is welcome
 to sign up to be a builder. Interested builders may join as a team or as
 individuals, though during the hackathon, all builders will be required
-to eventually form teams of 2 to 5. You may indicate in the signup form
-if you want to find your own teammates or if you would like us to match
-you with potential teammates instead.</p>
+to eventually form teams of 3 to 5.</p>
 <p>Tech expertise is preferred but not necessary to join as a builder. We
 do recommend however that your hackathon team consists of members with
 the skills required to build the solution you want to make. We will be
@@ -50,8 +48,7 @@ an environmental problem in Singapore, and it should not be for the purpose
 of generating profit.</p>
 <p>You will be required to demonstrate a prototype that's backed by user
 testing at the finale.</p>
-<p>If you need inspiration, you can check out the projects from our last
-Build for Good!</p>
+<p>If you need inspiration, you can check out the <a href="/projects/basecamp/" rel="noopener noreferrer nofollow" target="_blank">projects</a> from our last Build for Good!</p>
 <h3><strong>Event Timeline</strong></h3>
 <p>The hackathon will run from 18 May to 22 June 2024, which consists of
 a kickoff, 4 weekly sessions, and a finale event. In between these sessions,
