@@ -39,9 +39,26 @@ individuals, though during the hackathon, all builders will be required
 to eventually form teams of 3 to 5.</p>
 <p>Tech expertise is preferred but not necessary to join as a builder. We
 do recommend however that your hackathon team consists of members with
-the skills required to build the solution you want to make. We will be
-hosting engineering, design, and product workshops to help you along the
-way!</p>
+the skills required to build the solution you want to make.</p>
+<p>Here are some traits which we look out for in our builders:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Commitment: Is the builder able to commit for all weekly sessions, and
+willing to continue working on the solution beyond the hackathon?</p>
+</li>
+<li>
+<p>Initiative: Has the applicant demonstrated that he/she has thought through
+the problem space, and even proposed possible solutions to the problem?</p>
+</li>
+<li>
+<p>Values: Are there any past projects / involvement that demonstrates individual's
+commitment to the public good?</p>
+</li>
+<li>
+<p>Abilities: What's the level of technical expertise the participant has
+in his/her own field?</p>
+</li>
+</ol>
 <h3><strong>What kind of solutions can I come up with?</strong></h3>
 <p>Your solution should be a digital/physical product or service that addresses
 an environmental problem in Singapore, and it should not be for the purpose
