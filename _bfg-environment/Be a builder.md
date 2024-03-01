@@ -39,7 +39,7 @@ to eventually form teams of 3 to 5.</p>
 <p>Tech expertise is preferred but not necessary to join as a builder. We
 do recommend however that your hackathon team consists of members with
 the skills required to build the solution you want to make.</p>
-<p>Here are some traits which we look out for in our builders:</p>
+<p>Here are the 4 core attributes which we use to assess the applications:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Commitment: Is the builder able to commit for all weekly sessions, and
