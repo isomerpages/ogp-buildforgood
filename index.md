@@ -30,7 +30,7 @@ sections:
       button: be a builder
       url: /builder
       alt: Image alt text
-      image: /images/projects3.png
+      image: /images/BFG_images.gif
   - textcards:
       title: Join us to build a Greener Singapore!
       id: textcards
