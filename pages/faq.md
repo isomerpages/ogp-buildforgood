@@ -9,7 +9,7 @@ While tech expertise and interest in tech are preferred, we welcome participants
 
 ### Can I participate if I’m not in Singapore?
 
-We strongly encourage you to be in Singapore to participate in our 5 in-person sessions held on 18 May, 25 May, 1 June, 8 June and 15 June. Beyond that, you may find a suitable arrangement with your team so that you can contribute meaningfully during the course of the hackathon.
+We strongly encourage you to be in Singapore to participate in our 5 in-person sessions held on 18 May, 25 May, 1 June, 8 June and 15 June, and the finale on 22 June. Beyond that, you may find a suitable arrangement with your team so that you can contribute meaningfully during the course of the hackathon.
 
 ### Can I participate if I’m working or schooling?
 
@@ -32,12 +32,12 @@ You may sign up as an individual or as a team. During the course of the hackatho
 
 During the hackathon, there will be in-person sessions held every Saturday:
 
-*  **Builders’ Kickoff:** 18 May
-*  **Weekly session 1:** 25 May
-*  **Weekly session 2:** 1 June
-*  **Weekly session 3:** 8 June
-*  *  **Weekly session 4:** 15 June
-*  **Finale:** 22 June
+*  **Builders’ Kickoff:** 18 May 2024
+*  **Weekly session 1:** 25 May 2024
+*  **Weekly session 2:** 1 June 2024
+*  **Weekly session 3:** 8 June 2024
+*  *  **Weekly session 4:** 15 June 2024
+*  **Finale:** 22 June 2024
 
 These in-person sessions are compulsory to attend and will ensure that you make steady progress towards the finale. Beyond the hackathon, winning teams will be required to take part in a 2-month accelerator programme, which will help them potentially launch their solutions to real users.
 
