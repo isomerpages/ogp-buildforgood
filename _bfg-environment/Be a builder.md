@@ -9,8 +9,7 @@ partnering with the <a href="https://www.mse.gov.sg/sgecofund/" rel="noopener no
 zoom in on the environment!
 <br>
 <br>Join us to build solutions that tackle environmental issues that you’re
-passionate about, be it food waste, sustainability, climate change, and
-more.</p>
+passionate about, be it food waste, recycling, climate change, and more.</p>
 <h3><strong>Why you should be a builder</strong></h3>
 <ul>
 <li>
