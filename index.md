@@ -36,15 +36,15 @@ sections:
       id: textcards
       cards:
         - title: Be a Builder
-          description: Build solutions to tackle real environmental problems
+          description: Build solutions to tackle real environmental problems.
           linktext: Be a Builder
           url: /builder/
         - title: Submit problem statements
-          description: Share with us environmental problems that you wish could be tackled
+          description: Share with us environmental problems that you wish could be tackled.
           linktext: Submit problems
           url: /submit-problems
         - title: Be a domain expert
-          description: Help our builders succeed through guidance and knowledge sharing
+          description: Help our builders succeed through guidance and knowledge sharing.
           linktext: Be a domain expert
           url: /domain-expert
   - infobar:
