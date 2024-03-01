@@ -35,12 +35,12 @@ sections:
       title: Join us to build a Greener Singapore!
       id: textcards
       cards:
-        - title: Be a builder
+        - title: Be a Builder
           description: Build solutions to tackle real environmental problems
-          linktext: Be a builder
+          linktext: Be a Builder
           url: /builder/
         - title: Submit problem statements
-          description: Share with us environmental problems that you wish we could tackle
+          description: Share with us environmental problems that you wish could be tackled
           linktext: Submit problems
           url: /submit-problems
         - title: Be a domain expert
