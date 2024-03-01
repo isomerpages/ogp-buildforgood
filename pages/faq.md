@@ -50,6 +50,6 @@ After registration, we will be screening through the applications and shortlist 
 All solutions need to have a demonstrated prototype that's validated through user testing. At the finale, you will be required to outline the problem you identified and how your solution tackles it. All solutions will be evaluated by a judging panel comprising of government leaders and industry experts, and 3 winning teams will be awarded sponsorship of up to $100,000 each.
 
 ### What happens after the finale?
-All teams will continue to have full ownership (including IP rights) of their prototypes after finale, and are strongly encouraged to continue developing their products. Winning teams will receive sponsorship and go through a 2-month accelerator programme to continue developing prototypes into full-fledged products. 
+All teams will continue to have full ownership (including Intellectual Property (IP) rights) of their prototypes after finale, and are strongly encouraged to continue developing their products. Winning teams will receive sponsorship and go through a 2-month accelerator programme to continue developing prototypes into full-fledged products. 
 
 All builders will also be given a digital certificate of participation after the finale.
