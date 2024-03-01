@@ -46,7 +46,7 @@ sections:
         - title: Be a domain expert
           description: Help our builders succeed through guidance and knowledge sharing.
           linktext: Be a domain expert
-          url: /domain-expert
+          url: /contact
   - infobar:
       title: Build for Good 2023 Recap
       id: infobar
