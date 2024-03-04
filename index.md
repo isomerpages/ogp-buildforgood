@@ -21,7 +21,7 @@ sections:
           description: 18 MAY — 22 JUN 2024
           url: ""
         - title: funding of up to
-          description: $100,000
+          description: $100,000*
           url: ""
   - infopic:
       title: This time, for the environment.
