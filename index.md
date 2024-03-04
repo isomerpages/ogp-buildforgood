@@ -59,7 +59,7 @@ sections:
   - infobar:
       subtitle: WHAT OUR BUILDERS SAID
       id: infobar
-      description: '"The hackathon gave me an opportunity to work on a topic I feel
+      description: '" The hackathon gave me an opportunity to work on a topic I feel
         passionate about and felt could be improved. " — Jing Ru'
       button: Be a builder
       url: /builder
