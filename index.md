@@ -36,7 +36,7 @@ sections:
       id: textcards
       cards:
         - title: Be a Builder
-          description: Build solutions to tackle real environmental problems.
+          description: Build solutions to tackle environmental issues in Singapore.
           linktext: Be a Builder
           url: /builder/
         - title: Submit problem statements
