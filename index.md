@@ -24,13 +24,13 @@ sections:
           description: $100,000
           url: ""
   - infopic:
-      title: A month-long citizen hackathon
-      description: Build solutions to tackle issues in Singapore that you feel
-        strongly about.
+      title: This time, for the environment.
+      description: Build solutions to tackle pressing environmental issues in Singapore.
       button: be a builder
       url: /builder
       alt: Image alt text
       image: /images/BFG_images.gif
+      subtitle: we're back!
   - textcards:
       title: Join us to build a Greener Singapore!
       id: textcards
