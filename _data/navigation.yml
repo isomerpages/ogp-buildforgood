@@ -2,7 +2,7 @@ logo: /images/Logo.png
 links:
   - title: About
     url: /about/
-  - title: Bfg Environment
+  - title: BFG Environment
     collection: bfg-environment
   - title: BFG 2023
     collection: bfg-2023
