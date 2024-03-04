@@ -24,7 +24,7 @@ sections:
           description: $100,000*
           url: ""
   - infopic:
-      title: This time, for the environment.
+      title: This time, for the environment
       description: Build solutions to tackle pressing environmental issues in Singapore.
       button: be a builder
       url: /builder
@@ -32,7 +32,7 @@ sections:
       image: /images/BFG_images.gif
       subtitle: we're back!
   - textcards:
-      title: Join us to build a Greener Singapore!
+      title: Join us to build a Greener Singapore
       id: textcards
       cards:
         - title: Be a Builder
