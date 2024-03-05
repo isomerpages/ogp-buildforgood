@@ -45,7 +45,7 @@ sections:
           url: /submit-problems
         - title: Volunteer as a domain expert
           description: Help our builders succeed through guidance and knowledge sharing.
-          linktext: Find Out More
+          linktext: Contact Us
           url: /domain-expert
   - infobar:
       title: Build for Good 2023 Recap
