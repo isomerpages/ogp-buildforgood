@@ -7,9 +7,9 @@ variant: markdown
 
 While tech expertise and interest in tech are preferred, we welcome participants from all backgrounds to join us. We do recommend however that your hackathon team consists of members with the skills required to build the solution you want to make. 
 
-### Can I participate if I’m not in Singapore?
+### Can I participate as a Builder if I’m not in Singapore?
 
-We strongly encourage you to be in Singapore to participate in our 5 in-person sessions held on 18 May, 25 May, 1 June, 8 June and 15 June, and the finale on 22 June. Beyond that, you may find a suitable arrangement with your team so that you can contribute meaningfully during the course of the hackathon.
+Unfortunately, no. You should be in Singapore to participate in our 5 in-person sessions held on 18 May, 25 May, 1 June, 8 June and 15 June, and the finale on 22 June. 
 
 ### Can I participate if I’m working or schooling?
 
