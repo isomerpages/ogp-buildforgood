@@ -10,7 +10,7 @@ zoom in on the environment!
 <br>
 <br>Join us to build solutions that tackle environmental issues that you’re
 passionate about, be it food waste, recycling, climate change, and more.</p>
-<h3><strong>Why you should be a builder</strong></h3>
+<h3><strong>Why you should be a Builder</strong></h3>
 <ul>
 <li>
 <p>Build solutions that tackle real environmental problems</p>
@@ -31,15 +31,15 @@ launch them to real users!
 <br>
 <br>*Refer to <a href="/environment/funding-accelerator" rel="noopener noreferrer nofollow" target="_blank">funding &amp; accelerator</a> for
 more details</p>
-<h3><strong>Who can be a builder?</strong></h3>
+<h3><strong>Who can be a Builder?</strong></h3>
 <p>Anyone 18 and above with a strong desire to make Singapore better is welcome
-to sign up to be a builder. Interested builders may join as a team or as
-individuals, though during the hackathon, all builders will be required
-to eventually form teams of 3 to 5.</p>
+to sign up to be a builder. Applicants may join as a team or as individuals,
+though during the hackathon, all Builders will be required to eventually
+form teams of 3 to 5.</p>
 <p>Here are the 4 core attributes which we use to assess the applications:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Commitment: Is the builder able to commit for all weekly sessions, and
+<p>Commitment: Is the applicant able to commit for all weekly sessions, and
 willing to continue working on the solution beyond the hackathon?</p>
 </li>
 <li>
@@ -65,11 +65,11 @@ testing at the finale.</p>
 <h3><strong>Event Timeline</strong></h3>
 <p>The hackathon will run from 18 May to 22 June 2024, which consists of
 a kickoff, 4 weekly sessions, and a finale event. In between these sessions,
-builders are free to continue working on their projects in their own time.
+Builders are free to continue working on their projects in their own time.
 We will provide working spaces on Thursdays to allow teams to work on their
 projects.</p>
 <p>Do note that all sessions are on Saturdays and held in-person only so
-as to maximise the builders’ experience.</p>
+as to maximise the Builders’ experience.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Builders’ Kickoff:</strong> 18 May (10-5pm)</p>
