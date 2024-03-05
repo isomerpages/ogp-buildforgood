@@ -36,7 +36,7 @@ During the hackathon, there will be in-person sessions held every Saturday:
 *  **Weekly session 1:** 25 May 2024
 *  **Weekly session 2:** 1 June 2024
 *  **Weekly session 3:** 8 June 2024
-*  *  **Weekly session 4:** 15 June 2024
+*  **Weekly session 4:** 15 June 2024
 *  **Finale:** 22 June 2024
 
 These in-person sessions are compulsory to attend and will ensure that you make steady progress towards the finale. Beyond the hackathon, winning teams will be required to take part in a 2-month accelerator programme, which will help them potentially launch their solutions to real users.
