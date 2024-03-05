@@ -10,7 +10,7 @@ zoom in on the environment!
 <br>
 <br>Join us to build solutions that tackle environmental issues that you’re
 passionate about, be it food waste, recycling, climate change, and more.</p>
-<h3><strong>Why you should be a Builder</strong></h3>
+<h3><strong>Why you should be a Builder?</strong></h3>
 <ul>
 <li>
 <p>Build solutions that tackle real environmental problems</p>
