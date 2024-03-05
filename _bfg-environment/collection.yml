@@ -2,7 +2,7 @@ collections:
   bfg-environment:
     output: true
     order:
-      - Volunteer as Domain Expert.md
       - Be a builder.md
       - Funding & Accelerator.md
       - Share problem statements.md
+      - Volunteer as Domain Expert.md
