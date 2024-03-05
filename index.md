@@ -35,17 +35,17 @@ sections:
       title: Join us to build a Greener Singapore
       id: textcards
       cards:
-        - title: Be a Builder
+        - title: Sign up as a Builder
           description: Build solutions to tackle environmental issues in Singapore.
           linktext: Be a Builder
           url: /builder/
         - title: Submit problem statements
           description: Share with us environmental problems that you wish could be tackled.
-          linktext: Submit problems
+          linktext: Submit Problems
           url: /submit-problems
-        - title: Be a domain expert
+        - title: Volunteer as a domain expert
           description: Help our builders succeed through guidance and knowledge sharing.
-          linktext: Be a domain expert
+          linktext: Contact Us
           url: /contact
   - infobar:
       title: Build for Good 2023 Recap
