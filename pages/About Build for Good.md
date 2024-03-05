@@ -4,7 +4,7 @@ permalink: /about/
 description: ""
 variant: markdown
 ---
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Eb0C0_HE8U8?si=26BenndvvOrUHCan" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Eb0C0_HE8U8?si=26BenndvvOrUHCan" height="315" width="100%"></iframe>
 
 #### **Empowering citizens to contribute and lead the change to make Singapore better**
 
