@@ -21,7 +21,11 @@ Citizens, PRs or those studying or working in Singapore are welcome to join Buil
 
 ### Must I join as a builder to contribute to Build for Good?
 
-While builders are essential to Build for Good, we welcome you to contribute in different ways! If you have a problem statement to share and challenge our builders to work on them, you can submit them [here](https://go.gov.sg/buildforgood-ps). You may also represent your NGO or a social enterprise to contribute problem statements.
+While builders are essential to Build for Good, we welcome you to contribute in different ways! 
+
+If you have a problem statement to share and challenge our builders to work on them, you can submit them [here](/submit-problems). You may also represent your NGO or a social enterprise to contribute problem statements.
+
+If you have strong expertise or experience in the environmental & tech field, we are also looking for domain experts [here](/domain-experts)!
 
 ### Do I need a team to participate?
 
