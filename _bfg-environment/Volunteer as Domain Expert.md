@@ -9,7 +9,7 @@ If you have strong expertise and experience in the environment &amp; tech
 field and are keen to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Deliver talks on environmental topics or product development, or</p>
+<p>Deliver talks on environmental topics or product development, and/or</p>
 </li>
 <li>
 <p>Provide weekly / ad-hoc mentorship to the teams through the hackathon
