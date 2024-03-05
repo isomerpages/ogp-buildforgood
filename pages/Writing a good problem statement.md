@@ -16,7 +16,7 @@ description: ""
 <p>The impact of the problem</p>
 </li>
 </ol>
-<h4>3 Tips for writing</h4>
+<h4>3 Tips For Writing</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Do not include solutions in your problem statement</p>
@@ -41,7 +41,7 @@ additional effort required for research, resulting in low recycling rates.</p>
 not accessible to all residential areas. Creating a central portal will
 help make the recycling process easier.</p>
 <p></p>
-<h4>Problem Statement template</h4>
+<h4>Problem Statement Template</h4>
 <p>Here's a template to help guide your problem statement writing!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/A4___Problem_Statement.png">
