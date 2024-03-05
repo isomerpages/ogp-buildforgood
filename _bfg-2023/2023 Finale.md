@@ -34,4 +34,4 @@ located.</p>
 to building a better Singapore with us. We’re excited to see how each team
 will bring their projects to the next level!</p>
 <p></p>
-<p>Check out all the projects <a href="/projects" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
+<p>Check out all the projects <a href="/projects/basecamp/" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
