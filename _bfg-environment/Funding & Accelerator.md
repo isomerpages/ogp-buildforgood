@@ -54,7 +54,7 @@ behavioral study, audit);</p>
 of $1000 each upon launching their MVPs, as a token of appreciation for
 their contribution to the public good.</p>
 <h3>Accelerator</h3>
-<p>Duration: 29 June 2024 - 17 Aug 2024 (Bi-weekly in-person sessions)</p>
+<p>Duration: 29 June 2024 - 17 Aug 2024</p>
 <p>*Compulsory for winning teams to attend</p>
 <p><strong>What you can expect:</strong>
 </p>
