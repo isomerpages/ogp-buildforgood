@@ -92,5 +92,6 @@ as to maximise the Builders’ experience.</p>
 </ul>
 <p>*<em>Refreshments will be provided</em>
 </p>
-<p><strong>Sign ups will start on 13 Mar 2024.</strong>
-</p>
+
+
+<a href="[http://go.gov.sg/bfg-environment](http://go.gov.sg/bfg-environment)"> <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button"> Sign up now </button> </a>
