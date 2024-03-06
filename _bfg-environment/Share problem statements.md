@@ -14,7 +14,7 @@ Whether you're an individual or representing a non-profit, tell us more about th
 * Energy
 * Environmental Pollution
 * Food security
-* Nature & biodiversity
+* Nature &amp; biodiversity
 * Recycling
 * Waste
 
@@ -23,6 +23,3 @@ Not sure what to write? Check out [our guide](/problem-statement-guide/) on how 
 
 
 
-**We will be opening problem statement submissions on 13 March 2024**
-
-Should our builders express interest in your problem statement submission, we will contact you to find out more and collaborate on the issue you've raised.
