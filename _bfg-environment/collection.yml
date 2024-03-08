@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Be a Builder.md
-      - Funding & Accelerator.md
+      - Accelerator & Funding.md
       - Share problem statements.md
       - Volunteer as Domain Expert.md
