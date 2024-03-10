@@ -10,13 +10,13 @@ Whether you're an individual or representing a non-profit, tell us more about th
 
 ### Key areas in the environmental space
 
-* Climate change
+* Public hygiene
+* Waste &amp; recycling
+* Food security
 * Energy
 * Environmental Pollution
-* Food security
 * Nature &amp; biodiversity
-* Recycling
-* Waste
+
 
 ### Coming up with a good problem statement
 Not sure what to write? Check out [our guide](/problem-statement-guide/) on how to craft a good problem statement!
