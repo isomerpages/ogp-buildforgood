@@ -42,5 +42,3 @@ as to maximise the Builders’ experience.</p>
 </ul>
 <p>Winning teams will join a <a href="accelerator-funding/" rel="noopener noreferrer nofollow" target="_blank">2-month accelerator</a> by default after the
 hackathon.</p>
-<p>*<em>Refreshments will be provided</em>
-</p>
