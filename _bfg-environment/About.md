@@ -4,14 +4,13 @@ permalink: /environment/
 variant: tiptap
 description: ""
 ---
-<p>Last year, we asked you to share with us the top problems in Singapore,
-and environmental problems emerged as one of the top three! This year,
-we are back with another round of Build for Good, partnering with the
-<a href="https://www.mse.gov.sg/sgecofund/" rel="noopener noreferrer nofollow" target="_blank"><u>Ministry of Sustainability and the Environment's SG Eco Fund</u>
-</a>to zoom in on the environment!
-<br>
-<br>Join us to build solutions that tackle environmental issues that you’re
-passionate about, be it food waste, recycling, public hygiene, and more.</p>
+<p>Last year, we invited you to share with us the top issues in Singapore,
+and environmental issues emerged as one of the top three! So this year,
+we are back with another round of Build for Good, in partnership with the
+Ministry of Sustainability and the Environment's <a href="https://www.mse.gov.sg/sgecofund/" rel="noopener noreferrer nofollow" target="_blank">SG Eco Fund</a>, with a focus
+on the environment.</p>
+<p>Join us in building solutions to address environmental issues that matter
+to you, be it food waste, recycling, public hygiene, and more.</p>
 <h3><strong>Event Timeline</strong></h3>
 <p>The hackathon will run from 18 May to 22 June 2024, which consists of
 a kickoff, 4 weekly sessions, and a finale event. In between these sessions,
