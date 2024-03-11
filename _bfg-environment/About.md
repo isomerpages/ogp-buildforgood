@@ -63,6 +63,4 @@ hackathon.</p>
 </li>
 </ul>
 <p>You may still work on a problem that is not covered by the focus areas
-above, as long as it concerns the environment. The hackathon committee
-&amp; mentors will work with you to refine your problem statement during
-the hackathon.</p>
+above, as long as it concerns the environment.</p>
