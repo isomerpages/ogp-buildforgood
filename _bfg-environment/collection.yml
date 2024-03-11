@@ -2,7 +2,7 @@ collections:
   bfg-environment:
     output: true
     order:
-      - About.md
+      - About BFG Environment.md
       - Sign up as a Builder.md
       - Accelerator & Funding.md
       - Share problem statements.md
