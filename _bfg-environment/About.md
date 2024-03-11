@@ -96,6 +96,6 @@ control</p>
 </tbody>
 </table>
 <p>You may still work on a problem that is not covered by the focus areas
-above, as long as it concerns the environment.</p>
+above, as long as it impacts the environment.</p>
 <p>Refer to <a href="https://www.mse.gov.sg/cos" rel="noopener noreferrer nofollow" target="_blank">MSE Committee of Supply</a> on
 Singapore's focus areas for 2024.</p>
