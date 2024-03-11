@@ -42,26 +42,59 @@ as to maximise the Builders’ experience.</p>
 <p>Winning teams will join a <a href="accelerator-funding/" rel="noopener noreferrer nofollow" target="_blank">2-month accelerator</a> by default after the
 hackathon.</p>
 <h3><strong>Focus Areas</strong></h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Public hygiene</p>
-</li>
-<li>
-<p>Waste &amp; recycling</p>
-</li>
-<li>
-<p>Food security</p>
-</li>
-<li>
-<p>Resource efficiency (energy &amp; water)</p>
-</li>
-<li>
-<p>Environmental Pollution</p>
-</li>
-<li>
-<p>Nature &amp; Biodiversity</p>
-</li>
-</ul>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Focus Area</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Examples</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Environment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Waste management, reducing waste, recycling, environment cleaniness, vector
+control</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Food</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ensuring food safety, reducing food waste, diversifying food sources</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Water</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Reducing water pollution, reducing water waste</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Clean Air</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Reducing air pollution, improving indoor air quality</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Energy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Improving energy efficiency of individuals and businesses</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>You may still work on a problem that is not covered by the focus areas
 above, as long as it concerns the environment.</p>
 <p>Refer to <a href="https://www.mse.gov.sg/cos" rel="noopener noreferrer nofollow" target="_blank">MSE Committee of Supply</a> on
