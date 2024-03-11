@@ -59,7 +59,7 @@ hackathon.</p>
 <p>Environmental Pollution</p>
 </li>
 <li>
-<p>Nature &amp;amp; Biodiversity</p>
+<p>Nature &amp; Biodiversity</p>
 </li>
 </ul>
 <p></p>
