@@ -4,7 +4,6 @@ permalink: /builder/
 description: ""
 variant: markdown
 ---
-
 <h3><strong>Why you should be a Builder?</strong></h3>
 <ul>
 <li>
@@ -59,4 +58,4 @@ testing at the finale.</p>
 <p>If you need inspiration, you can check out the <a href="/projects/basecamp/" rel="noopener noreferrer nofollow" target="_blank">projects</a> from our last Build for Good!</p>
 
 
-<a href="[http://go.gov.sg/bfg-environment](http://go.gov.sg/bfg-environment)"> <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button"> Sign up now </button> </a>
+<a href="http://go.gov.sg/bfg-environment"> <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button"> Sign up now </button> </a>
