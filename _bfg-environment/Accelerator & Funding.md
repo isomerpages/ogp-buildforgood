@@ -61,8 +61,7 @@ during the accelerator programme, to scaling and sustained growth thereafter.
 </td>
 <td rowspan="1" colspan="1">
 <p>The 1st phase of funding supports the following key milestones during
-the accelerator programme:</p>
-<p>
+the accelerator programme:
 <br>
 </p>
 <ul>
