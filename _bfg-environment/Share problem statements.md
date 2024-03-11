@@ -12,4 +12,4 @@ Whether you're an individual or representing a non-profit, tell us more about th
 ### Coming up with a good problem statement
 Not sure what to write? Check out [our guide](/problem-statement-guide/) on how to craft a good problem statement!
 
-<a href="[https://form.gov.sg/65e834286bd31a821726d281](https://form.gov.sg/65e834286bd31a821726d281)"> <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button"> Submit Problems </button> </a>
+<a href="https://form.gov.sg/65e834286bd31a821726d281"> <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button"> Submit Problems </button> </a>
