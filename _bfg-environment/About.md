@@ -4,11 +4,11 @@ permalink: /environment/
 variant: tiptap
 description: ""
 ---
-<p>Last year, we asked you to share with us what are the top problems in
-Singapore, and environmental problems emerged as one of the top three!
-This year, we are back with another round of Build for Good, partnering
-with the <a href="https://www.mse.gov.sg/sgecofund/" rel="noopener noreferrer nofollow" target="_blank"><u>Ministry of Sustainability and the Environment's SG Eco Fund</u></a> to
-zoom in on the environment!
+<p>Last year, we asked you to share with us the top problems in Singapore,
+and environmental problems emerged as one of the top three! This year,
+we are back with another round of Build for Good, partnering with the
+<a href="https://www.mse.gov.sg/sgecofund/" rel="noopener noreferrer nofollow" target="_blank"><u>Ministry of Sustainability and the Environment's SG Eco Fund</u>
+</a>to zoom in on the environment!
 <br>
 <br>Join us to build solutions that tackle environmental issues that you’re
 passionate about, be it food waste, recycling, public hygiene, and more.</p>
