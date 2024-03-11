@@ -41,3 +41,25 @@ as to maximise the Builders’ experience.</p>
 </ul>
 <p>Winning teams will join a <a href="accelerator-funding/" rel="noopener noreferrer nofollow" target="_blank">2-month accelerator</a> by default after the
 hackathon.</p>
+<h3><strong>Environmental Areas</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Public hygiene</p>
+</li>
+<li>
+<p>Waste &amp; recycling</p>
+</li>
+<li>
+<p>Food security</p>
+</li>
+<li>
+<p>Energy</p>
+</li>
+<li>
+<p>Environmental Pollution</p>
+</li>
+<li>
+<p>Nature &amp;amp; Biodiversity</p>
+</li>
+</ul>
+<p></p>
