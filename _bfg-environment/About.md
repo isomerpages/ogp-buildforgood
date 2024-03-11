@@ -90,7 +90,7 @@ control</p>
 <p>Energy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Improving energy efficiency of individuals and businesses</p>
+<p>Improving energy efficiency of households and businesses</p>
 </td>
 </tr>
 </tbody>
