@@ -54,7 +54,7 @@ hackathon.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Environment</p>
+<p>Clean Environment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Waste management, reducing packaging waste, encouraging recycling, ensuring
