@@ -111,7 +111,7 @@ environment cleaniness, vector control</p>
 </tr>
 </tbody>
 </table>
-<p>Builders may still work on problems that are not covered by the focus
-areas above, as long as they are validated problems that impact the environment.</p>
+<p>Builders may still work on problems that are not mentioned above, as long
+as they are validated problems that impact the environment.</p>
 <p>Refer to <a href="https://www.mse.gov.sg/cos" rel="noopener noreferrer nofollow" target="_blank">MSE Committee of Supply</a> on
 Singapore's focus areas for 2024.</p>
