@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - About.md
-      - Be a Builder.md
+      - Sign up as a Builder.md
       - Accelerator & Funding.md
       - Share problem statements.md
       - Volunteer as Domain Expert.md
