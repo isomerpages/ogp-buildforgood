@@ -41,7 +41,7 @@ as to maximise the Builders’ experience.</p>
 </ul>
 <p>Winning teams will join a <a href="accelerator-funding/" rel="noopener noreferrer nofollow" target="_blank">2-month accelerator</a> by default after the
 hackathon.</p>
-<h3><strong>Environmental Areas</strong></h3>
+<h3><strong>Focus Areas</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Public hygiene</p>
@@ -53,7 +53,7 @@ hackathon.</p>
 <p>Food security</p>
 </li>
 <li>
-<p>Energy</p>
+<p>Resource efficiency (energy &amp; water)</p>
 </li>
 <li>
 <p>Environmental Pollution</p>
@@ -62,4 +62,5 @@ hackathon.</p>
 <p>Nature &amp; Biodiversity</p>
 </li>
 </ul>
-<p></p>
+<p>You may still work on a problem that is not covered by the focus areas
+above, as long as it concerns the environment.</p>
