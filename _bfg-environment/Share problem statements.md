@@ -8,15 +8,6 @@ variant: markdown
 
 Whether you're an individual or representing a non-profit, tell us more about the environmental problems that you believe Singapore is facing. By sharing these problem statements, our builders will have the opportunity to tackle some of these problems during Build for Good and work towards a greener Singapore. These submissions will also help us better understand what problems citizens care most about.
 
-### Problem areas
-
-* Public hygiene
-* Waste &amp; recycling
-* Food security
-* Energy
-* Environmental Pollution
-* Nature &amp; biodiversity
-
 
 ### Coming up with a good problem statement
 Not sure what to write? Check out [our guide](/problem-statement-guide/) on how to craft a good problem statement!
