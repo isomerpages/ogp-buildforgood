@@ -57,8 +57,8 @@ hackathon.</p>
 <p>Environment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Waste management, reducing waste, recycling, environment cleaniness, vector
-control</p>
+<p>Waste management, reducing waste, encouraging recycling, ensuring environment
+cleaniness, vector control</p>
 </td>
 </tr>
 <tr>
@@ -91,6 +91,14 @@ control</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Improving energy efficiency of households and businesses</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nature &amp; Biodiversity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Conversation of natural habitats and wildlife</p>
 </td>
 </tr>
 </tbody>
