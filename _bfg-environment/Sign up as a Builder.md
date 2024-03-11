@@ -51,7 +51,7 @@ in his/her own field?</p>
 </ol>
 <h3><strong>What kind of solutions can I come up with?</strong></h3>
 <p>Your solution should be a digital/physical product or service that addresses
-an environmental problem in Singapore, and it should not be for the purpose
+an <a href="/environment" rel="noopener noreferrer nofollow" target="_blank">environmental problem</a> in Singapore, and it should not be for the purpose
 of generating profit.</p>
 <p>You will be required to demonstrate a prototype that's backed by user
 testing at the finale.</p>
