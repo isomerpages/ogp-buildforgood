@@ -7,8 +7,8 @@ description: ""
 <p>Last year, we invited citizens to identify important public good problems
 and build solutions to tackle them. Environment and sustainability issues
 emerged as one of the top three important areas of concern. With that,
-we are back this year with another round of Build for Good with a focus
-on the environment. This is in partnership with SG Eco Fund, which is administered
+we are back this year with another round of Build for Good, focusing on
+the environment. This is in partnership with SG Eco Fund, which is administered
 by the Ministry of Sustainability and the Environment.</p>
 <p>Join us in building solutions to address environmental issues that matter
 to you, be it food waste, recycling, public hygiene, and more.</p>
