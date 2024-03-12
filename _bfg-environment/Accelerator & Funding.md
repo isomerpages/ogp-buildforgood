@@ -6,7 +6,7 @@ description: ""
 ---
 <h2><strong>Accelerator and Funding</strong></h2>
 <p>This year, winning teams of the Build for Good 2024 hackathon will be
-empowered further to advance their solutions for public good with an 8-week
+empowered further to advance their solutions for public good with an 2-month
 accelerator programme and funding of up to $100,000.&nbsp;</p>
 <h3><strong>Accelerator</strong></h3>
 <p>The accelerator programme will focus on imparting skills, knowledge and
