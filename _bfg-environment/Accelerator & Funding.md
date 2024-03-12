@@ -11,7 +11,7 @@ accelerator programme and funding of up to $100,000.&nbsp;</p>
 <h3><strong>Accelerator</strong></h3>
 <p>The accelerator programme will focus on imparting skills, knowledge and
 networks essential for scaling solutions through sustained growth, and
-launch them with real users.
+potentially launch them with real users.
 <br>
 </p>
 <ul>
