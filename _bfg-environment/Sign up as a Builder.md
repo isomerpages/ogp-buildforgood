@@ -4,7 +4,7 @@ permalink: /builder/
 description: ""
 variant: markdown
 ---
-<h3><strong>Why you should be a builder?</strong></h3>
+<h3><strong>Why join as a builder?</strong></h3>
 <ul>
 <li>
 <p>Build solutions that tackle important environmental problems</p>
@@ -20,8 +20,7 @@ variant: markdown
 </li>
 </ul>
 <p>Winning teams will receive funding of up to S$100,000* and take part in
-a 2-month accelerator programme to further develop their solutions, and potentially
-launch them to real users!
+a 2-month accelerator programme to further develop their solutions, and launch them to real users!
 <br>
 <br>*Refer to <a href="/environment/accelerator-funding" rel="noopener noreferrer nofollow" target="_blank">accelerator &amp; funding</a> for
 more details</p>
@@ -30,7 +29,7 @@ more details</p>
 to sign up to be a builder. Applicants may join as a team or as individuals,
 though during the hackathon, all builders will be required to
 form teams of 3 to 5.</p>
-<p>Here are the 4 core attributes which we use to assess the applications:</p>
+<p>Here are the four core attributes which we use to assess applications:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Commitment: Is the applicant able to commit for all weekly sessions, and
