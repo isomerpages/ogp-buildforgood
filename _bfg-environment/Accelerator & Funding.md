@@ -27,7 +27,7 @@ join the programme by default after the hackathon</p>
 </li>
 </ul>
 <h3><strong>Funding</strong></h3>
-<p>OGP and SG Eco Fund will provide joint funding of up to $100,000* to support
+<p>OGP and SG Eco Fund will provide funding of up to $100,000* to support
 teams through various phases from product development and user acquisition
 during the accelerator programme, to scaling and sustained growth thereafter.
 <br>
