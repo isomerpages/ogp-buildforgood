@@ -23,7 +23,7 @@ variant: markdown
 a 2-month accelerator programme to further develop their solutions, and potentially
 launch them to real users!
 <br>
-<br>*Refer to <a href="/environment/funding-accelerator" rel="noopener noreferrer nofollow" target="_blank">accelerator &amp; funding</a> for
+<br>*Refer to <a href="/environment/accelerator-funding" rel="noopener noreferrer nofollow" target="_blank">accelerator &amp; funding</a> for
 more details</p>
 <h3><strong>Who can be a builder?</strong></h3>
 <p>Anyone aged 18 and above with a strong desire to make Singapore better is welcome
