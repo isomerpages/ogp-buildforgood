@@ -59,16 +59,16 @@ after the hackathon.</p>
 <p>Public Hygiene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ensuring environment cleaniness, vector control, tackling unhygienic public
-toilets</p>
+<p>Ensuring public cleanliness of public spaces and toilets, and tackling
+littering hotspots</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Clean Land</p>
+<p>Waste</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Waste management, reducing packaging waste, encouraging recycling</p>
+<p>Reducing packaging and food waste, and encouraging recycling</p>
 </td>
 </tr>
 <tr>
@@ -76,7 +76,7 @@ toilets</p>
 <p>Food</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ensuring food safety, reducing food waste, diversifying food sources</p>
+<p>Growing more food and ensuring food safety</p>
 </td>
 </tr>
 <tr>
@@ -84,31 +84,15 @@ toilets</p>
 <p>Water</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Reducing water pollution, reducing water waste</p>
+<p>Reducing water consumption of households</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Clean Air</p>
+<p>Energy &amp; Climate Change</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Reducing air pollution, improving indoor air quality</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Energy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Improving energy efficiency of households and businesses</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Climate change</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ensuring climate disclosure &amp; reporting of businesses</p>
+<p>Reducing energy consumption of households</p>
 </td>
 </tr>
 <tr>
