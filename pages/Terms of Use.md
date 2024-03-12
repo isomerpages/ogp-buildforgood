@@ -365,30 +365,20 @@ these terms or at law), or (2) in relation or connection with this Competition,
 including but not limited to your registration and participation in this
 Competition.</p>
 <p>&nbsp;</p>
-<ol start="14" data-tight="true" class="tight">
-<li>
-<p><strong>Experts and Judges</strong>
-</p>
-</li>
-</ol>
+<h3><strong>14. Experts and Judges</strong></h3>
 <p>&nbsp;</p>
-<p>1.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Experts</strong>: GovTech may
+<p>14.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Experts</strong>: GovTech may
 appoint experts to assist you with participating in this Competition. You
 may accept the expert’s assistance at your own discretion and risk. GovTech
 shall not be in any way responsible for any acts or omissions of the experts.</p>
 <p>&nbsp;</p>
-<p>14.1&nbsp;&nbsp; <strong>Judges</strong>: Submissions will be judged by
+<p>14.2&nbsp;&nbsp; <strong>Judges</strong>: Submissions will be judged by
 the panel of judges appointed by GovTech. The judges will, in their sole
 and absolute discretion, select and rank the winning Submissions, Participants
 and/or teams. All decisions by the judges are final and not subject to
 review, appeal or reconsideration.</p>
 <p>&nbsp;</p>
-<ol start="15" data-tight="true" class="tight">
-<li>
-<p><strong>Awards and other benefits</strong>
-</p>
-</li>
-</ol>
+<h3><strong>15. Awards and other benefits</strong></h3>
 <p>&nbsp;</p>
 <p>15.1&nbsp;&nbsp; All awards and other benefits, including any awards available
 and the eligibility criteria to receive any awards, are determined by GovTech
@@ -439,12 +429,7 @@ may opt out of the Accelerator Programme and Co-funding by giving GovTech
 prior written notice before the commencement of the Accelerator Programme
 on 29 June 2024.&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
-<ol start="16" data-tight="true" class="tight">
-<li>
-<p><strong>Personal Data</strong>
-</p>
-</li>
-</ol>
+<h3><strong>16. Personal Data</strong></h3>
 <p>&nbsp;</p>
 <p>16.1&nbsp;&nbsp; GovTech may be required to collect your personal data
 during the course of your registration and/or participation in this Competition.
@@ -522,4 +507,5 @@ which is more favourable to GovTech shall prevail. Notwithstanding any
 other term, GovTech has the sole and absolute discretion to determine which
 term or interpretation is more favourable to it and such decision shall
 be binding on you.</p>
-<p>&nbsp;<a href="#_msoanchor_2" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[SH2]</a>No need to update</p>
+<h3>&nbsp;<a href="#_msoanchor_2" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[SH2]</a>No need to update</h3>
+<p></p>
