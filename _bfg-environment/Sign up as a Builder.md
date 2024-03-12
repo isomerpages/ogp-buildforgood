@@ -4,7 +4,7 @@ permalink: /builder/
 description: ""
 variant: markdown
 ---
-<h3><strong>Why you should be a builder</strong></h3>
+<h3><strong>Why you should be a builder?</strong></h3>
 <ul>
 <li>
 <p>Build solutions that tackle important environmental problems</p>
@@ -25,7 +25,7 @@ launch them to real users!
 <br>
 <br>*Refer to <a href="/environment/funding-accelerator" rel="noopener noreferrer nofollow" target="_blank">accelerator &amp; funding</a> for
 more details</p>
-<h3><strong>Who can be a builder</strong></h3>
+<h3><strong>Who can be a builder?</strong></h3>
 <p>Anyone aged 18 and above with a strong desire to make Singapore better is welcome
 to sign up to be a builder. Applicants may join as a team or as individuals,
 though during the hackathon, all builders will be required to
@@ -49,7 +49,7 @@ commitment to public good?</p>
 in his/her own field?</p>
 </li>
 </ol>
-<h3><strong>What kind of solutions can I come up with?</strong></h3>
+<h3><strong>What kind of solutions can you come up with?</strong></h3>
 <p>Your solution should be a digital/physical product or service that addresses
 an <a href="/environment" rel="noopener noreferrer nofollow" target="_blank">environmental problem</a> in Singapore, and it should not be for the purpose
 of generating profit.</p>
