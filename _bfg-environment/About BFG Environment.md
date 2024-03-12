@@ -4,21 +4,22 @@ permalink: /environment/
 variant: tiptap
 description: ""
 ---
-<p>Last year, we invited you to share with us the top issues in Singapore,
-and environmental issues emerged as one of the top three! So this year,
-we are back with another round of Build for Good, in partnership with the
-Ministry of Sustainability and the Environment's <a href="https://www.mse.gov.sg/sgecofund/" rel="noopener noreferrer nofollow" target="_blank">SG Eco Fund</a>, with a focus
-on the environment.</p>
+<p>Last year, we invited members of the public to identify important problems
+to tackle in Singapore. Environment &amp; sustainability issues emerged
+as one of the top 3 important areas of concern. With that, this year, we
+are back with another round of Build for Good with a focus on the environment.
+This is in partnership with the Ministry of Sustainability and the Environment's
+<a href="https://www.mse.gov.sg/sgecofund/" rel="noopener noreferrer nofollow" target="_blank">SG Eco Fund</a>.</p>
 <p>Join us in building solutions to address environmental issues that matter
 to you, be it food waste, recycling, public hygiene, and more.</p>
-<h3><strong>Event Timeline</strong></h3>
-<p>The hackathon will run from 18 May to 22 June 2024, which consists of
-a kickoff, 4 weekly sessions, and a finale event. In between these sessions,
-Builders are free to continue working on their projects in their own time.
-We will provide working spaces on Thursdays to allow teams to work on their
-projects.</p>
+<h3><strong>Programme Timeline</strong></h3>
+<p>Build for Good will consist of 2 phases - hackathon and accelerator. The
+hackathon will run from 18 May to 22 June 2024, comprising of a kickoff,
+4 weekly sessions, and a finale event. In between these sessions, builders
+are free to continue working on their projects in their own time. We will
+provide working spaces on Thursdays to allow teams to work on their projects.</p>
 <p>Do note that all sessions are on Saturdays and held in-person only so
-as to maximise the Builders’ experience.</p>
+as to maximise the builders’ experience.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Builders’ Kickoff:</strong> 18 May (10-5pm)</p>
@@ -39,8 +40,8 @@ as to maximise the Builders’ experience.</p>
 <p><strong>Finale:</strong> 22 June (1-5pm)</p>
 </li>
 </ul>
-<p>Winning teams will join a <a href="accelerator-funding/" rel="noopener noreferrer nofollow" target="_blank">2-month accelerator</a> by default after the
-hackathon.</p>
+<p>Winning teams will then move on to the 2nd phase, a <a href="accelerator-funding/" rel="noopener noreferrer nofollow" target="_blank">2-month accelerator</a> programme,
+after the hackathon.</p>
 <h3><strong>Focus Areas</strong></h3>
 <table>
 <tbody>
