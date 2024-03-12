@@ -6,12 +6,12 @@ description: ""
 ---
 <h2><strong>Accelerator and Funding</strong></h2>
 <p>This year, winning teams of the Build for Good 2024 hackathon will be
-empowered further to advance their solutions for public good with an 2-month
+empowered further to advance their solutions for public good with a 2-month
 accelerator programme and funding of up to $100,000.&nbsp;</p>
 <h3><strong>Accelerator</strong></h3>
 <p>The accelerator programme will focus on imparting skills, knowledge and
 networks essential for scaling solutions through sustained growth, and
-potentially launch them with real users.
+launch them with real users.
 <br>
 </p>
 <ul>
@@ -20,7 +20,8 @@ potentially launch them with real users.
 </li>
 <li>
 <p>Who can participate: It is currently only open to winning teams, who will
-join the programme by default after the hackathon</p>
+join the programme by default after the hackathon. Full participation by
+winning teams is mandatory.</p>
 </li>
 <li>
 <p>Weekly sessions will be conducted in person</p>
