@@ -9,7 +9,7 @@ While tech expertise and interest in tech are preferred, we welcome participants
 
 ### Can I participate as a Builder if I’m not in Singapore?
 
-Unfortunately, no. You should be in Singapore to participate in our 5 in-person sessions held on 18 May, 25 May, 1 June, 8 June and 15 June, and the finale on 22 June. 
+Unfortunately, no. You should be in Singapore to participate in our in-person sessions and the finale. 
 
 ### Can I participate if I’m working or schooling?
 
