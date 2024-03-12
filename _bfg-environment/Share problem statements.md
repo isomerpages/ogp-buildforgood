@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### What are some pressing environmental problems in Singapore? Share them with us!
 
-Whether you're an individual or representing a non-profit, tell us more about the environmental problems that you believe Singapore is facing. By sharing these problem statements, our builders will have the opportunity to tackle some of these problems during Build for Good and work towards a greener Singapore. These submissions will also help us better understand the environmental problems that citizens care most about.
+Whether you're an individual or representing a non-profit, tell us more about the environmental problems that you believe Singapore is facing. By sharing these problem statements, our builders will have the opportunity to tackle some of these problems during Build for Good and work towards a greener Singapore. These submissions will also help us better understand environmental problems that citizens care most about.
 
 
 ### Coming up with a good problem statement
