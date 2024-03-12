@@ -56,11 +56,4 @@ sections:
         web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/Eb0C0_HE8U8?si=26BenndvvOrUHCan"
         height="315" width="100%"></iframe>
-  - infobar:
-      subtitle: WHAT OUR BUILDERS SAID
-      id: infobar
-      description: '" The hackathon gave me an opportunity to work on a topic I feel
-        passionate about and felt could be improved. " — Jing Ru'
-      button: Be a builder
-      url: /builder
 ---
