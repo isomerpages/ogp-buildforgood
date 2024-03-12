@@ -16,13 +16,13 @@ sections:
       key_highlights:
         - title: in collaboration with
           description: SG ECO FUND
-          url: ""
+          url: /environment
         - title: Happening on
           description: 18 MAY — 22 JUN 2024
-          url: ""
+          url: /builder
         - title: funding of up to
           description: $100,000*
-          url: ""
+          url: /environment/accelerator-funding/
   - infopic:
       title: This time, for the environment
       description: Build solutions to tackle pressing environmental issues in Singapore.
