@@ -8,8 +8,9 @@ description: ""
 to tackle in Singapore. Environment &amp; sustainability issues emerged
 as one of the top 3 important areas of concern. With that, this year, we
 are back with another round of Build for Good with a focus on the environment.
-This is in partnership with the Ministry of Sustainability and the Environment's
-<a href="https://www.mse.gov.sg/sgecofund/" rel="noopener noreferrer nofollow" target="_blank">SG Eco Fund</a>.</p>
+This is in partnership with the <a href="https://www.mse.gov.sg/sgecofund/" rel="noopener noreferrer nofollow" target="_blank">SG Eco Fund</a>, which is administered
+by the Ministry of Sustainability and the Environment.</p>
+<p></p>
 <p>Join us in building solutions to address environmental issues that matter
 to you, be it food waste, recycling, public hygiene, and more.</p>
 <h3><strong>Programme Timeline</strong></h3>
