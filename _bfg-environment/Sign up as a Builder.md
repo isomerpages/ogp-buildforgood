@@ -41,11 +41,11 @@ willing to continue working on the solution beyond the hackathon?</p>
 the problem space, and even proposed possible solutions to the problem?</p>
 </li>
 <li>
-<p>Values: Are there any past projects / involvement that demonstrates individual's
-commitment to the public good?</p>
+<p>Values: Are there any past projects / involvement that demonstrates the applicant's
+commitment to public good?</p>
 </li>
 <li>
-<p>Abilities: What's the level of technical expertise the participant has
+<p>Abilities: What's the level of technical expertise the applicant has
 in his/her own field?</p>
 </li>
 </ol>
