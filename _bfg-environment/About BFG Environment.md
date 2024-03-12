@@ -54,11 +54,19 @@ hackathon.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Public hygiene</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ensuring environment cleaniness, vector control, tackling unhygienic public
+toilets</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Clean Land</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Waste management, reducing packaging waste, encouraging recycling, ensuring
-environment cleaniness, vector control</p>
+<p>Waste management, reducing packaging waste, encouraging recycling</p>
 </td>
 </tr>
 <tr>
@@ -112,6 +120,6 @@ environment cleaniness, vector control</p>
 </tbody>
 </table>
 <p>Builders may still work on problems that are not mentioned above, as long
-as they are validated problems that impact the environment.</p>
+as they impact the environment.</p>
 <p>Refer to <a href="https://www.mse.gov.sg/cos" rel="noopener noreferrer nofollow" target="_blank">MSE Committee of Supply</a> on
 Singapore's environmental focus areas for 2024.</p>
