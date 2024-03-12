@@ -55,7 +55,7 @@ after the hackathon.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Public hygiene</p>
+<p>Public Hygiene</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ensuring environment cleaniness, vector control, tackling unhygienic public
