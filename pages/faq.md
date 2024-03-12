@@ -7,7 +7,7 @@ variant: markdown
 
 While tech expertise and interest in tech are preferred, we welcome participants from all backgrounds to join us. We do recommend however that your hackathon team consists of members with the skills required to build the solution you want to make. 
 
-### Can I participate as a Builder if I’m not in Singapore?
+### Can I participate as a builder if I’m not in Singapore?
 
 Unfortunately, no. You should be in Singapore to participate in our in-person sessions and the finale. 
 
@@ -49,9 +49,9 @@ After registration, we will be screening through the applications and shortlist 
 
 ### What do I need to deliver by the end of Build for Good?
 
-All solutions need to have a demonstrated prototype that's validated through user testing. At the finale, you will be required to outline the problem you identified and how your solution tackles it. All solutions will be evaluated by a judging panel comprising of government leaders and industry experts, and winning teams will be awarded funding of up to $100,000 each.
+All solutions need to have a demonstrated working prototype that's validated through user testing. At the finale, you will be required to outline the problem you identified and how your solution tackles it. All solutions will be evaluated by a judging panel comprising of government leaders and industry experts, and winning teams will be awarded funding of up to $100,000 each.
 
 ### What happens after the finale?
-All teams will continue to have full ownership (including Intellectual Property (IP) rights) of their prototypes after finale, and are strongly encouraged to continue developing their products. Winning teams will receive funding of up to $100,000 and go through a 2-month accelerator programme to continue developing prototypes into full-fledged products. 
+Winning teams will receive funding of up to $100,000 and go through a 2-month accelerator programme to continue developing prototypes into full-fledged products. 
 
 All builders will also be given a digital certificate of participation after the finale.
