@@ -26,7 +26,7 @@ launch them to real users!
 <br>*Refer to <a href="/environment/funding-accelerator" rel="noopener noreferrer nofollow" target="_blank">accelerator &amp; funding</a> for
 more details</p>
 <h3><strong>Who can be a Builder</strong></h3>
-<p>Anyone 18 and above with a strong desire to make Singapore better is welcome
+<p>Anyone aged 18 and above with a strong desire to make Singapore better is welcome
 to sign up to be a builder. Applicants may join as a team or as individuals,
 though during the hackathon, all Builders will be required to eventually
 form teams of 3 to 5.</p>
