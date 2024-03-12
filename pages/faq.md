@@ -25,8 +25,6 @@ While builders are essential to Build for Good, we welcome you to contribute in 
 
 If you have a problem statement to share and challenge our builders to work on them, you can submit them [here](/submit-problems). You may also represent your NGO or a social enterprise to contribute problem statements.
 
-If you have strong expertise or experience in the environmental & tech field, we are also looking for domain experts [here](/domain-experts)!
-
 ### Do I need a team to participate?
 
 You may sign up as an individual or as a team. During the course of the hackathon, you will get the chance to network with one another and form teams of 2 to 5. 
