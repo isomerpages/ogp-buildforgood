@@ -28,7 +28,7 @@ more details</p>
 <h3><strong>Who can be a builder</strong></h3>
 <p>Anyone aged 18 and above with a strong desire to make Singapore better is welcome
 to sign up to be a builder. Applicants may join as a team or as individuals,
-though during the hackathon, all builders will be required to eventually
+though during the hackathon, all builders will be required to
 form teams of 3 to 5.</p>
 <p>Here are the 4 core attributes which we use to assess the applications:</p>
 <ol data-tight="true" class="tight">
