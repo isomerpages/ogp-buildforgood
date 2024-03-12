@@ -475,5 +475,5 @@ which is more favourable to GovTech shall prevail. Notwithstanding any
 other term, GovTech has the sole and absolute discretion to determine which
 term or interpretation is more favourable to it and such decision shall
 be binding on you.</p>
-<h3>&nbsp;<a href="#_msoanchor_2" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[SH2]</a>No need to update</h3>
+<h3></h3>
 <p></p>
