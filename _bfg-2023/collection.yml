@@ -2,7 +2,7 @@ collections:
   bfg-2023:
     output: true
     order:
-      - 2023 Finale.md
+      - BFG 2023 Recap.md
       - Projects/.keep
       - Projects/Basecamp.md
       - Projects/ChatLah.md
