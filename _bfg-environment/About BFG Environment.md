@@ -116,7 +116,7 @@ toilets</p>
 <p>Nature &amp; Biodiversity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Conversation of natural habitats and wildlife</p>
+<p>Conservation of natural habitats and wildlife</p>
 </td>
 </tr>
 </tbody>
