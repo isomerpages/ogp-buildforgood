@@ -4,7 +4,6 @@ permalink: /terms-of-use/
 description: ""
 variant: tiptap
 ---
-<h2></h2>
 <h2><strong>Build for Good Terms and Conditions</strong></h2>
 <p>These are the terms and conditions (“<strong>Terms and Conditions</strong>”)
 governing participation in Build for Good, which is organised by the Government
@@ -32,48 +31,43 @@ the Competition.</p>
 <p>1.1&nbsp; The following terms shall have the meanings ascribed below:
 <br>
 </p>
-<p>1.1.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “<strong>Competition</strong>”
-means the Build for Good Competition event and competition organised by
-GovTech with its competition website at the following URL: <a rel="noopener noreferrer nofollow" target="_blank">build.gov.sg</a> ("<strong>Website</strong>”),
+<p>1.1.1 “<strong>Competition</strong>” means the Build for Good Competition
+event and competition organised by GovTech with its competition website
+at the following URL: <a rel="noopener noreferrer nofollow" target="_blank">build.gov.sg</a> ("<strong>Website</strong>”),
 and all activities associated therewith;</p>
 <p>&nbsp;</p>
-<p>1.1.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “<strong>GovTech</strong>” means
-Government Technology Agency, a statutory board constituted under the Government
-Technology Agency Act 2016;</p>
+<p>1.1.2 “<strong>GovTech</strong>” means Government Technology Agency, a
+statutory board constituted under the Government Technology Agency Act
+2016;</p>
 <p>&nbsp;</p>
-<p>1.1.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “<strong>GovTech Entities</strong>”
-means GovTech, the Government of Singapore (including its departments,
-ministries and organs of state) and all its statutory boards and agencies
-collectively;</p>
+<p>1.1.3 “<strong>GovTech Entities</strong>” means GovTech, the Government
+of Singapore (including its departments, ministries and organs of state)
+and all its statutory boards and agencies collectively;</p>
 <p>&nbsp;</p>
-<p>1.1.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “<strong>IP</strong>” means
-all (a) copyrights, trademarks, patents, trade secrets and all other intellectual
-property rights or proprietary rights, (b) processes, methodologies, procedures,
-and trade secrets, (c) software, tools, scripts and machine-readable texts
-and files, and (d) literary work or other work of authorship, including
-documentation, reports, drawings, charts, graphics and other written documentation;</p>
+<p>1.1.4 “<strong>IP</strong>” means all (a) copyrights, trademarks, patents,
+trade secrets and all other intellectual property rights or proprietary
+rights, (b) processes, methodologies, procedures, and trade secrets, (c)
+software, tools, scripts and machine-readable texts and files, and (d)
+literary work or other work of authorship, including documentation, reports,
+drawings, charts, graphics and other written documentation;</p>
 <p>&nbsp;</p>
-<p>1.1.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “<strong>Organising Committee</strong>”
-means GovTech’s representatives and personnel tasked with administering
-and managing the Competition;</p>
+<p>1.1.5 “<strong>Organising Committee</strong>” means GovTech’s representatives
+and personnel tasked with administering and managing the Competition;</p>
 <p>&nbsp;</p>
-<p>1.1.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “<strong>Party</strong>” means
-you or GovTech, and “<strong>Parties</strong>” means you and GovTech collectively;</p>
+<p>1.1.6 “<strong>Party</strong>” means you or GovTech, and “<strong>Parties</strong>”
+means you and GovTech collectively;</p>
 <p>&nbsp;</p>
-<p>1.1.7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “<strong>Participants</strong>”
-means all persons of the registered teams individually and collectively,
-that are participating in the Competition. “<strong>Participant</strong>”
-means each of the Participants;</p>
+<p>1.1.7 “<strong>Participants</strong>” means all persons of the registered
+teams individually and collectively, that are participating in the Competition.
+“<strong>Participant</strong>” means each of the Participants;</p>
 <p>&nbsp;</p>
-<p>1.1.8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “<strong>Platform</strong>”
-means the computer systems and services providing the computer processes
-and environment for the Competition;</p>
+<p>1.1.8 “<strong>Platform</strong>” means the computer systems and services
+providing the computer processes and environment for the Competition;</p>
 <p>&nbsp;</p>
-<p>1.1.9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “<strong>Rules</strong>” mean
-the rules, regulations and decisions prescribed by GovTech for the Competition,
-including these terms and conditions set out herein and those set out at
-the following URL: <a rel="noopener noreferrer nofollow" target="_blank">build.gov.sg</a>.
-The Rules shall be deemed to be part of these Terms and Conditions.</p>
+<p>1.1.9 “<strong>Rules</strong>” mean the rules, regulations and decisions
+prescribed by GovTech for the Competition, including these terms and conditions
+set out herein and those set out at the following URL: <a rel="noopener noreferrer nofollow" target="_blank">build.gov.sg</a>. The Rules shall be
+deemed to be part of these Terms and Conditions.</p>
 <p>&nbsp;</p>
 <p>1.2&nbsp; Reference to “<strong>Clauses</strong>” or “<strong>Clause</strong>”
 shall refer to the clauses or clause of these Terms and Conditions and
@@ -155,12 +149,10 @@ undesirable content or materials.</p>
 to the GovTech shall become the property of GovTech on receipt and shall
 not be returned.</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>6.3&nbsp; All Competition entries must not contain any offensive, obscene,
 indecent, inappropriate, hateful, threatening, malicious, corrupt, defamatory
 or libellous expressions.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p>6.4&nbsp; You warrant and represent that your Submissions are your original
 works and that your Submissions have not been entered into any other competition
 (including other hackathons) or considered for any grant or award. You
@@ -177,18 +169,10 @@ coercion, or intimidation; and</p>
 <p>7.1.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Any acts of sabotage, tampering,
 misuse, or attacks.</p>
 <p>Any violations related to the above may result in immediate disqualification.</p>
-<p>&nbsp;</p>
 <p>7.2&nbsp; Should you have any doubt or concerns over whether any particular
 course of conduct or action intended by them in the Competition is appropriate
 or otherwise, you may seek clarification from the Organising Committee.</p>
-<p>&nbsp;</p>
-<ol start="8" data-tight="true" class="tight">
-<li>
-<p><strong>Confidentiality</strong>
-</p>
-</li>
-</ol>
-<p>&nbsp;</p>
+<h3><strong>8. Confidentiality</strong></h3>
 <p>8.1&nbsp; Any document, material or information which GovTech discloses
 to you that is marked as “Confidential” or with other similar indicia are
 to be kept confidential by you and shall not be disclosed by you to any
@@ -201,35 +185,20 @@ is in the public domain through no fault of or breach by you, and shall
 not include information already rightfully known by you without obligations
 of confidentiality prior to its disclosure to you by GovTech.</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>8.3&nbsp; You hereby acknowledge and agree that Confidential Information
 provided in relation to this Competition (by GovTech or otherwise) may
 include official information and that your attention has been drawn to
 the Official Secrets Act 1935 of Singapore (the “<strong>OSA</strong>”)
 and in particular section 5 of the OSA which relates to the safeguarding
 of official information.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<ol start="9" data-tight="true" class="tight">
-<li>
-<p><strong>Consent to Monitoring</strong>
-</p>
-</li>
-</ol>
-<p>&nbsp;</p>
+<h3><strong>9. Consent to Monitoring</strong></h3>
+<p></p>
 <p>9.1&nbsp; You understand and acknowledge that GovTech and its agents may
 in their sole and absolute discretion, monitor all activities and processes
 of the Participants on the Platform or environment, and may intercept or
 otherwise terminate any activity or process, if GovTech is of the opinion
 that such action is necessary for the security and integrity of the Competition.</p>
-<p>&nbsp;</p>
-<ol start="10" data-tight="true" class="tight">
-<li>
-<p><strong>Intellectual Property</strong>
-</p>
-</li>
-</ol>
-<p>&nbsp;</p>
+<h3><strong>10. Intellectual Property</strong></h3>
 <p>10.1&nbsp;&nbsp; Except as provided for otherwise in this Clause 10, nothing
 in this Clause 10 shall affect the ownership or the right to license IP
 of any Party.</p>
@@ -285,6 +254,7 @@ on an as “as-is” and “with all faults” basis. Any warranty of merchantab
 fitness of purpose, uninterrupted use, warranty, non-infringement and absence
 of defects or faults are hereby expressly disclaimed. The above exemptions,
 liabilities and disclaimers shall apply to the maximum permitted by law.</p>
+<p></p>
 <p>11.3&nbsp;&nbsp; Your participation in this Competition shall be at your
 own risk and expense, and you shall (a) bear your own costs and expenses
 incurred in connection with the Competition, and (b) be solely responsible
@@ -371,9 +341,9 @@ with co-funding from GovTech to fund costs from accelerator to pilot phase
 and launch of a minimum viable product, and from the SG Eco Fund to fund
 costs in the community engagement phase ("<strong>Co-funding</strong>”).
 The Accelerator Programme and Co-funding shall collectively be referred
-to as the “<strong>Opportunity</strong>”. SG Eco Fund is [a charitable
-trust that supports ground-up projects to advance environmental sustainability
-and involve the community in Singapore].</p>
+to as the “<strong>Opportunity</strong>”. SG Eco Fund is a charitable trust
+that supports ground-up projects to advance environmental sustainability
+and involve the community in Singapore.</p>
 <p>&nbsp;</p>
 <p>15.4&nbsp;&nbsp; The Accelerator Programme will run from 29 June 2024
 to 17 Aug 2024. At GovTech’s sole and absolute discretion, the Co-funding
@@ -381,27 +351,27 @@ period may extend beyond the period that the Accelerator Programme runs.
 More details on the Accelerator Programme and Co-funding can be found at
 this URL: <a rel="noopener noreferrer nofollow" target="_blank">build.gov.sg/environment/accelerator-funding/</a>
 </p>
-<p>15.5&nbsp;&nbsp; GovTech shall have the sole and absolute discretion to
-decide and amend the details of the Accelerator Programme and Co-funding,
-including whether the Accelerator Programme and Co-funding will be offered
-separately or bundled together.</p>
+<p>15.5 GovTech shall have the sole and absolute discretion to decide and
+amend the details of the Accelerator Programme and Co-funding, including
+whether the Accelerator Programme and Co-funding will be offered separately
+or bundled together.</p>
 <p>&nbsp;</p>
-<p>15.6&nbsp;&nbsp; The Opportunity shall be subject to such additional terms
-and conditions as GovTech and SG Eco Fund may impose, including without
-limitation changes to the IP position set out in Clause 10 above. The Participant
-shall execute such documents and/or agreements with GovTech and/or third
-parties that may be required to facilitate the Opportunity. If the Participant
-does not agree to the said additional terms and conditions or does not
-wish to participate in the Accelerator Programme and Co-funding, the Participant
+<p>15.6 The Opportunity shall be subject to such additional terms and conditions
+as GovTech and SG Eco Fund may impose, including without limitation changes
+to the IP position set out in Clause 10 above. The Participant shall execute
+such documents and/or agreements with GovTech and/or third parties that
+may be required to facilitate the Opportunity. If the Participant does
+not agree to the said additional terms and conditions or does not wish
+to participate in the Accelerator Programme and Co-funding, the Participant
 may opt out of the Accelerator Programme and Co-funding by giving GovTech
 prior written notice before the commencement of the Accelerator Programme
 on 29 June 2024.&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
 <h3><strong>16. Personal Data</strong></h3>
 <p>&nbsp;</p>
-<p>16.1&nbsp;&nbsp; GovTech may be required to collect your personal data
-during the course of your registration and/or participation in this Competition.
-By registering for this Competition, you consent to GovTech’s use of your
+<p>16.1 GovTech may be required to collect your personal data during the
+course of your registration and/or participation in this Competition. By
+registering for this Competition, you consent to GovTech’s use of your
 personal data in connection with the Competition, including for the publication
 of your photos or recordings on such media platforms that GovTech may from
 time to time determine for the purposes of promoting or reporting on this
@@ -409,71 +379,70 @@ Competition. Please refer to our Privacy Statement here at <a href="http://build
 more details. The Privacy Statement shall be deemed part of these Terms
 and Conditions.</p>
 <h3><strong>17. General</strong></h3>
-<p>17.1&nbsp;&nbsp;&nbsp;&nbsp; <strong>Disputes</strong>: These Terms and
-Conditions shall be governed by and construed in accordance with the laws
-of the Republic of Singapore. The Parties irrevocably agree that the courts
-of Singapore shall have exclusive jurisdiction to settle and adjudicate
-any dispute, claim, question or disagreement (“<strong>Disputes</strong>”)
-arising out of the Competition. The Parties irrevocably submit to the jurisdiction
-of courts of Republic of Singapore. Notwithstanding the aforesaid, GovTech
-may at any time refer any Dispute to be finally resolved by arbitration
-in Singapore in the English language by a sole arbitrator in accordance
-with the Arbitration Rules of the Singapore International Arbitration Centre
-(“<strong>SIAC</strong>”) for the time being in force which rules are deemed
-to be incorporated by reference into this Clause. The seat of the arbitration
-shall be Singapore. The arbitrator shall be agreed upon between the Parties,
-or on failure to agree within thirty (30) days of a written proposal by
-one Party to the other Party, to be appointed by the SIAC acting in accordance
-with the SIAC Rules. This arbitration agreement shall be governed by and
-construed in accordance with the laws of the Republic of Singapore.</p>
+<p>17.1 <strong>Disputes</strong>: These Terms and Conditions shall be governed
+by and construed in accordance with the laws of the Republic of Singapore.
+The Parties irrevocably agree that the courts of Singapore shall have exclusive
+jurisdiction to settle and adjudicate any dispute, claim, question or disagreement
+(“<strong>Disputes</strong>”) arising out of the Competition. The Parties
+irrevocably submit to the jurisdiction of courts of Republic of Singapore.
+Notwithstanding the aforesaid, GovTech may at any time refer any Dispute
+to be finally resolved by arbitration in Singapore in the English language
+by a sole arbitrator in accordance with the Arbitration Rules of the Singapore
+International Arbitration Centre (“<strong>SIAC</strong>”) for the time
+being in force which rules are deemed to be incorporated by reference into
+this Clause. The seat of the arbitration shall be Singapore. The arbitrator
+shall be agreed upon between the Parties, or on failure to agree within
+thirty (30) days of a written proposal by one Party to the other Party,
+to be appointed by the SIAC acting in accordance with the SIAC Rules. This
+arbitration agreement shall be governed by and construed in accordance
+with the laws of the Republic of Singapore.</p>
 <p>&nbsp;</p>
-<p>17.2&nbsp;&nbsp;&nbsp;&nbsp; <strong>Survival</strong>: Any provision of
-these Terms and Conditions Contract that expressly or by implication is
-intended survive or to come into or continue in force on or after termination
-or expiry of the Competition including Clauses 8, 10, 11, 12, 13 and 17
-shall so survive or come into force.</p>
+<p>17.2 <strong>Survival</strong>: Any provision of these Terms and Conditions
+Contract that expressly or by implication is intended survive or to come
+into or continue in force on or after termination or expiry of the Competition
+including Clauses 8, 10, 11, 12, 13 and 17 shall so survive or come into
+force.</p>
 <p>&nbsp;</p>
-<p>17.3&nbsp;&nbsp;&nbsp;&nbsp; <strong>Severability</strong>: In the event
-that any of these Terms and Conditions is determined to be illegal, invalid
-or unenforceable, in whole or in part, such provision or part of it shall,
-to the extent it is illegal, invalid or unenforceable, be deemed not to
-form part of the Terms and Conditions but, to the extent permissible, such
-illegal, invalid or unenforceable terms shall be deemed to have been replaced
-by terms that are (a) valid and enforceable and (b) express the intention
-or produce the result closest to the original intention of the invalid
-or unenforceable terms. The legality, validity and enforceability of the
-remainder of the Terms and Conditions shall not be affected.</p>
+<p>17.3 <strong>Severability</strong>: In the event that any of these Terms
+and Conditions is determined to be illegal, invalid or unenforceable, in
+whole or in part, such provision or part of it shall, to the extent it
+is illegal, invalid or unenforceable, be deemed not to form part of the
+Terms and Conditions but, to the extent permissible, such illegal, invalid
+or unenforceable terms shall be deemed to have been replaced by terms that
+are (a) valid and enforceable and (b) express the intention or produce
+the result closest to the original intention of the invalid or unenforceable
+terms. The legality, validity and enforceability of the remainder of the
+Terms and Conditions shall not be affected.</p>
 <p>&nbsp;</p>
-<p>17.4&nbsp;&nbsp;&nbsp;&nbsp; <strong>Waiver</strong>: Any waiver given
-by GovTech must be in writing and signed by an authorised representative
-GovTech. No omission, delay or failure by GovTech to enforce any right
-or remedy shall be deemed to be a waiver or variation of such right or
-remedy. No waiver by GovTech of any right or breach by you shall be deemed
-to be a waiver of any other right or any subsequent breach by you.</p>
+<p>17.4 <strong>Waiver</strong>: Any waiver given by GovTech must be in writing
+and signed by an authorised representative GovTech. No omission, delay
+or failure by GovTech to enforce any right or remedy shall be deemed to
+be a waiver or variation of such right or remedy. No waiver by GovTech
+of any right or breach by you shall be deemed to be a waiver of any other
+right or any subsequent breach by you.</p>
 <p>&nbsp;</p>
-<p>17.5&nbsp;&nbsp;&nbsp;&nbsp; <strong>Rights of Third Parties:</strong> Save
-for the GovTech Entities, a person who is not a party to the contract comprising
-these Terms and Conditions shall have no right under the Contracts (Rights
-of Third Parties) Act to enforce any provision of these Terms and Conditions.
-GovTech Entities may enforce and rely on Clauses 10, 11, 12, 13 and 17
-in their own names. Variation or rescission of these Terms and Conditions
-shall not require the consent of any third party.</p>
+<p>17.5 <strong>Rights of Third Parties:</strong> Save for the GovTech Entities,
+a person who is not a party to the contract comprising these Terms and
+Conditions shall have no right under the Contracts (Rights of Third Parties)
+Act to enforce any provision of these Terms and Conditions. GovTech Entities
+may enforce and rely on Clauses 10, 11, 12, 13 and 17 in their own names.
+Variation or rescission of these Terms and Conditions shall not require
+the consent of any third party.</p>
 <p>&nbsp;</p>
-<p>17.6&nbsp;&nbsp;&nbsp;&nbsp; <strong>Updates</strong>: GovTech reserves
-the right to amend or add to these Terms and Conditions and the Rules from
-time to time by publication of the same on the Competition website, which
-amended or additional Terms and Conditions and Rules shall continue to
-bind all Participations. You are advised to be kept updated on such amendments
-and additions by visiting the Website.</p>
+<p>17.6 <strong>Updates</strong>: GovTech reserves the right to amend or add
+to these Terms and Conditions and the Rules from time to time by publication
+of the same on the Competition website, which amended or additional Terms
+and Conditions and Rules shall continue to bind all Participations. You
+are advised to be kept updated on such amendments and additions by visiting
+the Website.</p>
 <p>&nbsp;</p>
-<p>17.7&nbsp;&nbsp;&nbsp;&nbsp; <strong>Order of Precedence:&nbsp; </strong>In
-the event of any conflict, inconsistency or ambiguity between or in any
-one or more terms in these Terms and Conditions (including, without limitation,
-the Rules and Privacy Statement), such conflict, inconsistency or ambiguity
-shall be resolved in favour of GovTech and the provision or interpretation
-which is more favourable to GovTech shall prevail. Notwithstanding any
-other term, GovTech has the sole and absolute discretion to determine which
-term or interpretation is more favourable to it and such decision shall
-be binding on you.</p>
+<p>17.7 <strong>Order of Precedence:&nbsp; </strong>In the event of any conflict,
+inconsistency or ambiguity between or in any one or more terms in these
+Terms and Conditions (including, without limitation, the Rules and Privacy
+Statement), such conflict, inconsistency or ambiguity shall be resolved
+in favour of GovTech and the provision or interpretation which is more
+favourable to GovTech shall prevail. Notwithstanding any other term, GovTech
+has the sole and absolute discretion to determine which term or interpretation
+is more favourable to it and such decision shall be binding on you.</p>
 <h3></h3>
 <p></p>
