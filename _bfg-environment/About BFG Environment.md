@@ -22,7 +22,7 @@ provide working spaces on Thursdays to allow teams to work on their projects.</p
 as to maximise the builders’ experience.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Builders’ Kickoff:</strong> 18 May (10-5pm)</p>
+<p><strong>Builders’ Kickoff:</strong> 18 May (10am-5pm)</p>
 </li>
 <li>
 <p><strong>Weekly session 1:</strong> 25 May (1-6pm)</p>
@@ -31,7 +31,7 @@ as to maximise the builders’ experience.</p>
 <p><strong>Weekly session 2:</strong> 1 June (1-6pm)</p>
 </li>
 <li>
-<p><strong>Weekly session 3:</strong> 8 June (10-6pm)</p>
+<p><strong>Weekly session 3:</strong> 8 June (10am-6pm)</p>
 </li>
 <li>
 <p><strong>Weekly session 4:</strong> 15 June (1-6pm)</p>
