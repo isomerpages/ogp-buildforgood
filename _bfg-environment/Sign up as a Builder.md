@@ -55,7 +55,7 @@ an <a href="/environment" rel="noopener noreferrer nofollow" target="_blank">env
 of generating profit.</p>
 <p>You will be required to demonstrate a working prototype that's backed by user
 testing at the finale.</p>
-<p>If you need inspiration, you can check out the <a href="/projects/basecamp/" rel="noopener noreferrer nofollow" target="_blank">projects</a> from our last Build for Good!</p>
+<p>If you need inspiration, you can check out the <a href="/projects/basecamp/" rel="noopener noreferrer nofollow" target="_blank">projects</a> from last year's Build for Good!</p>
 
 
 <a href="http://go.gov.sg/bfg-environment"> <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button"> Sign up now </button> </a>
