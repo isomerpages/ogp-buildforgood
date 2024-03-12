@@ -36,7 +36,8 @@ sections:
       id: textcards
       cards:
         - title: Sign up as a Builder
-          description: Build solutions to tackle environmental issues in Singapore.
+          description: Build solutions to tackle important environmental issues in
+            Singapore.
           linktext: Sign Up Now
           url: /builder/
         - title: Submit problem statements
