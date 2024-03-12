@@ -10,7 +10,7 @@ variant: markdown
 <p>Build solutions that tackle important environmental problems</p>
 </li>
 <li>
-<p>Deepen your understanding of the environmental space</p>
+<p>Deepen your understanding of the environmental sector</p>
 </li>
 <li>
 <p>Receive mentorship from tech &amp; environmental experts</p>
