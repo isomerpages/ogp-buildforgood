@@ -43,10 +43,6 @@ sections:
           description: Share with us environmental problems that you wish could be tackled.
           linktext: Submit Problems
           url: /submit-problems
-        - title: Volunteer as a domain expert
-          description: Help our builders succeed through guidance and knowledge sharing.
-          linktext: Contact Us
-          url: /domain-expert
   - infobar:
       title: Build for Good 2023 Recap
       id: infobar
