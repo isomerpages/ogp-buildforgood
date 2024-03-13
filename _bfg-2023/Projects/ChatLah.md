@@ -2,6 +2,7 @@
 title: ChatLah
 permalink: /projects/chatlah/
 description: ""
+third_nav_title: Projects
 ---
 ### About the team
 

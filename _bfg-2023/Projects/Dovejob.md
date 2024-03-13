@@ -2,6 +2,7 @@
 title: Dovejob
 permalink: /projects/dovejob/
 description: ""
+third_nav_title: Projects
 ---
 ### About the team
 

@@ -2,6 +2,7 @@
 title: MediClear
 permalink: /projects/mediclear/
 description: ""
+third_nav_title: Projects
 ---
 ### About the team
 

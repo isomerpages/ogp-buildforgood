@@ -1,0 +1,19 @@
+collections:
+  bfg-2023:
+    output: true
+    order:
+      - BFG 2023 Recap.md
+      - Projects/.keep
+      - Projects/Basecamp.md
+      - Projects/ChatLah.md
+      - Projects/Dovejob.md
+      - Projects/interactsg.md
+      - Projects/KnowLiao.md
+      - Projects/MediClear.md
+      - Projects/NoteFlow.md
+      - Projects/SafeSpace.md
+      - Projects/Scam or Not.md
+      - Projects/ScanShield.md
+      - Projects/SmartCart.md
+      - Projects/SustainaBite.md
+      - Projects/TrashAway.md

@@ -2,6 +2,7 @@
 title: TrashAway
 permalink: /projects/trashaway/
 description: ""
+third_nav_title: Projects
 ---
 ### About the team
 

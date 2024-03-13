@@ -1,14 +1,15 @@
 ---
 title: FAQ
 permalink: /faq/
+variant: markdown
 ---
 ### Can I sign up if I don’t have a tech background?
 
-While tech expertise and interest in tech are preferred, we welcome participants from all backgrounds to join us. 
+While tech expertise and interest in tech are preferred, we welcome participants from all backgrounds to join us. We do recommend however that your hackathon team consists of members with the skills required to build the solution you want to make. 
 
-### Can I participate if I’m not in Singapore?
+### Can I participate as a builder if I’m not in Singapore?
 
-We strongly encourage you to be in Singapore to participate in our 5 in-person sessions held on 3 June, 10 June, 17 June, 24 June and 1 July. Beyond that, you may find a suitable arrangement with your team so that you can contribute meaningfully during the course of the hackathon.
+Unfortunately, no. You should be in Singapore to participate in our in-person sessions and the finale. 
 
 ### Can I participate if I’m working or schooling?
 
@@ -20,36 +21,37 @@ Citizens, PRs or those studying or working in Singapore are welcome to join Buil
 
 ### Must I join as a builder to contribute to Build for Good?
 
-While builders are essential to Build for Good, we welcome you to contribute in different ways! If you have a problem statement to share and challenge our builders to work on them, you can submit them [here](https://go.gov.sg/buildforgood-ps). You may also represent your NGO or a social enterprise to contribute problem statements.
+While builders are essential to Build for Good, we welcome you to contribute in different ways! 
+
+If you have a problem statement to share and challenge our builders to work on them, you can submit them [here](/submit-problems). You may also represent your NGO or a social enterprise to contribute problem statements.
 
 ### Do I need a team to participate?
 
-You may sign up as an individual or as a team. However, during the course of the hackathon, we will require all builders to network with one another and form teams of 2 to 5. 
-
-If you are signing up as an individual, you may indicate in the form if you are finding your own team mates, or if you would like us to match potential team mates for you.
+You may sign up as an individual or as a team. During the course of the hackathon, you will get the chance to network with one another and form teams of 2 to 5. 
 
 
 ### What’s the commitment level like?
 
-During the month-long hackathon from 3 June to 1 July 2023, there will be in-person sessions held every Saturday:
+During the hackathon, there will be in-person sessions held every Saturday:
 
-*  **Builders’ Kickoff:** 3 June
-*  **Weekly session - Prototyping:** 10 June
-*  **Weekly session - User testing:** 17 June
-*  **Weekly session - Iteration and Pitching:** 24 June
-*  **Finale:** 1 July
+*  **Builders’ Kickoff:** 18 May 2024
+*  **Weekly session 1:** 25 May 2024
+*  **Weekly session 2:** 1 June 2024
+*  **Weekly session 3:** 8 June 2024
+*  **Weekly session 4:** 15 June 2024
+*  **Finale:** 22 June 2024
 
-The 3 weekly sessions on 10, 17 and 24 June aim to provide updates on the teams' progress, attend workshops or talks, and receive mentoring. These in-person sessions are compulsory to attend and will ensure that you make steady progress towards the finale.
+These in-person sessions are compulsory to attend and will ensure that you make steady progress towards the finale. Beyond the hackathon, winning teams will be required to take part in a 2-month accelerator programme, which will help them potentially launch their solutions to real users.
 
 ### Does my registration guarantee my participation in Build for Good?
 
-After registration, we will be screening through the applications and shortlist participants. This is to ensure that the opportunity is given to people who have the ability to commit and the drive to do public good. We will only confirm your participation via email after signups close on 15 May 2023.
+After registration, we will be screening through the applications and shortlist participants. This is to ensure that the opportunity is given to people who have the ability to commit and the drive to do public good. We will send you an email regarding your application results by the end of April.
 
 ### What do I need to deliver by the end of Build for Good?
 
-All solutions need to have a demonstrated prototype that's validated through user testing. You will be required to deliver an in-person pitch outlining the problem you identified and how your solution tackles it. All pitches will be presented to a judging panel comprising of government leaders and industry experts, and 3 winning teams will be awarded sponsorship of up to $10,000 each.
+All solutions need to have a demonstrated working prototype that's validated through user testing. At the finale, you will be required to outline the problem you identified and how your solution tackles it. All solutions will be evaluated by a judging panel comprising of government leaders and industry experts, and winning teams will be awarded funding of up to $100,000 each.
 
 ### What happens after the finale?
-All teams will continue to have full ownership of their prototypes after finale. Winning teams will receive sponsorship to continue developing prototypes into full-fledged products. 
+Winning teams will receive funding of up to $100,000 and go through a 2-month accelerator programme to continue developing prototypes into full-fledged products. 
 
 All builders will also be given a digital certificate of participation after the finale.

@@ -2,6 +2,7 @@
 title: Basecamp
 permalink: /projects/basecamp/
 description: ""
+third_nav_title: Projects
 ---
 ### About the team
 

@@ -2,6 +2,7 @@
 title: interactsg
 permalink: /projects/interactsg/
 description: ""
+third_nav_title: Projects
 ---
 ### About the team
 ![](/images/palate%20pals.jpg)
