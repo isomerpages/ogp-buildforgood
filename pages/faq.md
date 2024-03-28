@@ -17,7 +17,7 @@ Yes! We welcome students or working professionals aged 18 years old and above.
 
 ### Must I be a Singaporean to join Build for Good?
 
-Citizens, PRs or those studying or working in Singapore are welcome to join Build for Good.
+Citizens, PRs or foreigners studying or working in Singapore are welcome to join Build for Good.
 
 ### Must I join as a builder to contribute to Build for Good?
 
@@ -27,8 +27,11 @@ If you have a problem statement to share and challenge our builders to work on t
 
 ### Do I need a team to participate?
 
-You may sign up as an individual or as a team. During the course of the hackathon, you will get the chance to network with one another and form teams of 2 to 5. 
+You may sign up as an individual or as a team. You will be given time to get to know fellow builders and form teams at the kickoff. Each team should consist of 3-5 builders, and we strongly encourage teams to have a good mix of builders with different skillsets and background.
 
+
+### What can we expect during the weekly sessions?
+At the sessions, you can expect workshops and talks led by OGP officers and industry experts. Additionally, dedicated spaces will be provided for you to collaborate with your team, seek guidance from mentors, and consult environmental experts.
 
 ### What’s the commitment level like?
 
@@ -52,6 +55,6 @@ After registration, we will be screening through the applications and shortlist 
 All solutions need to have a demonstrated working prototype that's validated through user testing. At the finale, you will be required to outline the problem you identified and how your solution tackles it. All solutions will be evaluated by a judging panel comprising of government leaders and industry experts, and winning teams will be awarded funding of up to $100,000 each.
 
 ### What happens after the finale?
-Winning teams will receive funding of up to $100,000 and go through a 2-month accelerator programme to continue developing prototypes into full-fledged products. 
+Winning teams will receive funding of up to $100,000 and go through a 2-month accelerator programme to continue developing prototypes into full-fledged products. The remaining teams will have full ownership of their products and are encouraged to further develop their products in their own time.
 
 All builders will also be given a digital certificate of participation after the finale.
