@@ -26,8 +26,8 @@ sections:
   - infopic:
       title: This time, for the environment
       description: Build solutions to tackle pressing environmental issues in Singapore.
-      button: be a builder
-      url: /builder
+      button: find out more
+      url: /environment
       alt: Image alt text
       image: /images/BFG_images.gif
       subtitle: we're back!
