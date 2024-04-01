@@ -4,6 +4,7 @@ permalink: /builder/
 description: ""
 variant: markdown
 ---
+***We have officially closed our sign ups as of 31 March 2024. Join the waitlist for the next Build for Good [here](https://go.gov.sg/bfg2024waitlist)!***
 <h3><strong>Why join as a builder?</strong></h3>
 <ul>
 <li>
@@ -57,4 +58,3 @@ testing at the finale.</p>
 <p>If you need inspiration, you can check out the <a href="/projects/basecamp/" rel="noopener noreferrer nofollow" target="_blank">projects</a> from last year's Build for Good!</p>
 
 
-<a href="http://go.gov.sg/bfg-environment"> <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button"> Sign up now </button> </a>
