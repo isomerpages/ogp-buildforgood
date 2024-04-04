@@ -1,10 +1,10 @@
 ---
-title: Terms of Use
-permalink: /terms-of-use/
+title: Terms & Conditions
+permalink: /terms-and-conditions/
 description: ""
 variant: tiptap
 ---
-<h2><strong>Build for Good Terms and Conditions</strong></h2>
+<h2><strong>Build for Good Participation Terms and Conditions</strong></h2>
 <p>These are the terms and conditions (“<strong>Terms and Conditions</strong>”)
 governing participation in Build for Good, which is organised by the Government
 Technology Agency (“<strong>GovTech</strong>”). The objective of the Competition
