@@ -79,8 +79,9 @@ in Singapore aged 18 years old and above at the time of registration which
 have received an invitation from GovTech to apply for registration for
 the Competition.</p>
 <p>&nbsp;</p>
-<p>2.2 Employees and vendors of GovTech and their family members are not
-eligible to participate in the Competition.</p>
+<p>2.2 Employees and vendors of GovTech, the Ministry of Sustainability and
+the Environment, and their family members are not eligible to participate
+in the Competition.</p>
 <h3><strong>3. Team Participation</strong></h3>
 <p>3.1 You may register to participate in this Competition individually or
 as a team of up to 5 members. If you are participating with a team, references
