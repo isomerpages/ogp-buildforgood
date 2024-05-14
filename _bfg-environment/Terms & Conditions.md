@@ -576,10 +576,4 @@ you from time to time):</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p></p>
-<p></p>
-<p></p>
-<p>&nbsp;<a href="#_msoanchor_13" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[MT13]</a><u>To OGP:</u> Pls provide inputs.</p>
