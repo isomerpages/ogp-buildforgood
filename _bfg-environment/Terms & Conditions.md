@@ -8,7 +8,7 @@ variant: tiptap
 <p>These are the terms and conditions (“<strong>Terms and Conditions</strong>”)
 governing your participation in the Build for Good hackathon organised
 by the Government Technology Agency (“<strong>GovTech</strong>”). The objective
-of the Competition (defined below) is to empower citizens, permanent residents
+of the Competition (defined below) is to empower citizens, permanent residents,
 and foreigners studying or working in Singapore to build solutions to tackle
 problems faced by everyday Singaporeans.
 <br>&nbsp;</p>
@@ -115,8 +115,8 @@ and the Environment are not eligible to participate in the Competition.</p>
 <p>3.1 You must register and agree to these Terms to participate in this
 Competition. Participation in this Competition will require you to be in
 teams of between 3 to 5 members. Each Participant is to submit their team
-name, along with the [full names, e-mail address and contact details of
-all team members] to GovTech either:</p>
+name, along with the full names, e-mail address and contact details of
+all team members to GovTech either:</p>
 <p>(a) &nbsp;at the point of registration, or</p>
 <p>(b) &nbsp;by no later than [09:00, 25 May 2024] via written notice to
 GovTech in accordance with Clause 17.10.</p>
