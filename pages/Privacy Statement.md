@@ -66,7 +66,7 @@ c)    Award the Competition prizes and benefits to another participating team
 
 #### Changes to Privacy Statement
 
-10.       We reserve the right to change, modify or supplement the Privacy Statement at our discretion and at any time, by posting the changed, modified or supplemented Privacy Statement on or through the Website or through such other means as we may deem appropriate. Your continued participation in the Competition following the posting of any change, modification or supplement will constitute your acceptance of such change, modification or supplement. If you do not agree to any change, modification or supplement to the Privacy Statement, please withdraw from the Competition by giving us notice in accordance with clause 17.10 of the Terms and Conditions.
+10.  We reserve the right to change, modify or supplement the Privacy Statement at our discretion and at any time, by posting the changed, modified or supplemented Privacy Statement on or through the Website or through such other means as we may deem appropriate. Your continued participation in the Competition following the posting of any change, modification or supplement will constitute your acceptance of such change, modification or supplement. If you do not agree to any change, modification or supplement to the Privacy Statement, please withdraw from the Competition by giving us notice in accordance with clause 17.10 of the Terms and Conditions.
 
 #### Contact information
 
