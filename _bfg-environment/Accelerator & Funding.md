@@ -108,7 +108,7 @@ made available under Phase 1.</p>
 <p><strong>Phase 2: Scaling and community engagement</strong>
 </p>
 <p></p>
-<p>18 Aug 2024 onwards</p>
+<p>18 Aug 2024 to 18 Aug 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Up to $64,000*</p>
