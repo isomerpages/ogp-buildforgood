@@ -117,16 +117,9 @@ Competition. Participation in this Competition will require you to be in
 teams of between 3 to 5 members. Each Participant is to submit their team
 name, along with the [full names, e-mail address and contact details of
 all team members] to GovTech either:</p>
-<ol>
-<li>
 <p>(a) &nbsp;at the point of registration, or</p>
-</li>
-<li>
 <p>(b) &nbsp;by no later than [09:00, 25 May 2024] via written notice to
-GovTech in accordance with</p>
-<p>[Clause 17.10].</p>
-</li>
-</ol>
+GovTech in accordance with Clause 17.10.</p>
 <p>If you are participating as a team, references to “you”, “your” or “yourself”
 in these Terms and Conditions shall include a reference to each and every
 member of your team. By participating as a team, you shall ensure that
@@ -214,11 +207,8 @@ and what role or part such Open Source Materials plays in your Submissions.</p>
 <p>6.5 <strong>Feedback</strong>
 </p>
 <p>GovTech and SG Eco Fund to assess, review, evaluate, rank and score your
-Submissions</p>
-<p>including</p>
-<p>without limitation</p>
-<p>and for marketing, promotion, publicity and/or other key events related
-to the Competition.</p>
+Submissions including without limitation and for marketing, promotion,
+publicity and/or other key events related to the Competition.</p>
 <p>6.5.1 You may share, submit or transmit certain content or information
 (including data or personal data relating to you, or that may relate to
 a third party individual and that is provided by you) when you submit feedback
