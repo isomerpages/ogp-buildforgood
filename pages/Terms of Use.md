@@ -144,7 +144,7 @@ Apple App Store terms) which bind GovTech as a developer or user of the
 distribution platform (the “<strong>Distribution Terms</strong>”). Information
 on the Third Party Terms are embedded in the Service, already accounted
 for in these Terms of Use, publicly available (e.g the Distribution Terms)
-or <a rel="noopener noreferrer nofollow" target="_blank">otherwise indicated in the Schedule herein.</a>
+or <a rel="noopener noreferrer nofollow" target="_blank">otherwise indicated in the Schedule herein.</a> 
 <a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[A1]</a>&nbsp; For the avoidance of doubt, insofar as this Clause 4 relates
 to the Distribution Terms, the relevant Distribution Terms are the terms
 of the specific platform from which you obtained a copy of the software
