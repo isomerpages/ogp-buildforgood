@@ -144,13 +144,12 @@ Apple App Store terms) which bind GovTech as a developer or user of the
 distribution platform (the “<strong>Distribution Terms</strong>”). Information
 on the Third Party Terms are embedded in the Service, already accounted
 for in these Terms of Use, publicly available (e.g the Distribution Terms)
-or <a rel="noopener noreferrer nofollow" target="_blank">otherwise indicated in the Schedule herein.</a> 
-<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[A1]</a>&nbsp; For the avoidance of doubt, insofar as this Clause 4 relates
-to the Distribution Terms, the relevant Distribution Terms are the terms
-of the specific platform from which you obtained a copy of the software
-or application that is part of the Service. For example, if you obtained
-the said copy from the Google Play Store, then the relevant terms are Google’s
-Distribution Terms.</p>
+or otherwise indicated in the Schedule herein. For the avoidance of doubt,
+insofar as this Clause 4 relates to the Distribution Terms, the relevant
+Distribution Terms are the terms of the specific platform from which you
+obtained a copy of the software or application that is part of the Service.
+For example, if you obtained the said copy from the Google Play Store,
+then the relevant terms are Google’s Distribution Terms.</p>
 <p></p>
 <p>4.2.&nbsp;&nbsp;&nbsp; <strong>It is your responsibility to check and read the most up-to-date versions of these Third Party Terms and you are deemed to have notice of the same</strong>.
 In particular, you are deemed to have notice of the Third Party Terms that
