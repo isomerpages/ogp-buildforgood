@@ -4,7 +4,8 @@ permalink: /terms-and-conditions/
 description: ""
 variant: tiptap
 ---
-<h2><strong>Build for Good Participation Terms and Conditions</strong></h2>
+<h2><strong>Build for Good Participation Terms and Conditions </strong></h2>
+<h4><strong>[Work-in-progress]</strong></h4>
 <p>These are the terms and conditions (“<strong>Terms and Conditions</strong>”)
 governing your participation in the Build for Good hackathon organised
 by the Government Technology Agency (“<strong>GovTech</strong>”). The objective
