@@ -7,13 +7,10 @@ description: ""
 <h2><strong>Accelerator and Funding</strong></h2>
 <p>This year, winning teams of the Build for Good 2024 hackathon have the
 opportunity to be empowered further to advance their solutions for public
-good with a 2-month accelerator programme and funding of up to S$84,000.&nbsp;To
+good with a 2-month accelerator programme and funding of up to S$100,000*.&nbsp;To
 unlock the opportunity, winning teams will be required to enter into separate
 agreements that are prescribed by GovTech and SG Eco Fund at the appropriate
 juncture.</p>
-<p></p>
-<p>Please also refer to Clause 15 of the Build for Good Participation Terms
-and Conditions found <a href="https://www.build.gov.sg/terms-of-use/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h3><strong>Accelerator</strong></h3>
 <p>The accelerator programme will focus on imparting skills, knowledge and
 networks essential for scaling solutions through sustained growth, and
@@ -37,7 +34,7 @@ Fund).</p>
 <h3><strong>Funding</strong></h3>
 <p>OGP and SG Eco Fund will, at their discretion and subject to terms and
 conditions of separate agreements entered into by the winning team with
-GovTech and with SG Eco Fund, provide funding of up to $84,000* to support
+GovTech and with SG Eco Fund, provide funding of up to $100,000* to support
 teams through various phases from product development and user acquisition
 during the accelerator programme, to scaling and sustained growth thereafter.
 <br>
@@ -111,7 +108,7 @@ made available under Phase 1.</p>
 <p>18 Aug 2024 to 18 Aug 2027</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Up to $64,000*</p>
+<p>Up to $80,000*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The 2nd phase supports further scaling and growth of the solution, and
@@ -150,7 +147,7 @@ team's costs which it does not deem to be 'supportable cost' (as defined
 in such agreement).
 <br>
 <br>For illustration purposes only, if a winning team's total supportable
-costs under Phase 2 is S$20,000, SG Eco Fund will fund S$64,000 (i.e. 80%)
+costs under Phase 2 is S$80,000, SG Eco Fund will fund S$64,000 (i.e. 80%)
 provided that the winning team co-funds S$16,000 (i.e. 20%). Adding on
 the maximum amount of S$20,000 that might be funded under Phase 1, the
 maximum total funds that a winning team might have (including the portion
