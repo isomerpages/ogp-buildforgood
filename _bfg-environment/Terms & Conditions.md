@@ -525,10 +525,6 @@ select an alternate recipient to receive the award.</p>
 <p>&nbsp;</p>
 <p>15.2 By registering for and/or participating in this Competition, you
 agree to:</p>
-<p>
-<br>
-</p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>(a)&nbsp;&nbsp;&nbsp; participate in any marketing, promotion, publicity
 and/or other key events relating to the Competition; and</p>
@@ -692,7 +688,7 @@ you from time to time):</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">Email</a></strong>
+<p><strong>Email</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -702,7 +698,7 @@ you from time to time):</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">Attention</a></strong>
+<p><strong>Attention</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
