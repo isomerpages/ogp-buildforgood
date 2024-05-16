@@ -2,8 +2,8 @@ collections:
   bfg-environment:
     output: true
     order:
-      - Terms & Conditions.md
       - About BFG Environment.md
       - Sign up as a Builder.md
       - Accelerator & Funding.md
       - Share problem statements.md
+      - Terms & Conditions.md
