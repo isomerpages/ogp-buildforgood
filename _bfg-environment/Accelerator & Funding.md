@@ -11,6 +11,8 @@ good with a 2-month accelerator programme and funding of up to S$100,000*.&nbsp;
 unlock the opportunity, winning teams will be required to enter into separate
 agreements that are prescribed by GovTech and SG Eco Fund at the appropriate
 juncture.</p>
+<p>Please also refer to Clause 15 of the Build for Good Participation Terms
+and Conditions found <a href="/terms-and-conditions" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h3><strong>Accelerator</strong></h3>
 <p>The accelerator programme will focus on imparting skills, knowledge and
 networks essential for scaling solutions through sustained growth, and
