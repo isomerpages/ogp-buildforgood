@@ -34,11 +34,12 @@ Fund).</p>
 </li>
 </ul>
 <h3><strong>Funding</strong></h3>
-<p>OGP and SG Eco Fund will, at their discretion and subject to terms and
-conditions of separate agreements entered into by the winning team with
-GovTech and with SG Eco Fund, provide funding of up to $100,000* to support
-teams through various phases from product development and user acquisition
-during the accelerator programme, to scaling and sustained growth thereafter.
+<p>Winning teams will have access to funding of up to S$100,000*, which will
+be co-funded by OGP and SG Eco Fund at their discretion and subject to
+terms and conditions of separate agreements entered into by the winning
+team with GovTech and with SG Eco Fund, to support teams through various
+phases from product development and user acquisition during the accelerator
+programme, to scaling and sustained growth thereafter.
 <br>
 </p>
 <p>The table below summarises the funding structure:
