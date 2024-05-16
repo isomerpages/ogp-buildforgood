@@ -7,18 +7,19 @@ variant: markdown
 **Build for Good Privacy Statement**
 ---------------------------------------
 
-1.         This Build for Good Privacy Statement (“**Privacy Statement**”) must be read in conjunction with any applicable terms and conditions that accompany the Build for Good hackathon (the “**Competition**”).
+1.         This Build for Good Privacy Statement (“**Privacy Statement**”) must be read in conjunction with any applicable terms and conditions that accompany the Build for Good hackathon (the “**Competition**”), in particular the Build for Good Participation Terms and Conditions (“**Terms and Conditions**”). Unless otherwise stated or defined in this Privacy Statement, all other capitalised terms contained in this Privacy Statement shall have the meaning given to it in the Terms and Conditions. In this Privacy Statement, “**we**”, “**us**” or “**our**” refers to the Government Technology Agency.
 
-2.              Please note that:
+2.            Please note that:
 
-2.1.         We may use "cookies", where a small data file is sent to your browser to store and track information about you when you enter our websites. The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred sites. While this cookie can tell us when you enter our sites and which pages you visit, it cannot read data off your hard disk.
+2.1.         We may use “cookies”, where a small data file is sent to your browser to store and track information about you when you enter our websites. The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred sites. While this cookie can tell us when you enter our sites and which pages you visit, it cannot read data off your hard disk.
 
 2.2.         You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
 2.3.         The Competition website may utilise cookies to facilitate authentication and/or login to the Competition website. If such cookies are rejected, you might not be able to use the Competition website.
 
-3.                 Please see the Annex for any additional terms or information.
+3.             Please see the Annex for any additional terms or information.
 
+3A.          Nothing in this Privacy Statement shall be construed as limiting or prejudicing our rights at law to collect, use or disclose any data without your consent or agreement.
 
 #### Use of Data
 
@@ -30,11 +31,11 @@ variant: markdown
 
 5.1.1.   to assist, process and facilitate your registration for and/or participation in the Competition;
 
-5.1.2.   to administer, process and facilitate any transactions or activities by you, whether with us or any other Public Agency or third party service provider or collaborator, and whether for your own benefit, or for the benefit of a third party on whose behalf you are duly authorized to act;
+5.1.2.   to administer, process and facilitate any transactions or activities by you, whether with us or any other Public Agency or third party service provider or collaborator, and whether for your own benefit, or for the benefit of a third party on whose behalf you are duly authorised to act;
 
 5.1.3.   to carry out your instructions or respond to any queries, feedback or complaints provided by (or purported to be provided by) you or on your behalf, or otherwise for the purposes of responding to or dealing with your interactions with us;
 
-5.1.4.   to monitor and track your registration for and/or participation in the Competition, to conduct research, data analytics, surveys, market studies and similar activities, in order to assist us in understanding your interests, concerns and preferences and improving the Competition (including any service of a third party service provider or collaborator) and other services and products provided by Public Agencies. For the avoidance of doubt, we may also collect, use, disclose and process such information to create reports and produce statistics regarding your registration for and/or participation in the Competition for record-keeping and reporting or publication purposes (whether internally or externally);
+5.1.4.   to monitor and track your registration for and/or participation in the Competition, to conduct research, data analytics, surveys, market studies and similar activities, in order to assist us in understanding your interests, concerns and preferences and improving the Competition (including any service of a third party service provider or collaborator) and other services and products provided by Public Agencies. For the avoidance of doubt, we may also collect, use, disclose and process such information to create reports, articles, videos, photo collages and produce statistics regarding your registration for and/or participation in the Competition for record-keeping, promotional and reporting or publication purposes (whether internally or externally);
 
 5.1.5.   for the purposes of storing or creating backups of your data (whether for contingency or business continuity purposes or otherwise), whether within or outside Singapore;
 
@@ -52,11 +53,11 @@ variant: markdown
 
 7.        You may withdraw your consent to the use and disclosure of your data by us with reasonable notice and subject to any prevailing legal or contractual restrictions. Upon such withdrawal, the Organising Committee may at its sole and absolute discretion, amongst other things, do any of the following:
 
-a)    Deem the participating team to have withdrawn from the Competition if the withdrawal of consent for use of its members’ personal data renders it administratively impracticable to allow the participating team to remain in the Competition;
+7.1       Deem the participating team to have withdrawn from the Competition if the withdrawal of consent for use of its members’ personal data renders it administratively impracticable to allow the participating team to remain in the Competition;
 
-b)    Adjust the Competition ranking;
+7.2       Adjust the Competition ranking (i.e. the 1st place, 2nd place, 3rd place, winning entries);
 
-c)    Award the Competition prizes and benefits to another participating team or otherwise dispose of the same as the Organising Committee deems fit if no other winning team can be conferred or identified.
+7.3       Award the Competition prizes and benefits to another participating team or otherwise dispose of the same as the Organising Committee deems fit if no other winning team can be conferred or identified.
 
 #### Protection of data
 
@@ -66,7 +67,7 @@ c)    Award the Competition prizes and benefits to another participating team
 
 #### Changes to Privacy Statement
 
-10.  We reserve the right to change, modify or supplement the Privacy Statement at our discretion and at any time, by posting the changed, modified or supplemented Privacy Statement on or through the Website or through such other means as we may deem appropriate. Your continued participation in the Competition following the posting of any change, modification or supplement will constitute your acceptance of such change, modification or supplement. If you do not agree to any change, modification or supplement to the Privacy Statement, please withdraw from the Competition by giving us notice in accordance with clause 17.10 of the Terms and Conditions.
+10\.       We reserve the right to change, modify or supplement the Privacy Statement at our discretion and at any time, by posting the changed, modified or supplemented Privacy Statement on or through the Website or through such other means as we may deem appropriate. Your continued participation in the Competition following the posting of any change, modification or supplement will constitute your acceptance of such change, modification or supplement. If you do not agree to any change, modification or supplement to the Privacy Statement, please withdraw from the Competition by giving us notice in accordance with clause 17.9 of the Terms and Conditions.
 
 #### Contact information
 
@@ -74,8 +75,7 @@ c)    Award the Competition prizes and benefits to another participating team
 
 11.1.        have any enquiries or feedback on our data protection policies and procedures; or
 
-11.2.       need more information on or access to data which you have provided directly to us in the past.
- 
+11.2.       need more information on or access to data which you have provided directly to us in the past.  
 
 #### Definitions
 
@@ -83,16 +83,18 @@ c)    Award the Competition prizes and benefits to another participating team
 
 12.1.        “**Public Agency**” means any of the following entities/parties:
 
-12.1.1   the government of the Republic of Singapore;
+12.1.1          the government of the Republic of Singapore;
 
-12.1.2   any ministry or organ of state within the Republic of Singapore;
+12.1.2          any ministry or organ of state within the Republic of Singapore;
 
-12.1.3   any department, commission, authority, agency or other body operated by or accountable to a ministry or organ of state within the Republic of Singapore;
+12.1.3          any department, commission, authority, agency or other body operated by or accountable to a ministry or organ of state within the Republic of Singapore;
 
-12.1.4   any organisation which was created, constituted or given rise to by a statute enacted by the Parliament of the Republic of Singapore, and “**Public Agencies**” means all of the aforementioned; and
+12.1.4          any organisation which was created, constituted or given rise to by a statute enacted by the Parliament of the Republic of Singapore,
+
+and “**Public Agencies**” means all of the aforementioned; and
 
 12.2.    “**personal data**” shall have the same meaning as its definition in the Personal Data Protection Act 2012, provided our obligations in respect of personal data under this Privacy Statement do not apply to:
 
-12.2.1. Business contact information; and
+11.2.1.     Business contact information; and
 
-12.2.2  Personal data of a deceased individual. However, clauses relating to the disclosure of personal data and protection of personal data shall apply in respect of the personal data of an individual who has been dead for 10 or less years.
+11.2.2      Personal data of a deceased individual. However, clauses relating to the disclosure of personal data and protection of personal data shall apply in respect of the personal data of an individual who has been dead for 10 or less years.
