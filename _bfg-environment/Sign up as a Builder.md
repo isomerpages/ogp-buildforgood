@@ -51,10 +51,7 @@ in his/her own field?</p>
 </ol>
 <h3><strong>What kind of solutions can you come up with?</strong></h3>
 <p>Your solution should be a digital/physical product or service that addresses
-an <a href="/environment" rel="noopener noreferrer nofollow" target="_blank">environmental problem</a> in Singapore, and it should not be for the purpose
-of generating profit.</p>
+an <a href="/environment" rel="noopener noreferrer nofollow" target="_blank">environmental problem</a> in Singapore.</p>
 <p>You will be required to demonstrate a working prototype that's backed by user
 testing at the finale.</p>
 <p>If you need inspiration, you can check out the <a href="/projects/basecamp/" rel="noopener noreferrer nofollow" target="_blank">projects</a> from last year's Build for Good!</p>
-
-
