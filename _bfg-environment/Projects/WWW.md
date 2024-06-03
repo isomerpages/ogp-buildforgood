@@ -7,6 +7,9 @@ third_nav_title: Projects
 ---
 <h4>Meet the team</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WWW.jpg">
+</div>
 <p><strong>Team members: </strong>Lim Junxue (Software Engineer - backend),
 Seah Bei Ying (Software Engineer - frontend / product strategy), Robin
 Htun (Analytics, Research), Joshua Teo (UI/UX), Lewis Ten (User Research)</p>
