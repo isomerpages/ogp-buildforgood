@@ -7,6 +7,9 @@ third_nav_title: Projects
 ---
 <h4>Meet the team</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LastCall_SG.jpg">
+</div>
 <p><strong>Team members: </strong>Chee Jer En (Software Engineer), Chong
 Wei Kang (Software Engineer), Lim Zi Yang John (Software Engineer), Lee
 Zhi Yi David (Data/ Product), How Jun Yao Jonathan (Product/Design/Strategy)</p>
