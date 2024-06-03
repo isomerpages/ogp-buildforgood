@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - About BFG Environment.md
+      - Projects/Clean Dream Crew.md
       - Projects/RePair.md
       - Projects/Code Green.md
       - Projects/WWW.md
