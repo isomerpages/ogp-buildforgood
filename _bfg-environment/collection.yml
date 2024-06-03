@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - About BFG Environment.md
+      - Projects/MAZE.md
       - Projects/Muscat.md
       - Projects/Clean Dream Crew.md
       - Projects/RePair.md
