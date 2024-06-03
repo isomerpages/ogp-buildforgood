@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - About BFG Environment.md
+      - Projects/Fansipan.md
       - Projects/FTW.md
       - Projects/MAZE.md
       - Projects/Muscat.md
