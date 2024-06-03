@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - About BFG Environment.md
+      - Projects/Cats 4 Good.md
       - Projects/.keep
       - Sign up as a Builder.md
       - Accelerator & Funding.md
