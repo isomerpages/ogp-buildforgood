@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - About BFG Environment.md
+      - Projects/LastCall SG.md
       - Projects/CodingBears.md
       - Projects/Cats 4 Good.md
       - Projects/.keep
