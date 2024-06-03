@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - About BFG Environment.md
+      - Projects/The Recyclable Network.md
       - Projects/Fansipan.md
       - Projects/FTW.md
       - Projects/MAZE.md
