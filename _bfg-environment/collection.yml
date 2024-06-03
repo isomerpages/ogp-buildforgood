@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - About BFG Environment.md
+      - Projects/KRETA.md
       - Projects/Koel.md
       - Projects/LastCall SG.md
       - Projects/CodingBears.md
