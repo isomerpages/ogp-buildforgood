@@ -2,8 +2,8 @@ collections:
   bfg-environment:
     output: true
     order:
-      - Projects/.keep
       - About BFG Environment.md
+      - Projects/.keep
       - Sign up as a Builder.md
       - Accelerator & Funding.md
       - Share problem statements.md
