@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - About BFG Environment.md
+      - Projects/Streads.md
       - Projects/My Wild Backyard.md
       - Projects/SUSFeed.md
       - Projects/VTEKS.md
