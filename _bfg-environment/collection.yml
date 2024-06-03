@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - About BFG Environment.md
+      - Projects/Code Green.md
       - Projects/WWW.md
       - Projects/Leftunder.md
       - Projects/Streads.md
