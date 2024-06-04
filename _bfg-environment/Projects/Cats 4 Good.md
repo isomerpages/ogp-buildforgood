@@ -13,5 +13,14 @@ third_nav_title: Projects
 Tan Guan Quan (Software Engineer), Justin Wong Jian Hui (Software Engineer),
 Jessica Tay Jing Yun (Design/Product)</p>
 <h4>Problem statement</h4>
-<p></p>
+<p>In 2022, food waste accounted for 11% of total waste generated in Singapore
+at 813,000 tonnes, with a recycling rate of only 18%. In particular, bakeries
+discard unsold baked goods at the end of each working day due to overproduction
+and the perishable nature of baked goods.</p>
+<p>Disposal is the most convenient and cost-effective option, resulting in
+significant food waste despite the goods still being consumable. Food from
+the Heart, a local food bank committed to battling hunger, collects 28,000
+kg of bread waste as part of its Bread Run programme alone. Demand for
+such baked goods should be scaled accordingly in real time to sell goods
+that need to be urgently cleared.</p>
 <p></p>
