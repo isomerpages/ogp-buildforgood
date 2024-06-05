@@ -10,8 +10,8 @@ third_nav_title: Projects
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fansipan.jpg">
 </div>
-<p><strong>Team members: </strong>Ang Zhen Yi, Orlin, Chen Zhenhao, Lim Xuan
-Hao</p>
+<p><strong>Team members: </strong>Ang Zhen Yi, Orlin Romy, Chen Zhenhao,
+Lim Xuan Hao</p>
 <h4>Problem statement</h4>
 <p>A study conducted by USA's department of Energy estimates that up to 10%
 of a household's electricity consumption and a separate study conducted
