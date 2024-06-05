@@ -7,6 +7,10 @@ third_nav_title: Projects
 ---
 <h4>Meet the team</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VTEKS.jpg">
+</div>
+<p></p>
 <p><strong>Team members: </strong>Krithika Prasad (Product), Emmanuel Oh
 (Software Engineer), Tan Eu Zin (Software Engineer), Shawn (Designer),
 Vaelyn (Strategy)</p>
