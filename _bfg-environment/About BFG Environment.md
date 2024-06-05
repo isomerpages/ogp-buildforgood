@@ -35,16 +35,20 @@ as to maximise the builders’ experience.</p>
 <p><strong>Weekly session 3:</strong> 8 June (10am-6pm)</p>
 </li>
 <li>
-<p><strong>Weekly session 4:</strong> 15 June (1-6pm)</p>
+<p><strong>Weekly session 4:</strong> 15 June (10am-6pm)</p>
 </li>
 <li>
-<p><strong>Finale:</strong> 22 June (9am-5pm)</p>
+<p><strong>Finale:</strong> 22 June (12pm-5pm)</p>
 </li>
 </ul>
 <p>Winning teams will then move on to the second phase, a <a href="accelerator-funding/" rel="noopener noreferrer nofollow" target="_blank">2-month accelerator</a> programme,
 after the hackathon.</p>
 <h3><strong>Focus Areas</strong></h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
