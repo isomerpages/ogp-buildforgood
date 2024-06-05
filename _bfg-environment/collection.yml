@@ -3,6 +3,26 @@ collections:
     output: true
     order:
       - About BFG Environment.md
+      - Projects/.keep
+      - Projects/Cats 4 Good.md
+      - Projects/Clean Dream Crew.md
+      - Projects/Code Green.md
+      - Projects/CodingBears.md
+      - Projects/Fansipan.md
+      - Projects/FTW.md
+      - Projects/Koel.md
+      - Projects/KRETA.md
+      - Projects/LastCall SG.md
+      - Projects/Leftunder.md
+      - Projects/MAZE.md
+      - Projects/Muscat.md
+      - Projects/My Wild Backyard.md
+      - Projects/RePair.md
+      - Projects/SUSFeed.md
+      - Projects/Streads.md
+      - Projects/The Recyclable Network.md
+      - Projects/VTEKS.md
+      - Projects/WWW.md
       - Sign up as a Builder.md
       - Accelerator & Funding.md
       - Share problem statements.md

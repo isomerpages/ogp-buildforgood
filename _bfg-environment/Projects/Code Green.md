@@ -1,0 +1,30 @@
+---
+title: Code Green
+permalink: /code-green/
+variant: tiptap
+description: ""
+third_nav_title: Projects
+---
+<h4>Meet the team</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Codegreen.jpg">
+</div>
+<p><strong>Team members: </strong>Edward (Backend, ML), Eugene (Backend,
+AI), Ke Er (Frontend, UI/UX), Zhiyi (Backend, AI), Zhuo Hui (UI/UX)</p>
+<h4>Problem statement</h4>
+<p>In Singapore, households contribute significantly to food waste, discarding
+approximately 26,000 tonnes of food annually, valued at $342 million. This
+largely avoidable issue is primarily driven by overbuying and a lack of
+planning with purchases made at supermarkets and wet markets.
+<br>
+<br>The problem is particularly prevalent in households with multiple members
+who purchase and cook groceries once a week or more. These households often
+lack effective means to track and manage their food inventory, leading
+to unnecessary purchases and significant waste. Poor planning in grocery
+shopping and meal preparation exacerbates the issue, resulting in impulse
+buys and the accumulation of uneaten cooked and uncooked food.
+<br>
+<br>This problem not only strains household budgets but also increases demand
+on suppliers and supermarkets, contributing to broader economic and environmental
+impacts.</p>
