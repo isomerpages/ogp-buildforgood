@@ -15,7 +15,7 @@ name is a playful acronym formed from our own names, representing our collaborat
 spirit and love for exploring new ideas. Like adventurers navigating the
 maze of healthcare sustainability, we approach this project with curiosity
 and a knack for finding creative solutions.</p>
-<p><strong>Team members: </strong>
+<p><strong>Team members:</strong>
 </p>
 <p><strong>M</strong>adeleine Koh (UXUI Designer), Product Designer 
 <br><strong>A</strong>udrey Kon (Lead Developer), Senior Nurse Clinician
