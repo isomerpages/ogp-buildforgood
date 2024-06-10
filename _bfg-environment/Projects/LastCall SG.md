@@ -10,31 +10,39 @@ third_nav_title: Projects
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LastCall_SG.jpg">
 </div>
+<p>At LastCallSG, we're a passionate team of young changemakers driven to
+combat food waste through innovative tech solutions. Our mission is to
+create a sustainable ecosystem where small actions by <strong>online grocery retailer </strong>collectively
+make a significant impact in reducing food waste and promoting environmental
+sustainability.
+<br>
+<br>Join us in our mission to be the go-to platform for reducing food waste,
+one discounted item at a time. Every portion saved means less waste going
+into the landfill. Together, we can create a more sustainable future for
+generations to come.</p>
 <p><strong>Team members: </strong>Chee Jer En (Software Engineer), Chong
 Wei Kang (Software Engineer), Lim Zi Yang John (Software Engineer), Lee
 Zhi Yi David (Data/ Product), How Jun Yao Jonathan (Product/Design/Strategy)</p>
 <h4>Problem statement</h4>
-<p>Food waste is a critical global issue, with millions of tons of food discarded
-annually despite being fit for consumption. This wastage occurs at various
-stages of the supply chain, including production, distribution, and retail.
-While efforts have been made to address food waste in traditional brick-and-mortar
-retail settings, there is a lack of initiatives to help online food and
-beverage (F&amp;B) merchants better manage waste.
+<p>Of the 800,000 tons of food waste generated annually in Singapore, an
+increasing share is flowing through online channels, as $0.7B worth of
+food &amp; groceries was purchased online in 2023 with a ~20% CAGR. E-commerce
+grocery merchants face a problem with food waste from expiring food on
+their online stores; we are aiming to tackle this problem with LastcallSG.</p>
+<h4>Proposed Solution</h4>
+<p>LastCall SG is a marketplace that aggregates expiring food from online
+grocery retailers.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Online grocery merchants can list expiring food items on LastCall SG</p>
+</li>
+<li>
+<p>Community members can discover and reserve expiring food items for free
+or at a heavily discounted price.
 <br>
-<br>The rise of e-commerce has been remarkable, with online retail sales now
-accounting for nearly 11.2% of total retail sales, driven by the convenience
-and popularity of online shopping platforms. Platform such as Shopee have
-over 500,000 SKUs listed in the F&amp;B category. As more consumers embrace
-the convenience of online grocery shopping, the issue of food waste in
-this sector becomes increasingly pressing.
-<br>
-<br>A considerable portion of food waste in online retail comprises excess
-inventory, items nearing expiration, blemished produce, and products rejected
-for minor defects. These items, while still being fit for consumption,
-contribute significantly to the food waste problem. Addressing this issue
-requires innovative solutions tailored to the unique challenges faced by
-online F&amp;B merchants.
-<br>
-<br>Our team proposes to focus on this niche area, developing strategies and
-tools to help online F&amp;B merchants better reduce waste, and promote
-sustainability.</p>
+</p>
+</li>
+</ul>
+<p>We believe that discounts can be an effective way to encourage consumers
+to adopt more sustainable behaviors and promote sustainability actions.</p>
+<p></p>
