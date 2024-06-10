@@ -21,4 +21,7 @@ costs account for over 50% of their operating expenses.
 fish upcycled food waste like bread, soy press, rice bran, and maggi. While
 this approach lowered feed costs, it resulted in a high Feed Conversion
 Ratio (FCR). This means the fish grew slowly, further hindering profitability.</p>
+<h4>Proposed solution</h4>
+<p>Upcycling Food Waste into valuable fish feed for both food and ornamental
+fish. (Low cost, Low FCR)</p>
 <p></p>
