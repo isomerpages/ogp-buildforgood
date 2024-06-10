@@ -14,15 +14,23 @@ third_nav_title: Projects
 Science), Ervin Cheng (Software Engineer), Nazrul Syahmi (Software Engineer),
 Indraneel Paranjape (Software Engineer)</p>
 <h4>Problem statement</h4>
-<p>Environment Impact Analysis involves identification of wildlife species
-in a given area.
+<p>Due to climate change and urbanisation, Singapore’s nature areas are under
+threat of adverse changes and deforestation. Without proper intervention,
+animals face habitat loss, forced local relocation (possibly into less-than-ideal
+areas), migration, or death. Singapore is home to over 500 native species
+of birds and many unique species such as the Malayan flying lemur, and
+acts as a pitstop for migratory species like the Common Greenshank. Thus,
+it is essential for us to preserve our biodiversity and natural heritage
+in the face of our rapid urbanization and climate change.
 <br>
-<br>Camera trap data is expensive to produce and difficult to classify. Smaller
-organisations lack the resources and infrastructure needed for video data
-classification.
-<br>
-<br>Moreove, audio data is comparatively inexpensive and easier to set up,
-however, there is a lack of classifcation tools for audio data, and there
-is a growing need for such data to be processed.
-<br>
-</p>
+<br>When Government organisations and other enterprises work on projects involving
+nature, they perform an Environment Impact Analysis (EIA) to mitigate harm
+to the environment, and this involves the identification of wildlife species
+in a given area. However, data processing is a major hurdle in this process.
+While data collection using audio recorders is the preferred cost-effective
+method, there is a severe lack of tools performing species identification,
+especially for species common to South-East Asia. Without such tools, audio
+data collection and processing becomes very laborious and ineffective,
+potentially reducing EIAs accuracy and leading to construction decisions
+that are less informed and may risk a net harm to our biodiversity. This
+is the problem we address with Koel.</p>
