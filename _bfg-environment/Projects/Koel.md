@@ -34,3 +34,17 @@ data collection and processing becomes very laborious and ineffective,
 potentially reducing EIAs accuracy and leading to construction decisions
 that are less informed and may risk a net harm to our biodiversity. This
 is the problem we address with Koel.</p>
+<h4>Proposed solution</h4>
+<p>To create an application that automates animal identification from bioacoustic
+data. Nature groups, academic researchers and government employees will
+be able to submit audio files to be batch processed to receive insights
+on biodiversity data in the region.
+<br>
+<br>Number and types of species from all submissions will be made available
+on a geospatial visualization tool to enable biodiversity tracking and
+environmental impact assessments without labourious manual processing.
+<br>
+<br>This tool improves the accuracy and efficiency of EIAs (Environmental
+Impact Assessments), and helps reduce uninformed decision-making that may
+introduce a net harm to our natural environment.</p>
+<p></p>
