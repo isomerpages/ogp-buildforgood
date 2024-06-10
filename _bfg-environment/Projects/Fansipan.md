@@ -10,20 +10,35 @@ third_nav_title: Projects
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fansipan.jpg">
 </div>
+<p>Fansipan is simply the name of the mountain where one of our team members
+was on, when we were accepted to the hackathon. We are a team of four spontaneous
+software engineers wanting to challenge ourselves and utilise our skills
+to contribute to public good.</p>
 <p><strong>Team members: </strong>Ang Zhen Yi, Orlin Romy, Chen Zhenhao,
 Lim Xuan Hao</p>
 <h4>Problem statement</h4>
-<p>A study conducted by USA's department of Energy estimates that up to 10%
-of a household's electricity consumption and a separate study conducted
-by NRDC estimates this amount can reach up to 23%. This is similarly a
-problem in Singapore where according to national grid power operator SP
-Group, standby power accounts for up to 10 per cent of total household
-energy usage.
+<p>Many individuals struggle to identify and implement effective sustainability
+measures in their homes, often due to lack of knowledge about the specific
+actions they can take and the impact of these actions on their carbon footprint.
 <br>
-<br>This is commonly due to devices being left plugged into sockets, causing
-them to draw current even while not in use. This will result in electricitty
-wastage and when left unchecked, will result in higher energy costs for
-households, as well as an increased average load on the power grid. Resolving
-this issue will lower energy consumption across the board and lead to cost
-savings for households, a lower power grid load and less carbon emissions
-generated to produce electricity</p>
+<br>A survey conducted in December 2023 found that 46 percent of Singapore
+respondents had adopted Sustainable consumption practices when purchasing
+items in the last 12 months, while about 23 percent were unsure if they
+had adopted any sustainable practices.</p>
+<h4>Proposed solution</h4>
+<p>A green home consultant app where users can upload pictures of their homes
+and get actionable, personalised recommendations on how to make their living
+spaces more sustainable. Key features include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Energy/water-efficient product recommendations that can be bought using
+Climate Vouchers</p>
+</li>
+<li>
+<p>Suggestions for more environmentally conscious lifestyle habits</p>
+</li>
+<li>
+<p>Adding and tracking goals set based on the recommendations</p>
+</li>
+</ul>
+<p></p>
