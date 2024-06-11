@@ -6,9 +6,8 @@ description: ""
 third_nav_title: Projects
 ---
 <h4>Meet the team</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WWW.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EcoSense_Kaki__WWW_.jpg">
 </div>
 <p>
 <br>Our team name, WWW, captures our varying levels of spirit over the course
