@@ -6,9 +6,8 @@ description: ""
 third_nav_title: Projects
 ---
 <h4>Meet the team</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fansipan.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fansipan__full_.jpg">
 </div>
 <p>Fansipan is simply the name of the mountain where one of our team members
 was on, when we were accepted to the hackathon. We are a team of four spontaneous
