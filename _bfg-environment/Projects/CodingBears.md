@@ -6,20 +6,29 @@ description: ""
 third_nav_title: Projects
 ---
 <h4>Meet the team</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Coding_Bears.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Coding_bears_2.jpg">
 </div>
 <p><strong>Team members: </strong>Aden (Software Engineer), Grace (Software
 Engineer), Ethan (Data/ ML/ AI), Kyra (Product Manager)</p>
 <h4>Problem statement</h4>
-<p>Singaporeans who are compost makers and food scrap givers are facing significant
-challenges in finding and connecting with each other. Currently, there
-is no efficient platform or system in place to facilitate these connections,
-resulting in missed opportunities for sustainable waste management and
-compost production.</p>
-<p>This lack of connectivity hinders both groups' efforts to effectively
-source and donate food scraps, ultimately affecting their ability to contribute
-to environmental sustainability. Connecting these stakeholders would encourage
-an increase in composting efforts and increase the utilisation of these
-food scraps</p>
+<p>Compost makers and food scrap givers in Singapore are facing significant
+challenges in finding and connecting with each other. The lack of an efficient
+and community-oriented platform or system leads people to stick to subpar
+methods of sourcing and donating food scraps. This results in missed connections
+and consequently, missed opportunities for sustainable waste management
+and compost production. Creating a more inclusive and collaborative platform
+would enhance connections among these stakeholders, ultimately increasing
+composting efforts, utilization of food scraps, and diverting food waste
+from our landfills.</p>
+<h4>Proposed solution</h4>
+<p>Our solution focuses on establishing a reliable and efficient platform
+to bridge this gap, which is essential for enhancing composting initiatives
+and promoting a greener Singapore. By providing everything users need —
+such as showing active users and listings to prevent wasted time on inactive
+offers, forums to foster discussions and more — we create a strong sense
+of community and easy way to connect. This communal effect and streamlined
+process allows users to see and connect with the community around them,
+encouraging them to stay engaged with our platform and increase composting
+efforts due to the comprehensive, all inclusive platform</p>
+<p></p>
