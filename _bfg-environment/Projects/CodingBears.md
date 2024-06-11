@@ -6,9 +6,8 @@ description: ""
 third_nav_title: Projects
 ---
 <h4>Meet the team</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Coding_Bears.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Coding_bears.jpg">
 </div>
 <p><strong>Team members: </strong>Aden (Software Engineer), Grace (Software
 Engineer), Ethan (Data/ ML/ AI), Kyra (Product Manager)</p>
