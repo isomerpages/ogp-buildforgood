@@ -7,6 +7,9 @@ third_nav_title: Projects
 ---
 <h4>Meet the team</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Clean_Dream_Crew.jpg">
+</div>
 <p><strong>Team members: </strong>Benecia Tang (Business, Analytics/Research),
 Bernard Heng (Product Design), Pawandeep Sekhon (Software Engineer/Product
 Manager)</p>
