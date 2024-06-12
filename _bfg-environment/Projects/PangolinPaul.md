@@ -10,6 +10,15 @@ third_nav_title: Projects
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Muscat.jpg">
 </div>
+<p>Hello we are Team Muscat! We're a group of passionate students committed
+to tackling environmental challenges, with a specific focus on addressing
+human-wildlife relationships🦎👫🐒.
+<br>
+<br>As Singapore progresses towards becoming a City in Nature, urbanization
+intensifies interactions between people and wildlife, necessitating innovative
+solutions to ensure harmonious coexistence🍃. We thus hope to bridge the
+knowledge gap and empower Singaporeans to navigate human-wildlife interactions
+effectively!</p>
 <p><strong>Team members: </strong>Fun Jolie, Valerine Cheow, Liam Wells Ayathan,
 Seah Ying Ting</p>
 <h4>Problem statement</h4>
