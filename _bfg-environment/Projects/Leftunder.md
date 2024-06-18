@@ -59,7 +59,21 @@ been used
 <br>3. Reminders
 <br>4. Recommendations
 <br>
-<br>
+<br><strong>Product summary: </strong>
+</p>
+<p>Leftunder is an easy-access, hassle-free, and AI-powered food tracking
+&amp; recommendation solution that aims to solve the problem of food waste
+in Singapore by tackling the inconveniences that users are facing when
+tracking food items. We found out that users do have the intention to track
+their food so it does not go to waste, but due to current solutions being
+very manual and requiring them to download another app, they have never
+committed to any. Thus, we came up with the idea to host our solution via
+a Telegram bot (to remove the need to download another app or create another
+account plus having high visibility since Telegram is mostly used daily),
+power it with AI to remove the manual aspects of inputting the various
+food items for tracking &amp; giving customized recommendations on what
+to do with leftover ingredients, and connecting it with a clean, intuitive
+user interface where users can be on top of what they have, any time, anywhere.
 <br>
 </p>
 <p></p>
