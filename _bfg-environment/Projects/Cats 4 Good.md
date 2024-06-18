@@ -9,11 +9,10 @@ third_nav_title: Projects
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cats_4_Good.jpg">
 </div>
-<p>We are Cats 4 Good, a group of NUS students passionate about building
-technology for social good! Our mission is to unite community and businesses
-in our collective fight against food waste while educating everyone along
-the way. Follow us on this exciting journey and be a part of our bid to
-make a difference!</p>
+<p>We are a group of NUS students passionate about building technology for
+social good! Our mission is to unite community and businesses in our collective
+fight against food waste while educating everyone along the way. Follow
+us on this exciting journey and be a part of our bid to make a difference!</p>
 <p><strong>Team members: </strong>Sun Ruiheng (Software Engineer/Product),
 Tan Guan Quan (Software Engineer), Justin Wong Jian Hui (Software Engineer),
 Jessica Tay Jing Yun (Design/Product)</p>
