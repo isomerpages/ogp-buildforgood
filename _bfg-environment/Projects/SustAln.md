@@ -9,10 +9,10 @@ third_nav_title: Projects
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fansipan__full_.jpg">
 </div>
-<p>Fansipan is simply the name of the mountain where one of our team members
-was on, when we were accepted to the hackathon. We are a team of four spontaneous
-software engineers wanting to challenge ourselves and utilise our skills
-to contribute to public good.</p>
+<p>We are team Fansipan, which is simply the name of the mountain where one
+of our team members was on when we were accepted to the hackathon. We are
+a team of four spontaneous software engineers wanting to challenge ourselves
+and utilise our skills to contribute to public good.</p>
 <p><strong>Team members: </strong>Ang Zhen Yi, Orlin Romy, Chen Zhenhao,
 Lim Xuan Hao</p>
 <h4>Problem statement</h4>
