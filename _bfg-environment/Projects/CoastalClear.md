@@ -34,7 +34,7 @@ effectiveness of their cleanups: the lack of visibility into the level
 of cleanliness of our coastal areas. This leads to redundant efforts as
 a result of organizing a cleanup in a recently cleaned areas, an inability
 to match volunteer cleanup efforts to trash hotspots and improper/ inefficient
-manpower allocation
+manpower allocation.
 <br>
 <br>This is an important problem to solve because of the mounting environmental
 impact on our marine biodiversity and significant public health risks to
