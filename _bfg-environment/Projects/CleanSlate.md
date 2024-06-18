@@ -1,6 +1,6 @@
 ---
-title: RePair
-permalink: /repair/
+title: CleanSlate
+permalink: /cleanslate/
 variant: tiptap
 description: ""
 third_nav_title: Projects
@@ -10,6 +10,9 @@ third_nav_title: Projects
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/RePair.jpg">
 </div>
+<p>We are a team of 3 designers who are inspired to tackle the overlooked
+yet poignant issue of e-waste, as we increasingly live in a society surrounded
+by personal devices and gadgets. 🤖🤖🤖</p>
 <p><strong>Team members: </strong>Sheryl Ang (Design), Tan Seiyee (Design),
 Edmund Zhang (Design)</p>
 <h4>Problem statement</h4>

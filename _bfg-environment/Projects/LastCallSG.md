@@ -1,6 +1,6 @@
 ---
-title: LastCall SG
-permalink: /lastcall-sg/
+title: LastCallSG
+permalink: /lastcallsg/
 variant: tiptap
 description: ""
 third_nav_title: Projects

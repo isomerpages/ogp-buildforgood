@@ -44,22 +44,25 @@ and disposed of in the landfills, and up to 20% of the total waste generated
 in Singapore in 2022 was from food waste alone, out of which 10% were contributed
 by households.</p>
 <h4>Proposed solution</h4>
-<p><strong>Context and Solution (Telegram):<br></strong>When interviewing
-our users, we realised that the way users track their food is either by
-keying it in some notes app that they already have, or use a personal chat
-to add those items in. With that insight, in order to reduce the inertia
-of getting a user to download a new app or sign up just to complete their
-tracking tasks, we decided to go with utilizing Telegram's bots and mini-apps
-function to fit our case.
+<p>Leftunder is an easy-access, hassle-free, and AI-powered food tracking
+&amp; recommendation solution that aims to solve the problem of food waste
+in Singapore by tackling the inconveniences that users are facing when
+tracking food items. We found out that users do have the intention to track
+their food so it does not go to waste, but due to current solutions being
+very manual and requiring them to download another app, they have never
+committed to any. Thus, we came up with the idea to host our solution via
+a Telegram bot (to remove the need to download another app or create another
+account plus having high visibility since Telegram is mostly used daily),
+power it with AI to remove the manual aspects of inputting the various
+food items for tracking &amp; giving customized recommendations on what
+to do with leftover ingredients, and connecting it with a clean, intuitive
+user interface where users can be on top of what they have, any time, anywhere.
 <br>
-<br><strong>Features:<br></strong>1. Automated input of ingredients users
+</p>
+<p><strong>Features:<br></strong>1. Automated input of ingredients users
 want to track
 <br>2. Automated updating of ingredients in the pantry depending on what has
 been used
 <br>3. Reminders
-<br>4. Recommendations
-<br>
-<br>
-<br>
-</p>
+<br>4. Recommendations</p>
 <p></p>

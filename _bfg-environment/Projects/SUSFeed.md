@@ -10,6 +10,10 @@ third_nav_title: Projects
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SUSFeed.jpg">
 </div>
+<p>We're a group of passionate Republic Polytechnic graduates with diverse
+skills tackling sustainability at Build for Good! Our innovative startup
+upcycles food waste into sustainable fish feed, aiming to reduce landfill
+waste and promote a more eco-friendly food system.</p>
 <p><strong>Team members: </strong>Javier Tan (Product), Azad Akim (Website/
 Research), Yuen Sheng (Strategy)</p>
 <h4>Problem statement</h4>
