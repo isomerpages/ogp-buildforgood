@@ -9,6 +9,10 @@ third_nav_title: Projects
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Coding_bears_2.jpg">
 </div>
+<p>Together, we're the ComPost Crew, committed to transforming the way Singapore
+handles organic waste. Our goal is to create a vibrant community around
+sustainable practices, making composting accessible and impactful. Join
+us as we pave the way to a greener future, one connection at a time.</p>
 <p><strong>Team members: </strong>Aden (Software Engineer), Grace (Software
 Engineer), Ethan (Data/ ML/ AI), Kyra (Product Manager)</p>
 <h4>Problem statement</h4>
