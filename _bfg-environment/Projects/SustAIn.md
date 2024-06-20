@@ -1,6 +1,6 @@
 ---
-title: SustAln
-permalink: /sustaln/
+title: SustAIn
+permalink: /sustain/
 variant: tiptap
 description: ""
 third_nav_title: Projects
