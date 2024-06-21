@@ -24,26 +24,21 @@ sections:
           description: $100,000*
           url: /environment/accelerator-funding/
   - infopic:
-      title: This time, for the environment
-      description: Build solutions to tackle pressing environmental issues in Singapore.
-      button: find out more
-      url: /environment
+      title: Building solutions for a greener Singapore
+      id: infopic
+      description: Check out the projects that our 19 teams have been building!
+      button: all projects
+      url: /bloo
+      image: /images/Projects___6.png
+      alt: Build for Good projects
+  - infopic:
+      title: Build for Good 2024
+      description: Build solutions to tackle any pressing issue in Singapore.
+      button: join the waitlist
+      url: https://form.gov.sg/657045c5f80b4d001231a2c8
       alt: Image alt text
       image: /images/BFG_images.gif
-      subtitle: we're back!
-  - textcards:
-      title: Join us to build a Greener Singapore
-      id: textcards
-      cards:
-        - title: Sign up as a Builder
-          description: Build solutions to tackle important environmental issues in
-            Singapore.
-          linktext: Sign Up Now
-          url: /builder/
-        - title: Submit problem statements
-          description: Share with us environmental problems that you wish could be tackled.
-          linktext: Submit Problems
-          url: /submit-problems
+      subtitle: coming soon in august...
   - infobar:
       title: Build for Good 2023 Recap
       id: infobar
