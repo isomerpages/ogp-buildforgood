@@ -33,7 +33,7 @@ sections:
       alt: Build for Good projects
   - infopic:
       title: Build for Good (General)
-      description: Build solutions to tackle any pressing issues in Singapore.
+      description: Build solutions to tackle any pressing issue in Singapore.
       button: join the waitlist
       url: https://form.gov.sg/657045c5f80b4d001231a2c8
       alt: Image alt text
