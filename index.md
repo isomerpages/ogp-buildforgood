@@ -32,13 +32,13 @@ sections:
       image: /images/Projects___6.png
       alt: Build for Good projects
   - infopic:
-      title: Build for Good (General)
+      title: Build for Good 2024
       description: Build solutions to tackle any pressing issue in Singapore.
       button: join the waitlist
       url: https://form.gov.sg/657045c5f80b4d001231a2c8
       alt: Image alt text
       image: /images/BFG_images.gif
-      subtitle: coming soon...
+      subtitle: coming soon in august...
   - infobar:
       title: Build for Good 2023 Recap
       id: infobar
