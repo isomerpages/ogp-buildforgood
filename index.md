@@ -27,7 +27,7 @@ sections:
       title: Building solutions for a greener Singapore
       id: infopic
       description: Check out the projects that our 19 teams have been building!
-      button: projects
+      button: all projects
       url: /bloo
       image: /images/Projects___6.png
       alt: Build for Good projects
