@@ -32,13 +32,13 @@ sections:
       image: /images/Projects___6.png
       alt: Build for Good projects
   - infopic:
-      title: This time, for the environment
-      description: Build solutions to tackle pressing environmental issues in Singapore.
-      button: find out more
-      url: /environment
+      title: Build for Good (General)
+      description: Build solutions to tackle any pressing issues in Singapore.
+      button: join the waitlist
+      url: https://form.gov.sg/657045c5f80b4d001231a2c8
       alt: Image alt text
       image: /images/BFG_images.gif
-      subtitle: we're back!
+      subtitle: coming soon...
   - infobar:
       title: Build for Good 2023 Recap
       id: infobar
