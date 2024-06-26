@@ -8,7 +8,7 @@ description: ""
 partnering with SG Eco Fund to focus on environmental and sustainability
 issues. Over the month, our 80 builders came up with 19 innovative solutions,
 tackling diverse problems ranging from waste to public hygiene.</p>
-<p>We are proud to announce the five teams that were selected to receive
+<p>We are excited to announce the five teams that were selected to receive
 up to $100,000 funding each and go through an 8-week accelerator program
 to further develop their products:</p>
 <h3>Koel</h3>
