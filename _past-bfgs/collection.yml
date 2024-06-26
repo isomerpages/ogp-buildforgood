@@ -2,6 +2,7 @@ collections:
   past-bfgs:
     output: true
     order:
+      - BFG 2023/BFG 2023 Recap.md
       - BFG 2023/.keep
       - Projects/.keep
       - Projects/Basecamp.md
