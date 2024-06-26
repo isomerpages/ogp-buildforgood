@@ -1,5 +1,5 @@
 collections:
-  bfg2023:
+  bfg-2023:
     output: true
     order:
       - BFG 2023 Recap.md
