@@ -2,7 +2,6 @@ collections:
   bfg-environment:
     output: true
     order:
-      - Winning Teams.md
       - About BFG Environment.md
       - Projects/.keep
       - Projects/Bloo.md
@@ -24,6 +23,7 @@ collections:
       - Projects/Streads.md
       - Projects/SUSFeed.md
       - Projects/SustAIn.md
+      - Winning Teams.md
       - Sign up as a Builder.md
       - Accelerator & Funding.md
       - Share problem statements.md
