@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - BFG 2023/.keep
-      - BFG 2023 Recap.md
       - Projects/.keep
       - Projects/Basecamp.md
       - Projects/ChatLah.md
