@@ -54,7 +54,7 @@ his/her own field?</p>
 </ol>
 <h3><strong>What kind of solutions can you come up with?</strong></h3>
 <p>Your solution should be a tech solution that addresses a public good problem
-in Singapore. It should not be an existing solution which was started before
+in Singapore. It should not be an existing solution which was built before
 the hackathon period.</p>
 <p>You will be required to demonstrate a working prototype that's backed
 by user testing at the finale.</p>
