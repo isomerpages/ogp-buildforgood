@@ -12,18 +12,18 @@ variant: tiptap
 <p>Build solutions that tackle important problems in Singapore</p>
 </li>
 <li>
-<p>Deepen your understanding about different problem spaces through conversations
-with government stakeholders and industry experts</p>
+<p>Deepen your understanding of different problem spaces through conversations
+with public &amp; private experts</p>
 </li>
 <li>
 <p>Receive mentorship from experienced tech professionals</p>
 </li>
 <li>
-<p>Present your solutions to government leaders and industry experts</p>
+<p>Present your solutions to government leaders and industry partners</p>
 </li>
 </ul>
-<p>Winning teams will receive funding of up to S$100,000* and take part in
-a 2-month accelerator programme to further develop their solutions, and
+<p>Winning teams will receive funding of up to S$20,000* and take part in
+a 8-week accelerator programme to further develop their solutions, and
 launch them to real users!
 <br>
 <br>*Refer to <a href="/environment/accelerator-funding" rel="noopener noreferrer nofollow" target="_blank">accelerator &amp; funding</a> for
