@@ -2,7 +2,7 @@
 title: SustainaBite
 permalink: /projects/sustainabite/
 description: ""
-third_nav_title: Projects
+third_nav_title: BFG 2023 Projects
 ---
 ### About the team
 ![](/images/sustainabite.jpeg)

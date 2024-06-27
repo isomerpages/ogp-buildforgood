@@ -1,6 +1,6 @@
 ---
-title: GovInsider OGP crowdsources solutions to public challenges with first
-  ever citizen hackathon
+title: "GovInsider: OGP crowdsources solutions to public challenges with first
+  ever citizen hackathon"
 date: 2023-07-07
 layout: link
 description: ""

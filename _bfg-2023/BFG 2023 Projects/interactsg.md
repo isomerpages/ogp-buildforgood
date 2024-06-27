@@ -2,7 +2,7 @@
 title: interactsg
 permalink: /projects/interactsg/
 description: ""
-third_nav_title: Projects
+third_nav_title: BFG 2023 Projects
 ---
 ### About the team
 ![](/images/palate%20pals.jpg)

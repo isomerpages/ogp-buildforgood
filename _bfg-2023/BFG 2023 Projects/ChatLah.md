@@ -2,7 +2,7 @@
 title: ChatLah
 permalink: /projects/chatlah/
 description: ""
-third_nav_title: Projects
+third_nav_title: BFG 2023 Projects
 ---
 ### About the team
 

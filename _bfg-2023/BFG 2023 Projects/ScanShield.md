@@ -2,7 +2,7 @@
 title: ScanShield
 permalink: /projects/scanshield/
 description: ""
-third_nav_title: Projects
+third_nav_title: BFG 2023 Projects
 ---
 ### About the team
 

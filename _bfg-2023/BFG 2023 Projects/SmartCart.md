@@ -2,7 +2,7 @@
 title: SmartCart
 permalink: /projects/smartcart/
 description: ""
-third_nav_title: Projects
+third_nav_title: BFG 2023 Projects
 ---
 ### About the team
 ![](/images/smartcart.jpeg)
