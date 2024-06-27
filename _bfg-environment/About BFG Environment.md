@@ -54,7 +54,7 @@ after the hackathon.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Public Hygiene</p>
+<p>Health &amp; Wellbeing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ensuring public cleanliness of public spaces and toilets, and tackling
