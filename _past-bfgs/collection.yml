@@ -1,5 +1,5 @@
 collections:
-  bfg-2023:
+  past-bfgs:
     output: true
     order:
       - Winning Teams.md
