@@ -1,5 +1,5 @@
 collections:
-  bfg-environment:
+  bfg-2024:
     output: true
     order:
       - Sign up as a Builder.md
