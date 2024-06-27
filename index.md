@@ -6,7 +6,7 @@ description: Build for Good is a month-long hackathon for citizens to build
   participating teams will scope out problem statements, identify solutions,
   build prototypes, and test them with users. At the end of the month, they will
   present their solutions to government leaders, and selected teams will receive
-  funding to carry on their projects.
+  funding and go through an accelerator programme to launch their solutions.
 image: /images/Logo.png
 permalink: /
 notification: ""
