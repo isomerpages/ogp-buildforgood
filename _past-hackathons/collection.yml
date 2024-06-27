@@ -1,5 +1,5 @@
 collections:
-  past-bfg:
+  past-hackathons:
     output: true
     order:
       - Winning Teams.md
