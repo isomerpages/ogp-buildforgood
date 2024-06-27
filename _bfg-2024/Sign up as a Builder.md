@@ -4,8 +4,6 @@ permalink: /builder/
 description: ""
 variant: tiptap
 ---
-<p><strong><em>We have officially closed our sign ups as of 31 March 2024. Join the waitlist for the next Build for Good <a href="https://go.gov.sg/bfg2024waitlist" rel="noopener noreferrer nofollow" target="_blank">here</a>!</em></strong>
-</p>
 <h3><strong>Why join as a builder?</strong></h3>
 <ul>
 <li>
@@ -59,3 +57,7 @@ the hackathon period.</p>
 <p>You will be required to demonstrate a working prototype that's backed
 by user testing at the finale.</p>
 <p>If you need inspiration, you can check out the <a href="/past-hackathons/" rel="noopener noreferrer nofollow" target="_blank">projects</a> from our past Build for Good runs!</p>
+<p></p>
+<p>&lt;a href="<a href="https://form.gov.sg/65e834286bd31a821726d281" rel="noopener noreferrer nofollow" target="_blank">(insert link when ready)</a>"&gt;
+&lt;button class="bp-button is-secondary is-medium has-text-white is-uppercase
+search-button"&gt; Submit Problems &lt;/button&gt; &lt;/a&gt;</p>
