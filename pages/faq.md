@@ -5,11 +5,11 @@ variant: markdown
 ---
 ### Can I sign up if I don’t have a tech background?
 
-While tech expertise and interest in tech are preferred, we welcome participants from all backgrounds to join us. We do recommend however that your hackathon team consists of members with the skills required to build the solution you want to make. 
+While tech expertise and interest in tech are preferred, we welcome participants from all backgrounds to join us. We do require the solution to be tech-based and recommend that your hackathon team consists of members with the skills required to build the solution. 
 
 ### Can I participate as a builder if I’m not in Singapore?
 
-Unfortunately, no. You should be in Singapore to participate in our in-person sessions and the finale. 
+Unfortunately, no. You have to be in Singapore to participate in our in-person sessions and the finale. 
 
 ### Can I participate if I’m working or schooling?
 
@@ -31,7 +31,7 @@ You may sign up as an individual or as a team. You will be given time to get to 
 
 
 ### What can we expect during the weekly sessions?
-At the sessions, you can expect workshops and talks led by OGP officers and industry experts. Additionally, dedicated spaces will be provided for you to collaborate with your team, seek guidance from mentors, and consult environmental experts.
+At the sessions, you can expect workshops and talks led by OGP officers and industry experts. Additionally, dedicated spaces will be provided for you to collaborate with your team, seek guidance from mentors, and consult experts.
 
 ### What’s the commitment level like?
 
