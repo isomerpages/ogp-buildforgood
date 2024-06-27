@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - BFG Environment Recap.md
+      - BFG Environment Projects/EcoCents.md
       - BFG Environment Projects/EcoEncounters.md
       - BFG Environment Projects/KiasuKitchen.md
       - BFG Environment Projects/Koel.md
