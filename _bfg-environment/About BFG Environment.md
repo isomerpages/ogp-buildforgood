@@ -104,6 +104,6 @@ littering hotspots</p>
 </tbody>
 </table>
 <p>The above problem areas are identified based on the 700 problem statements
-crowdsourced from citizens last year. Builders may still work on problems
+we crowdsourced from citizens last year. Builders may still work on problems
 that are not mentioned above, as long as they are public good problems.</p>
 <p></p>
