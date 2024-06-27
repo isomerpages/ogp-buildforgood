@@ -12,8 +12,8 @@ variant: tiptap
 <p>Build solutions that tackle important problems in Singapore</p>
 </li>
 <li>
-<p>Learn more about different problem spaces through conversations with government
-stakeholders and industry experts</p>
+<p>Deepen your understanding about different problem spaces through conversations
+with government stakeholders and industry experts</p>
 </li>
 <li>
 <p>Receive mentorship from experienced tech professionals</p>
