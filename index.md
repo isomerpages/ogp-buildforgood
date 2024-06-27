@@ -24,21 +24,22 @@ sections:
           description: SGPO
           url: ""
   - infopic:
-      title: Building solutions for a greener Singapore
+      title: A month of building for public good
       id: infopic
-      description: Check out the projects that our 19 teams have been building!
-      button: all projects
+      description: Tackle any societal problem that you feel strongly about.
+      button: Be a builder
       url: /bloo
-      image: /images/Projects___6.png
+      image: /images/BFG_images.gif
       alt: Build for Good projects
+      subtitle: we are back!
   - infopic:
-      title: Build for Good 2024
-      description: Build solutions to tackle any pressing issue in Singapore.
-      button: join the waitlist
-      url: https://form.gov.sg/657045c5f80b4d001231a2c8
+      title: Build for Good Environment
+      description: 80 builders, 19 innovative solutions for a greener Singapore.
+      button: explore highlights
+      url: /environment
       alt: Image alt text
       image: /images/BFG_images.gif
-      subtitle: coming soon in august...
+      subtitle: it's a wrap!
   - infobar:
       title: Build for Good 2023 Recap
       id: infobar
