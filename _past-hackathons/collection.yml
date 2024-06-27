@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - BFG Environment Recap.md
+      - BFG Environment Projects/RecycleMate.md
       - BFG Environment Projects/RemediSG.md
       - BFG Environment Projects/ReportLah!.md
       - BFG Environment Projects/Streads.md
