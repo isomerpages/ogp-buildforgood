@@ -35,26 +35,19 @@ At the sessions, you can expect workshops and talks led by OGP officers and indu
 
 ### What’s the commitment level like?
 
-During the hackathon, there will be in-person sessions held every Saturday:
+During the hackathon, there will be compulsory in-person sessions (refer [here](/bfg2024/)here for dates and timing).
 
-*  **Builders’ Kickoff:** 18 May 2024
-*  **Weekly session 1:** 25 May 2024
-*  **Weekly session 2:** 1 June 2024
-*  **Weekly session 3:** 8 June 2024
-*  **Weekly session 4:** 15 June 2024
-*  **Finale:** 22 June 2024
-
-These in-person sessions are compulsory to attend and will ensure that you make steady progress towards the finale. Beyond the hackathon, winning teams will be required to take part in a 2-month accelerator programme, which will help them potentially launch their solutions to real users.
+These in-person sessions are compulsory to attend and will ensure that you make steady progress towards the finale. Beyond the hackathon, winning teams will be required to take part in a 2-month accelerator programme, which will help them launch their solutions to real users.
 
 ### Does my registration guarantee my participation in Build for Good?
 
-After registration, we will be screening through the applications and shortlist participants. This is to ensure that the opportunity is given to people who have the ability to commit and the drive to do public good. We will send you an email regarding your application results by the end of April.
+After registration, we will be screening through the applications and shortlist participants. This is to ensure that the opportunity is given to people who have the ability to commit and the drive to do public good. We will send you an email regarding your application results by the end of July.
 
 ### What do I need to deliver by the end of Build for Good?
 
-All solutions need to have a demonstrated working prototype that's validated through user testing. At the finale, you will be required to outline the problem you identified and how your solution tackles it. All solutions will be evaluated by a judging panel comprising of government leaders and industry experts, and winning teams will be awarded funding of up to $100,000 each.
+All solutions need to have a demonstrated working prototype that's validated through user testing. At the finale, you will be required to outline the problem you identified and how your solution tackles it. All solutions will be evaluated by a judging panel comprising of government leaders and industry experts, and winning teams will be awarded funding of up to $20,000 each.
 
 ### What happens after the finale?
-Winning teams will receive funding of up to $100,000 and go through a 2-month accelerator programme to continue developing prototypes into full-fledged products. The remaining teams will have full ownership of their products and are encouraged to further develop their products in their own time.
+Winning teams will receive funding of up to $20,000 and go through a 2-month accelerator programme to continue developing prototypes into full-fledged products. The remaining teams will have full ownership of their products and are encouraged to further develop their products in their own time.
 
 All builders will also be given a digital certificate of participation after the finale.
