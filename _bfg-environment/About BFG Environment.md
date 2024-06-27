@@ -60,48 +60,42 @@ after the hackathon.</p>
 <p>Health &amp; Wellbeing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ensuring public cleanliness of public spaces and toilets, and tackling
-littering hotspots</p>
+<p>Mental wellbeing, healthcare accessibility &amp; efficiency, supporting
+patients with chronic conditions</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Waste</p>
+<p>Supporting the elderly</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Reducing packaging and food waste, and encouraging recycling</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Food</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Growing more food and ensuring food safety</p>
+<p>Social isolation, accessibility to healthcare &amp; essential services</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Water</p>
+<p>Digital inclusion &amp; information accessibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Reducing water consumption of households</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Energy &amp; Climate Change</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Reducing energy consumption of households</p>
+<p>Digital adoption for the less digital savvy, accessibility and clarity
+of important govt information</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nature &amp; Biodiversity</p>
+<p>Youth &amp; education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Conservation of natural habitats and wildlife</p>
+<p>Accessibility of educational materials beyond school, financial literacy,
+educational support for underprivileged families</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Safety &amp; security</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cybersecurity, scams, road safety</p>
 </td>
 </tr>
 </tbody>
