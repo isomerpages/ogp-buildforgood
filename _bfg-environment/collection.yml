@@ -2,7 +2,7 @@ collections:
   bfg-environment:
     output: true
     order:
-      - About BFG Environment.md
+      - About BFG 2024.md
       - Projects/.keep
       - Projects/Bloo.md
       - Projects/CleanSlate.md
