@@ -4,46 +4,40 @@ permalink: /environment/
 variant: tiptap
 description: ""
 ---
-<p>Last year, we invited citizens to identify important public good problems
-and build solutions to tackle them. Environment and sustainability issues
-emerged as one of the top three important areas of concern. With that,
-we are back this year with another round of Build for Good, focusing on
-the environment. This is in partnership with <a href="https://www.mse.gov.sg/sgecofund/" rel="noopener noreferrer nofollow" target="_blank">SG Eco Fund</a>, which is administered
-by the Ministry of Sustainability and the Environment.</p>
-<p>Join us in building solutions to address environmental issues that matter
-to you, be it food waste, recycling, public hygiene, and more.</p>
+<p>After our environmental edition in June, we are back with another round
+of Build for Good, this time addressing any public good problems!</p>
+<p>Join us in building solutions to address issues that matter to you, be
+it healthcare, elderly support, education, and more.</p>
 <h3><strong>Programme Timeline</strong></h3>
 <p>Build for Good will consist of two phases - hackathon and accelerator.
-The hackathon will run from 18 May to 22 June 2024, comprising a kickoff
-session, four weekly sessions, and a finale event. In between these sessions,
-builders are free to continue working on their projects in their own time.
-We will provide working spaces on Thursday evenings to allow teams to work
-on their projects.</p>
-<p>Do note that all sessions are on Saturdays and held in-person only so
-as to maximise the builders’ experience.</p>
+The hackathon will run from 28 Aug to 28 Sep 2024, comprising a kickoff
+session, four weekly sessions, and a finale. In between these sessions,
+builders are free to continue working on their projects in their own time.</p>
+<p>Do note that all sessions are compulsory and held in-person only so as
+to maximise the builders’ experience.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Builders’ Kickoff:</strong> 18 May (10am-5pm)</p>
+<p><strong>Builders’ Kickoff:</strong> 28 Aug (Wed), 7-9.30pm</p>
 </li>
 <li>
-<p><strong>Weekly session 1:</strong> 25 May (1-6pm)</p>
+<p><strong>Weekly session 1:</strong> 31 Aug (Sat), 10am-3pm</p>
 </li>
 <li>
-<p><strong>Weekly session 2:</strong> 1 June (1-6pm)</p>
+<p><strong>Weekly session 2:</strong> 7 Sep (Sat), 10am-3pm</p>
 </li>
 <li>
-<p><strong>Weekly session 3:</strong> 8 June (10am-6pm)</p>
+<p><strong>Weekly session 3:</strong> 14 Sep (Sat), 10am-12.30pm</p>
 </li>
 <li>
-<p><strong>Weekly session 4:</strong> 15 June (10am-6pm)</p>
+<p><strong>Weekly session 4:</strong> 21 Sep (Sat), 10am-12.30pm</p>
 </li>
 <li>
-<p><strong>Finale:</strong> 22 June (12pm-5pm)</p>
+<p><strong>Finale:</strong> 28 June (Sat), 10am-5pm</p>
 </li>
 </ul>
 <p>Winning teams will then move on to the second phase, a <a href="accelerator-funding/" rel="noopener noreferrer nofollow" target="_blank">2-month accelerator</a> programme,
 after the hackathon.</p>
-<h3><strong>Focus Areas</strong></h3>
+<h3><strong>Problem Areas</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -52,7 +46,7 @@ after the hackathon.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Focus Area</p>
+<p>Problem Area</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Examples</p>
@@ -109,9 +103,7 @@ littering hotspots</p>
 </tr>
 </tbody>
 </table>
-<p>Builders may still work on problems that are not mentioned above, as long
-as they impact the environment.</p>
-<p>Read <a href="https://www.mse.gov.sg/cos" rel="noopener noreferrer nofollow" target="_blank">here</a> on
-key environmental areas that MSE outlined in the Committee of Supply 2024
-debate.</p>
+<p>The above problem areas are identified based on the 700 problem statements
+crowdsourced from citizens last year. Builders may still work on problems
+that are not mentioned above, as long as they are public good problems.</p>
 <p></p>
