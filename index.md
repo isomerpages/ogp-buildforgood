@@ -14,15 +14,15 @@ sections:
   - hero:
       background: /images/Hero_Banner_Option_5.png
       key_highlights:
-        - title: in collaboration with
-          description: SG ECO FUND
-          url: /environment
         - title: Happening on
-          description: 18 MAY — 22 JUN 2024
+          description: 28 AUG — 28 SEP 2024
           url: /builder
         - title: funding of up to
-          description: $100,000*
+          description: $20,000
           url: /environment/accelerator-funding/
+        - title: IN PARTNERSHIP WITH
+          description: SGPO
+          url: ""
   - infopic:
       title: Building solutions for a greener Singapore
       id: infopic
