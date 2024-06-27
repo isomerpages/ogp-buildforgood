@@ -35,8 +35,8 @@ sections:
   - infopic:
       title: Build for Good Environment
       description: 80 builders, 19 innovative solutions for a greener Singapore.
-      button: explore highlights
-      url: /environment
+      button: see recap
+      url: /bfg-env-recap/
       alt: Image alt text
       image: /images/BFG_images.gif
       subtitle: it's a wrap!
