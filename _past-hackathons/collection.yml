@@ -2,6 +2,7 @@ collections:
   past-hackathons:
     output: true
     order:
+      - BFG Environment Projects/.keep
       - BFG Environment Recap.md
       - BFG 2023 Recap.md
       - BFG 2023 Projects/.keep
