@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - BFG Environment Recap.md
+      - BFG Environment Projects/CleanSlate.md
       - BFG Environment Projects/Bloo.md
       - BFG Environment Projects/.keep
       - BFG 2023 Recap.md
