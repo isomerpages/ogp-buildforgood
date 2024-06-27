@@ -11,6 +11,9 @@ While tech expertise and interest in tech are preferred, we welcome participants
 
 Unfortunately, no. You have to be in Singapore to participate in our in-person sessions and the finale. 
 
+### Can I participate as a startup?
+You are free to join as a startup team, but you should be presenting a new solution that was built during the hackathon month at the finale. To ensure fairness, teams are not allowed to bring in an existing solution that was built before the hackathon.
+
 ### Can I participate if I’m working or schooling?
 
 Yes! We welcome students or working professionals aged 18 years old and above.
