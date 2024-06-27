@@ -2,7 +2,7 @@ collections:
   past-hackathons:
     output: true
     order:
-      - Winning Teams.md
+      - BFG Environment Recap.md
       - BFG 2023 Recap.md
       - BFG 2023 Projects/.keep
       - BFG 2023 Projects/Basecamp.md
