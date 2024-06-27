@@ -26,9 +26,9 @@ sections:
   - infopic:
       title: A month of building for public good
       id: infopic
-      description: Tackle any societal problem that you feel strongly about.
+      description: Tackle any problem in Singapore that you feel strongly about.
       button: Be a builder
-      url: /bloo
+      url: /builder/
       image: /images/BFG_images.gif
       alt: Build for Good projects
       subtitle: we are back!
