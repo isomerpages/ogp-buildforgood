@@ -6,8 +6,8 @@ description: ""
 ---
 <p>After our environmental edition in June, we are back with another round
 of Build for Good to address any public good problem! This time, we are
-working with Singapore Government Partnership Office (SGPO) to foster co-creation
-and collaboration between government agencies and citizens.</p>
+working with the Singapore Government Partnership Office (SGPO) to foster
+co-creation and collaboration between government agencies and citizens.</p>
 <p>Join us in building solutions to address issues that matter to you, be
 it healthcare, elderly support, education, and more.</p>
 <h3><strong>Programme Timeline</strong></h3>
