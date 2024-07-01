@@ -14,15 +14,15 @@ sections:
   - hero:
       background: /images/Hero_Banner_Option_8.png
       key_highlights:
+        - title: IN PARTNERSHIP WITH
+          description: SGPO
+          url: ""
         - title: Happening on
           description: 28 AUG — 28 SEP 2024
           url: /builder
         - title: funding of up to
           description: $20,000
           url: /environment/accelerator-funding/
-        - title: IN PARTNERSHIP WITH
-          description: SGPO
-          url: ""
   - infopic:
       title: A month of building for public good
       id: infopic
