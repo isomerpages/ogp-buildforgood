@@ -12,7 +12,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero_Banner_Option_5.png
+      background: /images/Hero_Banner_Option_8.png
       key_highlights:
         - title: Happening on
           description: 28 AUG — 28 SEP 2024
