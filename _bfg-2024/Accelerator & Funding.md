@@ -54,5 +54,4 @@ programme:</p>
 </li>
 </ul>
 <p>Upon achieving these milestones, S$1,000 will be given to each winning
-team member as a token of appreciation for public good contributions. This
-S$1,000 will be part of the maximum of S$20,000 in funding.</p>
+team member as a token of appreciation for public good contributions.</p>
