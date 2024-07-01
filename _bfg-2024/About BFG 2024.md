@@ -5,7 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p>After our environmental edition in June, we are back with another round
-of Build for Good, this time addressing any public good problems!</p>
+of Build for Good, this time addressing any public good problems! For this
+upcoming round, we are partnering with the Singapore Government Partnerships
+Office (SGPO) to bring in government agencies and experts from various
+sectors!</p>
 <p>Join us in building solutions to address issues that matter to you, be
 it healthcare, elderly support, education, and more.</p>
 <h3><strong>Programme Timeline</strong></h3>
