@@ -38,7 +38,7 @@ sections:
       button: see recap
       url: /bfg-environment/
       alt: Image alt text
-      image: /images/BFG_images.gif
+      image: /images/BFG_GIF__1_.gif
       subtitle: it's a wrap!
   - infobar:
       title: Build for Good 2023 Recap
