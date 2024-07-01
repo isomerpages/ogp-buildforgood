@@ -20,7 +20,7 @@ with public &amp; private sector experts</p>
 <p>Refine your solutions through workshops and consultations
 	</p></li>
 <li>
-<p>Present your solutions to government leaders and industry partners</p>
+<p>Showcase your solutions to government leaders and industry partners</p>
 </li>
 </ul>
 <p>Winning teams will receive funding of up to S$20,000* and take part in
