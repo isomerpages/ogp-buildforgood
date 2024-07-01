@@ -16,7 +16,7 @@ sections:
       key_highlights:
         - title: IN PARTNERSHIP WITH
           description: SGPO
-          url: ""
+          url: https://www.sgpo.gov.sg/
         - title: Happening on
           description: 28 AUG — 28 SEP 2024
           url: /builder
