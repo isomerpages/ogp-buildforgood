@@ -35,7 +35,7 @@ to maximise the builders’ experience.</p>
 <p><strong>Weekly session 4:</strong> 21 Sep (Sat), 10am-12.30pm</p>
 </li>
 <li>
-<p><strong>Finale:</strong> 28 Oct (Sat), 10am-5pm</p>
+<p><strong>Finale:</strong> 28 Sep (Sat), 10am-5pm</p>
 </li>
 </ul>
 <p>Winning teams will then move on to the second phase, a <a href="accelerator-funding/" rel="noopener noreferrer nofollow" target="_blank">2-month accelerator</a> programme,
