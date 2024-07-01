@@ -58,4 +58,4 @@ the hackathon period.</p>
 by user testing at the finale.</p>
 <p>If you need inspiration, you can check out the <a href="/past-hackathons/" rel="noopener noreferrer nofollow" target="_blank">projects</a> from our past Build for Good runs!</p>
 
-<a href="[https://form.gov.sg/667d390282974a32f1aeff32](https://form.gov.sg/667d390282974a32f1aeff32)"> <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button"> Submit Problems </button> </a>
+<a href="[https://form.gov.sg/667d390282974a32f1aeff32](https://form.gov.sg/667d390282974a32f1aeff32)"> <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button"> Sign up now </button> </a>
