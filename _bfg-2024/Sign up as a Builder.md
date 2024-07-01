@@ -57,6 +57,7 @@ the hackathon period.</p>
 <p>You will be required to demonstrate a working prototype that's backed
 by user testing at the finale.</p>
 <p>If you need inspiration, you can check out the <a href="/past-hackathons/" rel="noopener noreferrer nofollow" target="_blank">projects</a> from our past Build for Good runs!</p>
+
 <p></p>
 <p>&lt;a href="<a href="https://form.gov.sg/667d390282974a32f1aeff32" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/667d390282974a32f1aeff32</a>"&gt;
 &lt;button class="bp-button is-secondary is-medium has-text-white is-uppercase
