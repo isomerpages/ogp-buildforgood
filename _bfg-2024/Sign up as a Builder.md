@@ -10,7 +10,7 @@ variant: markdown
 <p>Build solutions that tackle important problems in Singapore</p>
 </li>
 <li>
-<p>Deepen your understanding of different problem spaces through conversations
+<p>Deepen your understanding of social issues through conversations
 with public &amp; private sector experts</p>
 </li>
 <li>
