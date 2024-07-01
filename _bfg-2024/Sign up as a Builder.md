@@ -56,6 +56,6 @@ in Singapore. It should not be an existing solution which was built before
 the hackathon period.</p>
 <p>You will be required to demonstrate a working prototype that's backed
 by user testing at the finale.</p>
-<p>If you need inspiration, you can check out the <a href="/past-hackathons/" rel="noopener noreferrer nofollow" target="_blank">projects</a> from our past Build for Good runs!</p>
+<p>If you need inspiration, you can check out the <a href="/bfg-environment/" rel="noopener noreferrer nofollow" target="_blank">projects</a> from our past Build for Good runs!</p>
 
 <a href="[https://form.gov.sg/667d390282974a32f1aeff32](https://form.gov.sg/667d390282974a32f1aeff32)"> <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button"> Sign up now </button> </a>
