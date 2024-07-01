@@ -17,7 +17,7 @@ with public &amp; private sector experts</p>
 <p>Receive mentorship from experienced tech professionals</p>
 </li>
 <li>
-<p>Take part in workshops and consultations to refine your solutions
+<p>Refine your solutions through workshops and consultations
 	</p></li>
 <li>
 <p>Present your solutions to government leaders and industry partners</p>
