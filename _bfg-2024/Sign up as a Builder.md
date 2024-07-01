@@ -11,7 +11,7 @@ variant: markdown
 </li>
 <li>
 <p>Deepen your understanding of different problem spaces through conversations
-with public &amp; private experts</p>
+with public &amp; private sector experts</p>
 </li>
 <li>
 <p>Receive mentorship from experienced tech professionals</p>
