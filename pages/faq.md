@@ -38,7 +38,7 @@ At the sessions, you can expect workshops and talks led by OGP officers and indu
 
 ### What’s the commitment level like?
 
-During the hackathon, there will be compulsory in-person sessions (refer [here](/bfg2024/)here for dates and timing).
+During the hackathon, there will be compulsory in-person sessions (refer [here](/bfg2024/) for dates and timing).
 
 These in-person sessions are compulsory to attend and will ensure that you make steady progress towards the finale. Beyond the hackathon, winning teams will be required to take part in a 2-month accelerator programme, which will help them launch their solutions to real users.
 
