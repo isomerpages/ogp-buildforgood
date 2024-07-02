@@ -7,25 +7,22 @@ variant: markdown
 <h3><strong>Why join as a builder?</strong></h3>
 <ul>
 <li>
-<p>Build solutions that tackle important problems in Singapore</p>
+<p>Build solutions that can benefit the society at large</p>
 </li>
 <li>
-<p>Deepen your understanding of social issues through conversations
-with public &amp; private sector experts</p>
+<p> Deepen your understanding of social issues through conversations with experts from public, private and non-profit sectors</p>
 </li>
 <li>
-<p>Receive mentorship from experienced tech professionals</p>
+<p>Receive mentorship from tech professionals</p>
 </li>
 <li>
-<p>Refine your solutions through workshops and consultations
+<p>Refine your solutions through workshops, consultations and user testing
 	</p></li>
 <li>
-<p>Showcase your solutions to government leaders and industry partners</p>
+<p>Showcase your MVPs to government leaders and industry leaders</p>
 </li>
 </ul>
-<p>Winning teams will receive funding of up to S$20,000* and take part in
-a 8-week accelerator programme to further develop their solutions, and
-launch them to real users!
+<p> Winning teams will receive up to S$20,000 each to develop, pilot and launch their solutions during an 8-week accelerator programme!
 <br>
 <br>*Refer to <a href="/environment/accelerator-funding" rel="noopener noreferrer nofollow" target="_blank">accelerator &amp; funding</a> for
 more details</p>
@@ -62,3 +59,5 @@ by user testing at the finale.</p>
 <p>If you need inspiration, you can check out the <a href="/bfg-environment/" rel="noopener noreferrer nofollow" target="_blank">projects</a> from our past Build for Good runs!</p>
 
 <a href="[https://form.gov.sg/667d390282974a32f1aeff32](https://form.gov.sg/667d390282974a32f1aeff32)"> <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button"> Sign up now </button> </a>
+
+Applications will close on 14 July, Sunday, 2359hr.
