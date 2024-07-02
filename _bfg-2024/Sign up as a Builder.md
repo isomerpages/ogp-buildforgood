@@ -60,4 +60,4 @@ by user testing at the finale.</p>
 
 <a href="[https://form.gov.sg/667d390282974a32f1aeff32](https://form.gov.sg/667d390282974a32f1aeff32)"> <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button"> Sign up now </button> </a>
 
-Applications will close on 14 July, Sunday, 2359hr.
+*Applications will close on 14 July, Sunday, 2359hr.*
