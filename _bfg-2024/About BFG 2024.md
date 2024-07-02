@@ -81,7 +81,7 @@ patients with chronic conditions</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Digital adoption for the less digital savvy, accessibility and clarity
-of important govt information</p>
+of important government information</p>
 </td>
 </tr>
 <tr>
