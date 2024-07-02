@@ -54,7 +54,7 @@ his/her own field?</p>
 <p>Your solution should be a tech solution that addresses a public good problem
 in Singapore. It should not be an existing solution which was built before
 the hackathon period.</p>
-<p>You will be required to demonstrate a working prototype that's backed
+<p>You will be required to showcase a MVP that's backed
 by user testing at the finale.</p>
 <p>If you need inspiration, you can check out the <a href="/bfg-environment/" rel="noopener noreferrer nofollow" target="_blank">projects</a> from our past Build for Good runs!</p>
 
