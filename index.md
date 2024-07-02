@@ -15,7 +15,7 @@ sections:
       background: /images/Hero_Banner_Option_8.png
       key_highlights:
         - title: IN PARTNERSHIP WITH
-          description: SGPO
+          description: SG Gov Partnerships Office
           url: /bfg2024
         - title: Happening on
           description: 28 AUG — 28 SEP 2024
