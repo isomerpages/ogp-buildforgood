@@ -7,7 +7,7 @@ description: ""
 <h2><strong>Accelerator and Funding</strong></h2>
 <p>This year, winning teams of the Build for Good 2024 hackathon have the
 opportunity to be empowered further to advance their solutions for public
-good with a 2-month accelerator programme and funding of up to S$20,000.&nbsp;To
+good with a 8-week accelerator programme and funding of up to S$20,000.&nbsp;To
 unlock the opportunity, winning teams will be required to enter into an
 agreement that is prescribed by GovTech at the appropriate juncture.</p>
 <h3><strong>Accelerator</strong></h3>
