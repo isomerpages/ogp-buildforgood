@@ -41,7 +41,7 @@ to maximise the builders’ experience.</p>
 <p><strong>Finale:</strong> 28 Sep (Sat), 10am-5pm</p>
 </li>
 </ul>
-<p>Winning teams will then move on to the second phase, a <a href="accelerator-funding/" rel="noopener noreferrer nofollow" target="_blank">2-month accelerator</a> programme,
+<p>Winning teams will then move on to the second phase, a <a href="accelerator-funding/" rel="noopener noreferrer nofollow" target="_blank">8-week accelerator</a> programme,
 after the hackathon.</p>
 <h3><strong>Problem Areas</strong></h3>
 <table style="minWidth: 50px">
