@@ -16,7 +16,7 @@ We want to build a space where people feel empowered and inspired to make our wo
 
 Build for Good runs annual month-long citizen hackathons where teams will choose a public good problem to work on, identify solutions, build prototypes, and test them with users. They will be provided the necessary support through their journey such as domain expertise, mentorship, workshops and resources. At the finale, teams will present their solutions to government leaders and industry experts. Winning teams will receive funding and go through a 2-month accelerator to further develop their products, and potentially launch them with real users. 
 
-To date, we have run two Build for Good hackathons, engaging a total of 160 builders and collecting over 1100 problem statements from citizens. Check out the highlights of our past Build for Good hackathons [here](bfg-environment).
+To date, we have run two Build for Good hackathons - engaging a total of 160 builders who built 30 solutions for public good, and collecting over 1100 problem statements. Check out the highlights of our past Build for Good hackathons [here](bfg-environment).
 
 We just launched sign-ups for our third Build for Good - find out more and sign up [here](/builder)!
 
