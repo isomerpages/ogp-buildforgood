@@ -3,7 +3,7 @@ url: https://build.gov.sg
 favicon: /images/BFG_Symbols.png
 colors:
   primary-color: "#019bdc"
-  secondary-color: "#ec5983"
+  secondary-color: "#f59d34"
   media-colors:
     - title: media-color-one
       color: "#49759a"
