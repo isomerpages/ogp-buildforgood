@@ -12,7 +12,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero_Banner_Option_8.png
+      background: /images/Hero_Banner.png
       key_highlights:
         - title: IN PARTNERSHIP WITH
           description: SG Gov Partnerships Office
