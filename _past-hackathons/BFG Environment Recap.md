@@ -49,5 +49,10 @@ ornamental fish.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC_9910.jpg">
 </div>
-<h3></h3>
+<p></p>
+<p>We want to thank all the builders for dedicating their month to building
+a greener Singapore with us. We’re excited to see how each team will bring
+their solutions to the next level!</p>
+<p></p>
+<p>Check out all the projects <a href="/bloo/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>!</p>
 <p></p>
