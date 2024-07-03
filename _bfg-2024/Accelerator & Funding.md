@@ -9,7 +9,7 @@ description: ""
 opportunity to be empowered further to advance their solutions for public
 good with a 2-month accelerator programme and funding of up to S$20,000.&nbsp;To
 unlock the opportunity, winning teams will be required to enter into an
-agreement that are prescribed by GovTech at the appropriate juncture.</p>
+agreement that is prescribed by GovTech at the appropriate juncture.</p>
 <h3><strong>Accelerator</strong></h3>
 <p>The accelerator programme will focus on imparting skills, knowledge and
 networks essential for scaling solutions through sustained growth, and
