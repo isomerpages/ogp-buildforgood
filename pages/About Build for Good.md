@@ -18,7 +18,7 @@ Build for Good runs annual month-long citizen hackathons where teams will choose
 
 To date, we have run two Build for Good hackathons - engaging a total of 160 builders who built 30 impactful solutions for public good. Check out the highlights of our past Build for Good hackathons [here](bfg-environment).
 
-We just launched sign-ups for our third Build for Good - find out more and sign up [here](/builder)!
+We just launched sign-ups for our third Build for Good hackathon - find out more and sign up [here](/builder)!
 
 #### Build for Good community
 
