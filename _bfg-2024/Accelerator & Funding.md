@@ -18,7 +18,7 @@ launch them with real users.
 </p>
 <ul>
 <li>
-<p>Duration: 12 Oct 2024 - 30 Nov 2024 (Saturdays)</p>
+<p>Duration: 12 Oct 2024 - 30 Nov 2024 (Saturday sessions)</p>
 </li>
 <li>
 <p>Who can participate: It is currently only open to winning teams, who may
