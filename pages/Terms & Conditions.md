@@ -634,13 +634,13 @@ you, without your consent, and without further reference to you.</p>
 <p>&nbsp;</p>
 <p><strong>17.9 Notices to GovTech</strong>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <p>All notices, requests, demands and other communications required or permitted
 to be given or made under these Terms or in connection therewith shall
 be given or made in writing and delivered by email to GovTech at the e-mail
 address referred to below (or to such other email address as we may notify
 you from time to time):</p>
-<p>&nbsp;</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
