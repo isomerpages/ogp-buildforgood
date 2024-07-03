@@ -103,11 +103,7 @@ under that Act.</p>
 <p>&nbsp;</p>
 <p>2.1 This Competition is open to Singapore citizens, permanent residents
 and/or other individuals, living, working and/or studying in Singapore
-aged 18 years old and above at the time of registration.</p>
-<p>&nbsp;</p>
-<p>2.2 Employees and vendors of GovTech and the Ministry of Sustainability
-and the Environment are not eligible to participate in the Competition.</p>
-<p>&nbsp;</p>
+aged 18 years old and above at the time of registration.&nbsp;</p>
 <p><strong>3. Team Participation</strong>
 </p>
 <p>&nbsp;</p>
@@ -197,13 +193,13 @@ shall not contain any confidential or proprietary information of any party
 without that party’s prior permission and consent, and shall not infringe
 the IP rights or any other proprietary rights of any third party. You warrant
 and represent that you have the requisite right and license to submit these
-Submissions to GovTech for the purposes of the Competition to assess, review,
-evaluate, rank and score your Submissions and for marketing, promotion,
-publicity and/or other key events related to the Competition. Additionally,
-without prejudice to the foregoing, you warrant and represent that your
-Submissions shall not contain any malicious code, illegal, infringing or
-undesirable content or materials. GovTech shall be entitled to share these
-Submissions with other Public Agencies.</p>
+Submissions to GovTech for the purposes of the Competition, including for
+GovTech to assess, review, evaluate, rank and score your Submissions and
+for marketing, promotion, publicity and/or other key events related to
+the Competition. Additionally, without prejudice to the foregoing, you
+warrant and represent that your Submissions shall not contain any malicious
+code, illegal, infringing or undesirable content or materials. GovTech
+shall be entitled to share these Submissions with other Public Agencies.</p>
 <p>&nbsp;</p>
 <p>6.2 GovTech shall be entitled to retain possession of all Competition
 entries and any accompanying material submitted to it and GovTech has no
@@ -216,15 +212,20 @@ inappropriate, hateful, threatening, malicious, corrupt, defamatory, fraudulent
 or libellous expressions.</p>
 <p>&nbsp;</p>
 <p>6.4 You warrant and represent that your Submissions are your original
-works and that your Submissions (whether as a whole or part thereof) have
-not been entered into any other competition (including other hackathons)
-or considered for any grant or award. You are permitted to use open source
-materials (“<strong>Open Source Materials</strong>”), provided that you
-(a) comply fully with all applicable terms and conditions of the Open Source
-Materials, (b) have the requisite rights and permission to use the Open
-Source Materials in your Submissions and the Competition, and (c) clearly
-indicate the specific Open Source Materials used as part of your Submissions
-and what role or part such Open Source Materials plays in your Submissions.</p>
+works and that your Submissions (whether as a whole or part thereof):</p>
+<p>a)&nbsp;&nbsp;&nbsp; were not pre-existing;</p>
+<p>&nbsp;</p>
+<p>b)&nbsp;&nbsp;&nbsp; were created specifically for the Competition; and</p>
+<p>&nbsp;</p>
+<p>c)&nbsp;&nbsp;&nbsp;&nbsp; have not been entered into any other competition
+(including other hackathons) or considered for any grant or award.</p>
+<p>You are permitted to use open source materials (“<strong>Open Source Materials</strong>”),
+provided that you (a) comply fully with all applicable terms and conditions
+of the Open Source Materials, (b) have the requisite rights and permission
+to use the Open Source Materials in your Submissions and the Competition,
+and (c) clearly indicate the specific Open Source Materials used as part
+of your Submissions and what role or part such Open Source Materials plays
+in your Submissions.</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p>6.5&nbsp;<strong>Feedback</strong>
@@ -589,10 +590,11 @@ right or any subsequent breach by you.</p>
 <p>&nbsp;</p>
 <p>17.5&nbsp;<strong>Rights of Third Parties</strong>:</p>
 <p>&nbsp;</p>
-<p>17.5.1 A person who is not a party to these Terms and Conditions shall
-have no right under the Contracts (Rights of Third Parties) Act 2001 to
-enforce any provision of these Terms and Conditions. Public Agencies may
-enforce and rely on Clauses 10, 11, 12, 13, 15.2 and 17 in their own names.</p>
+<p>17.5.1 Save for the other Public Agencies, a person who is not a party
+to these Terms and Conditions shall have no right under the Contracts (Rights
+of Third Parties) Act 2001 to enforce any provision of these Terms and
+Conditions. Public Agencies may enforce and rely on Clauses 10, 11, 12,
+13, 15.2 and 17 in their own names.</p>
 <p>&nbsp;</p>
 <p>17.5.2 Notwithstanding Clause 17.5.1 and without prejudice to Clause 17.6,
 our right to rescind or vary these Terms and Conditions may be exercised
@@ -634,13 +636,13 @@ you, without your consent, and without further reference to you.</p>
 <p>&nbsp;</p>
 <p><strong>17.9 Notices to GovTech</strong>
 </p>
-<p></p>
+<p>&nbsp;</p>
 <p>All notices, requests, demands and other communications required or permitted
 to be given or made under these Terms or in connection therewith shall
 be given or made in writing and delivered by email to GovTech at the e-mail
 address referred to below (or to such other email address as we may notify
 you from time to time):</p>
-<p></p>
+<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
