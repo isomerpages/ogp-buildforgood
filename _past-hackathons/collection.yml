@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - BFG 2023 Recap.md
-      - BFG Environment Recap.md
+      - BFG Environment.md
