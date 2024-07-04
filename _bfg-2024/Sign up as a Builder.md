@@ -34,7 +34,7 @@ to form teams of 3 to 5.</p>
 <p>Here are the four core attributes which we use to assess applications:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Commitment: Is the applicant able to commit for all weekly sessions, and
+<p>Commitment: Is the applicant able to commit for all in-person weekly sessions, and
 willing to continue working on the solution beyond the hackathon?</p>
 </li>
 <li>
@@ -46,7 +46,7 @@ the problem space, and even proposed possible solutions to the problem?</p>
 applicant's commitment to public good?</p>
 </li>
 <li>
-<p>Abilities: What's the level of technical expertise the applicant has in
+<p>Ability: What's the level of technical expertise the applicant has in
 his/her own field?</p>
 </li>
 </ol>
