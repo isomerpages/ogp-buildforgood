@@ -14,7 +14,7 @@ sections:
   - hero:
       background: /images/Hero_Banner.png
       key_highlights:
-        - title: IN PARTNERSHIP WITH
+        - title: In Collaboration with
           description: SG Gov Partnerships Office
           url: /bfg2024
         - title: Happening on
