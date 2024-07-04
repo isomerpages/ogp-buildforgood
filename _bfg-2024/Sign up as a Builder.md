@@ -51,9 +51,7 @@ his/her own field?</p>
 </li>
 </ol>
 <h3><strong>What kind of solutions can you come up with?</strong></h3>
-<p>Your solution should be a tech solution that addresses a public good problem
-in Singapore. It should not be an existing solution which was built before
-the hackathon period.</p>
+<p>During the month-long hackathon, you will be expected to come up with a tech solution that addresses a public good problem in Singapore. You should not bring in existing solutions that were developed for past hackathons, competitions or existing businesses.</p>
 <p>You will be required to showcase a MVP that's backed
 by user testing at the finale.</p>
 <p>If you need inspiration, you can check out the <a href="/bfg-environment/" rel="noopener noreferrer nofollow" target="_blank">projects</a> from our past Build for Good runs!</p>
