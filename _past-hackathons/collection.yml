@@ -1,4 +1,5 @@
 collections:
   past-hackathons:
     output: true
-    order: []
+    order:
+      - BFG Environment Recap.md
