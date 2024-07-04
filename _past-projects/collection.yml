@@ -1,5 +1,5 @@
 collections:
-  past-project:
+  past-projects:
     output: true
     order:
       - BFG Environment Recap.md
