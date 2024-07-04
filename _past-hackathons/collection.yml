@@ -2,7 +2,7 @@ collections:
   past-hackathons:
     output: true
     order:
-      - BFG Environment Winners.md
+      - BFG Environment Recap.md
       - BFG Environment Projects/.keep
       - BFG Environment Projects/Bloo.md
       - BFG Environment Projects/CleanSlate.md
