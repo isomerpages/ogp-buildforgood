@@ -2,5 +2,5 @@ collections:
   past-hackathons:
     output: true
     order:
-      - BFG 2023.md
       - BFG Environment.md
+      - BFG 2023.md
