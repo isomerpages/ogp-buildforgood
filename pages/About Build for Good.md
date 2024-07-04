@@ -14,11 +14,11 @@ We want to build a space where people feel empowered and inspired to make our wo
 
 #### Build for Good hackathon and accelerator
 
-Build for Good runs annual month-long citizen hackathons where teams will choose a public good problem to work on, identify solutions, build prototypes, and test them with users. They will be provided the necessary support through their journey such as domain expertise, mentorship, workshops and resources. At the finale, teams will present their solutions to government leaders and industry experts. Winning teams will receive funding and go through a 2-month accelerator to further develop their products, and potentially launch them with real users. 
+Build for Good runs month-long citizen hackathons where teams will choose a public good problem to work on, identify solutions, build prototypes, and test them with users. They will be provided the necessary support through their journey such as domain expertise, mentorship, workshops and resources. At the finale, teams will present their solutions to government leaders and industry experts. Winning teams will receive funding and go through a 8-week accelerator to further develop their products, and potentially launch them with real users. 
 
-Last year, we had our inaugural run with more than 600 sign-ups, 700 problem statements collected, and [13 innovative products](/projects/basecamp) built for the public good. This year, we are back with another run — this time for [the environment](/builder)!
+To date, we have organised two Build for Good hackathons - engaging a total of 140 builders who built 32 impactful solutions for public good. Check out the highlights of our past Build for Good hackathons [here](/bfg-environment/).
 
-We will also be organising a general edition of Build for Good later this year, stay tuned for more details.
+We just launched sign-ups for our third Build for Good hackathon - find out more and sign up [here](/builder)!
 
 #### Build for Good community
 

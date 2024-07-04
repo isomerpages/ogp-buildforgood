@@ -1,0 +1,38 @@
+collections:
+  past-projects:
+    output: true
+    order:
+      - BFG Environment Projects/.keep
+      - BFG Environment Projects/Bloo.md
+      - BFG Environment Projects/CleanSlate.md
+      - BFG Environment Projects/CoastalClear.md
+      - BFG Environment Projects/ComPost.md
+      - BFG Environment Projects/Crumbs.md
+      - BFG Environment Projects/EcoCents.md
+      - BFG Environment Projects/EcoEncounters.md
+      - BFG Environment Projects/KiasuKitchen.md
+      - BFG Environment Projects/Koel.md
+      - BFG Environment Projects/LastCallSG.md
+      - BFG Environment Projects/Leftunder.md
+      - BFG Environment Projects/PackBack.md
+      - BFG Environment Projects/PangolinPaul.md
+      - BFG Environment Projects/RecycleMate.md
+      - BFG Environment Projects/RemediSG.md
+      - BFG Environment Projects/ReportLah!.md
+      - BFG Environment Projects/Streads.md
+      - BFG Environment Projects/SUSFeed.md
+      - BFG Environment Projects/SustAIn.md
+      - BFG 2023 Projects/.keep
+      - BFG 2023 Projects/Basecamp.md
+      - BFG 2023 Projects/ChatLah.md
+      - BFG 2023 Projects/Dovejob.md
+      - BFG 2023 Projects/interactsg.md
+      - BFG 2023 Projects/KnowLiao.md
+      - BFG 2023 Projects/MediClear.md
+      - BFG 2023 Projects/NoteFlow.md
+      - BFG 2023 Projects/SafeSpace.md
+      - BFG 2023 Projects/Scam or Not.md
+      - BFG 2023 Projects/ScanShield.md
+      - BFG 2023 Projects/SmartCart.md
+      - BFG 2023 Projects/SustainaBite.md
+      - BFG 2023 Projects/TrashAway.md

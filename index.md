@@ -6,39 +6,40 @@ description: Build for Good is a month-long hackathon for citizens to build
   participating teams will scope out problem statements, identify solutions,
   build prototypes, and test them with users. At the end of the month, they will
   present their solutions to government leaders, and selected teams will receive
-  funding to carry on their projects.
+  funding and go through an accelerator programme to launch their solutions.
 image: /images/Logo.png
 permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero_Banner_Option_5.png
+      background: /images/Hero_Banner.png
       key_highlights:
-        - title: in collaboration with
-          description: SG ECO FUND
-          url: /environment
+        - title: In Collaboration with
+          description: SG Gov Partnerships Office
+          url: /bfg2024
         - title: Happening on
-          description: 18 MAY — 22 JUN 2024
+          description: 28 AUG — 28 SEP 2024
           url: /builder
         - title: funding of up to
-          description: $100,000*
+          description: $20,000
           url: /environment/accelerator-funding/
   - infopic:
-      title: Building solutions for a greener Singapore
+      title: A month of building for public good
       id: infopic
-      description: Check out the projects that our 19 teams have been building!
-      button: all projects
-      url: /bloo
-      image: /images/Projects___6.png
-      alt: Build for Good projects
-  - infopic:
-      title: Build for Good 2024
-      description: Build solutions to tackle any pressing issue in Singapore.
-      button: join the waitlist
-      url: https://form.gov.sg/657045c5f80b4d001231a2c8
-      alt: Image alt text
+      description: Tackle any problem in Singapore that you feel strongly about.
+      button: Sign up as a builder
+      url: /builder/
       image: /images/BFG_images.gif
-      subtitle: coming soon in august...
+      alt: Build for Good projects
+      subtitle: we are back!
+  - infopic:
+      title: Build for Good Environment
+      description: 80 builders, 19 innovative solutions for a greener Singapore.
+      button: see recap
+      url: /bfg-environment/
+      alt: Image alt text
+      image: /images/BFG_GIF__1_.gif
+      subtitle: it's a wrap!
   - infobar:
       title: Build for Good 2023 Recap
       id: infobar
