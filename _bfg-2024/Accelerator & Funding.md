@@ -1,6 +1,6 @@
 ---
 title: Accelerator & Funding
-permalink: /environment/accelerator-funding/
+permalink: /accelerator-funding/
 variant: tiptap
 description: ""
 ---

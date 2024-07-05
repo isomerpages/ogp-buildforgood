@@ -29,19 +29,19 @@ to maximise the builders’ experience.</p>
 <p><strong>Weekly session 2:</strong> 7 Sep (Sat), 10am-3pm</p>
 </li>
 <li>
-<p><strong>Weekly session 3:</strong> 14 Sep (Sat), 10am-12.30pm</p>
+<p><strong>Weekly session 3:</strong> 14 Sep (Sat), 10am-4pm</p>
 </li>
 <li>
 <p><strong>User testing session:</strong> 18 Sep (Wed), 7-9.30pm</p>
 </li>
 <li>
-<p><strong>Weekly session 4:</strong> 21 Sep (Sat), 10am-12.30pm</p>
+<p><strong>Weekly session 4:</strong> 21 Sep (Sat), 10am-4pm</p>
 </li>
 <li>
 <p><strong>Finale:</strong> 28 Sep (Sat), 10am-5pm</p>
 </li>
 </ul>
-<p>Winning teams will then move on to the second phase, a <a href="accelerator-funding/" rel="noopener noreferrer nofollow" target="_blank">8-week accelerator</a> programme,
+<p>Winning teams will then move on to the second phase, a <a href="/accelerator-funding" rel="noopener noreferrer nofollow" target="_blank">8-week accelerator</a> programme,
 after the hackathon.</p>
 <h3><strong>Problem Areas</strong></h3>
 <table style="minWidth: 50px">

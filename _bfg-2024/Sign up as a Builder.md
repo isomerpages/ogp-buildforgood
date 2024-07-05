@@ -24,7 +24,7 @@ variant: markdown
 </ul>
 <p> Winning teams will receive up to S$20,000 each to develop, pilot and launch their solutions during an 8-week accelerator programme!
 <br>
-<br>*Refer to <a href="/environment/accelerator-funding" rel="noopener noreferrer nofollow" target="_blank">accelerator &amp; funding</a> for
+<br>*Refer to <a href="/accelerator-funding" rel="noopener noreferrer nofollow" target="_blank">accelerator &amp; funding</a> for
 more details</p>
 <h3><strong>Who can be a builder?</strong></h3>
 <p>Anyone aged 18 and above with a strong desire to make Singapore better
