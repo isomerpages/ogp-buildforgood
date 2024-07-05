@@ -56,7 +56,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d13ei45q9pgobs.amplifyapp.com
 prod: https://master.d13ei45q9pgobs.amplifyapp.com
-shareicon: /images/Logo.png
+shareicon: /images/BFG_Logo.png
 is_government: true
 facebook-pixel: "1511361893004192"
 google_analytics: ""
