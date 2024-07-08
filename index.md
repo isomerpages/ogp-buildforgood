@@ -22,7 +22,7 @@ sections:
           url: /builder
         - title: funding of up to
           description: $20,000
-          url: /environment/accelerator-funding/
+          url: /accelerator-funding/
   - infopic:
       title: A month of building for public good
       id: infopic
