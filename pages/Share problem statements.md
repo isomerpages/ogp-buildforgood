@@ -12,4 +12,6 @@ Whether you're an individual or representing a non-profit, tell us more about th
 ### Coming up with a good problem statement
 Not sure what to write? Check out [our guide](/problem-statement-guide/) on how to craft a good problem statement!
 
-***We have closed problem statement submissions as of 31 March 2024***
+<a href="https://form.gov.sg/667d390282974a32f1aeff32"> <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button"> Submit problems </button> </a>
+
+*Submission of problem statements close on 28 July 2024.*
