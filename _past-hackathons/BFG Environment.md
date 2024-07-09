@@ -4,6 +4,9 @@ permalink: /bfg-environment/
 variant: tiptap
 description: ""
 ---
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0M-2B3Wewhg?si=otjqglDrJiE9kKM9"></iframe>
+</div>
 <p>From May to June 2024, we ran our first thematic Build for Good hackathon,
 partnering with <a href="https://www.mse.gov.sg/sgecofund/" rel="noopener noreferrer nofollow" target="_blank">SG Eco Fund</a> to
 focus on environmental and sustainability issues. Over the month, our 80
