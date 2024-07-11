@@ -101,9 +101,13 @@ under that Act.</p>
 <p><strong>2. Eligibility</strong>
 </p>
 <p>&nbsp;</p>
-<p>2.1 This Competition is open to Singapore citizens, permanent residents
-and/or other individuals, living, working and/or studying in Singapore
-aged 18 years old and above at the time of registration.&nbsp;</p>
+<p>2.1 Subject to Clause 2.2, this Competition is open to Singapore citizens,
+permanent residents and/or other individuals, living, working and/or studying
+in Singapore aged 18 years old and above at the time of registration.</p>
+<p>&nbsp;</p>
+<p>2.2 Unless accepted by GovTech as Participants of the Competition via
+the PSD gig work scheme, employees and vendors of GovTech not eligible
+to participate in the Competition.</p>
 <p><strong>3. Team Participation</strong>
 </p>
 <p>&nbsp;</p>
@@ -150,6 +154,9 @@ any such changes or discontinuation.</p>
 <p>3.6 If your team wishes to withdraw from the Competition, please have
 each member of the team provide us with notice of such withdrawal in accordance
 with Clause 17.9.</p>
+<p></p>
+<p>3.7&nbsp;Each Team shall not consist solely of Participants who are employees
+of Public Agencies.</p>
 <p>&nbsp;</p>
 <p><strong>4. Compliance</strong>
 </p>
