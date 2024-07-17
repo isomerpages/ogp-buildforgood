@@ -2,6 +2,7 @@ collections:
   bfg-2024:
     output: true
     order:
+      - Share problem statements.md
       - About BFG 2024.md
       - Accelerator & Funding.md
       - Terms & Conditions.md
