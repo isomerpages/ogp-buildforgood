@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - About BFG 2024.md
-      - Sign up as a Builder.md
       - Accelerator & Funding.md
       - Terms & Conditions.md
