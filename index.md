@@ -24,11 +24,11 @@ sections:
           description: $20,000
           url: /accelerator-funding/
   - infopic:
-      title: A month of building for public good
+      title: How might we make Singapore better?
       id: infopic
-      description: Tackle any problem in Singapore that you feel strongly about.
-      button: Sign up as a builder
-      url: /builder/
+      description: Tell us more about the issues that you care about.
+      button: Submit problem statements
+      url: /submit-problems/
       image: /images/BFG_images.gif
       alt: Build for Good projects
       subtitle: we are back!

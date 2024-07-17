@@ -56,6 +56,4 @@ his/her own field?</p>
 by user testing at the finale.</p>
 <p>If you need inspiration, you can check out the <a href="https://www.build.gov.sg/bloo/" rel="noopener noreferrer nofollow" target="_blank">projects</a> from our past Build for Good runs!</p>
 
-<a href="https://form.gov.sg/667d390282974a32f1aeff32"> <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button"> Sign up now </button> </a>
-
-*Applications will close on 14 July, Sunday, 2359hr.*
+*Signups have closed.*
