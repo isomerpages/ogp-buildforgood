@@ -28,7 +28,7 @@ sections:
       id: infopic
       description: Tell us more about the issues that you care about.
       button: Submit problem statements
-      url: /builder/
+      url: /submit-problems/
       image: /images/BFG_images.gif
       alt: Build for Good projects
       subtitle: we are back!
