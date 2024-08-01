@@ -8,7 +8,8 @@ description: ""
 of Build for Good to address any public good problem! This time, we are
 working with the <a href="https://www.sgpo.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Government Partnerships Office</a> (SGPO)
 to foster co-creation and collaboration between government agencies and
-citizens.</p>
+citizens. We are also bringing in mentors from <a href="open.gov.sg" rel="noopener noreferrer nofollow" target="_blank">OGP</a> and <a href="http://Better.sg" rel="noopener noreferrer nofollow" target="_blank">Better.sg</a> to support the teams in their hackathon
+journey!</p>
 <p>Join us in building solutions to address issues that matter to you, be
 it healthcare, elderly support, education, and more.</p>
 <h3><strong>Programme Timeline</strong></h3>
