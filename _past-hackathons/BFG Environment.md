@@ -45,8 +45,8 @@ platform and collected 328kg of coastal trash.</p>
 users and translates them into actionable insights for key stakeholders
 (e.g. coffeeshop owners, cleaners, Public Hygiene Council) to act on.</p>
 <p>Through a pilot with Koufu at 2 coffeeshops and 1 food court, ReportLah!
-collected 216 pieces of feedback from toilet users in 9 days with key actionable
-insights.</p>
+collected 216 pieces of feedback from toilet users in 9 days, synthesising
+key actionable insights for stakeholders to review.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC_9898.jpg">
 </div>
