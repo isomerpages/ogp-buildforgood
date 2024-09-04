@@ -69,7 +69,7 @@ upcycled 20kg of food waste in total.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC_9910.jpg">
 </div>
 <p></p>
-<p>We want to thank all the builders for dedicating their month to building
+<p>We want to thank all the builders for dedicating their time to building
 a greener Singapore with us. We’re excited to see how each team will bring
 their solutions to the next level!</p>
 <p></p>
