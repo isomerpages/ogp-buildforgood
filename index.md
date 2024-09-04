@@ -44,7 +44,7 @@ sections:
       title: Impact of Build for Good
       id: infobar
       description: Witness the impact made by our 5 winning teams from Build for Good
-        Environment  🎊<iframe allowfullscreen="" allow="accelerometer;
+        Environment  🎊   <iframe allowfullscreen="" allow="accelerometer;
         autoplay; clipboard-write; encrypted-media; gyroscope;
         picture-in-picture; web-share" frameborder="0" title="YouTube video
         player"
