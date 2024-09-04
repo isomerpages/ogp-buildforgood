@@ -55,7 +55,7 @@ key actionable insights for stakeholders to review.</p>
 to other healthcare providers with less priviledged recipients.</p>
 <p>Through a pilot with Tan Tock Seng Hospital (donor) and HealthServe (recipient),
 RemediSG successfully facilitated 5 donor-recipient matches, distributing
-$500 worth of medication which would otherwise have gone to waste, and
+S$500 worth of medication which would otherwise have gone to waste, and
 abated 10kg worth of CO2 emissions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC_9894.jpg">
