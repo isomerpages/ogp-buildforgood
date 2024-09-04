@@ -71,7 +71,7 @@ upcycled 20kg of food waste in total.</p>
 <p></p>
 <p></p>
 <blockquote>
-<h4>Check out the accelerator journey of our 5 winning teams here: </h4>
+<p>Check out the accelerator journey of our 5 winning teams here:</p>
 </blockquote>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QL0xOLwpeP0?si=IifJJGIiWUeML83R"></iframe>
