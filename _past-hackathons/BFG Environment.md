@@ -69,6 +69,14 @@ upcycled 20kg of food waste in total.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC_9910.jpg">
 </div>
 <p></p>
+<p></p>
+<blockquote>
+<h4>Check out the accelerator journey of our 5 winning teams here: </h4>
+</blockquote>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QL0xOLwpeP0?si=IifJJGIiWUeML83R"></iframe>
+</div>
+<p></p>
 <p>We want to thank all the builders for dedicating their time to building
 a greener Singapore with us. We’re excited to see how each team will bring
 their solutions to the next level!</p>
