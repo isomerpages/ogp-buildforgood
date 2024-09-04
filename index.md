@@ -43,7 +43,7 @@ sections:
   - infobar:
       title: Build for Good Accelerator Recap
       id: infobar
-      description: Check out the impact made by our 5 winning teams at the Build for
+      description: Witness the impact made by our 5 winning teams at the Build for
         Good Environment Accelerator 🎊<iframe allowfullscreen=""
         allow="accelerometer; autoplay; clipboard-write; encrypted-media;
         gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube
