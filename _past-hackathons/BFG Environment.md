@@ -12,7 +12,7 @@ partnering with <a href="https://www.mse.gov.sg/sgecofund/" rel="noopener norefe
 focus on environmental and sustainability issues. Over the month, our 80
 builders came up with 19 innovative solutions, tackling diverse problems
 ranging from waste to public hygiene.</p>
-<p>Five teams were selected to receive up to $100,000 funding each and have
+<p>Five teams were selected to receive up to S$100,000 funding each and have
 completed an 8-week accelerator program to further develop and launch their
 products:</p>
 <h3>Koel</h3>
