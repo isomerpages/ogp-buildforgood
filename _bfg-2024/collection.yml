@@ -2,6 +2,7 @@ collections:
   bfg-2024:
     output: true
     order:
+      - Projects/CareerQuest.md
       - Projects/SilverPal.md
       - Projects/Foodchain.md
       - Projects/Ho Seh Bo?.md
