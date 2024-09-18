@@ -2,6 +2,7 @@ collections:
   bfg-2024:
     output: true
     order:
+      - Projects/Living@SG.md
       - Projects/Birdhouse.md
       - Projects/Ohm Sweet Ohm.md
       - Projects/EBI (Emotional Baggage Interface).md
