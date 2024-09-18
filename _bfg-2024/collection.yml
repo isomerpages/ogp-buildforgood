@@ -2,6 +2,7 @@ collections:
   bfg-2024:
     output: true
     order:
+      - Projects/Legs Day.md
       - Projects/BFGreen.md
       - Projects/Civic Coders.md
       - Projects/Build for Food.md
