@@ -2,6 +2,7 @@ collections:
   bfg-2024:
     output: true
     order:
+      - Projects/Ohm Sweet Ohm.md
       - Projects/EBI (Emotional Baggage Interface).md
       - Projects/.keep
       - About BFG 2024.md
