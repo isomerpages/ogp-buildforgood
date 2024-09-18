@@ -2,7 +2,7 @@ collections:
   bfg-2024:
     output: true
     order:
-      - Projects/🍤 EBI (Emotional Baggage Interface).md
+      - Projects/EBI (Emotional Baggage Interface).md
       - Projects/.keep
       - About BFG 2024.md
       - Accelerator & Funding.md
