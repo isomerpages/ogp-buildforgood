@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Projects
 ---
-<h4>Streamlining the Group Buying Process</h4>
+<h4>Environment &amp; Sustainability - Reducing Overconsumption through Group Buying</h4>
 <p></p>
 <p><strong>Team members:</strong>
 </p>
