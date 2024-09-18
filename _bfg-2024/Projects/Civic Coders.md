@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Projects
 ---
-<h4>Supporting Seniors - </h4>
+<h4>Supporting Seniors - Seniors Living Alone</h4>
 <p></p>
 <p>A team of idealists, building things for the public good.</p>
 <p><strong>Team members:</strong>
