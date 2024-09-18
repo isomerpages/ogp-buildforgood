@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Projects
 ---
-<h4>Supporting Seniors - Empowering AAC Volunteers</h4>
+<h4><strong>Supporting Seniors - Empowering AAC Volunteers</strong></h4>
 <p></p>
 <p>We are a trio from diverse backgrounds, united by a shared mission to
 create a kinder, more inclusive Singapore – especially for our seniors!
