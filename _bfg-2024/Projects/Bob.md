@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Projects
 ---
-<h4>Supporting Seniors - Socially isolated seniors</h4>
+<h4><strong>Supporting Seniors - Socially isolated seniors</strong></h4>
 <p></p>
 <p>Like Bob the Builder (of good)</p>
 <p><strong>Team members:</strong>
