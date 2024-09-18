@@ -2,6 +2,7 @@ collections:
   bfg-2024:
     output: true
     order:
+      - Projects/GroupUp.md
       - Projects/Pear.md
       - Projects/OTOT.md
       - Projects/BFGreen.md
