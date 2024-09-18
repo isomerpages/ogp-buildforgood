@@ -5,9 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Projects
 ---
-<h4>Health &amp; Wellbeing - Improving Dietary Habits</h4>
+<h4><strong>Health &amp; Wellbeing - Improving Dietary Habits</strong></h4>
 <p></p>
-<p>Team members:</p>
+<p><strong>Team members:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Tze Wei, Developer</p>
