@@ -2,28 +2,28 @@ collections:
   bfg-2024:
     output: true
     order:
-      - Projects/GroupUp (Sustainability).md
-      - Projects/Pear (Education).md
-      - Projects/OTOT (Healthcare).md
-      - Projects/BFGreen (Sustainability).md
-      - Projects/Civic Coders (Eldercare).md
-      - Projects/Build for Food (Sustainability).md
-      - Projects/Scamhunt (Scams).md
-      - Projects/HowAreYou (Eldercare).md
-      - Projects/CareerQuest (Education).md
-      - Projects/SilverPal (Eldercare).md
-      - Projects/Foodchain (Healthcare).md
-      - Projects/Ho Seh Bo? (Eldercare).md
-      - Projects/CareInfo (Healthcare).md
-      - Projects/have anot? (Accessibility).md
-      - Projects/CareCard (Eldercare).md
-      - Projects/Good Goods (Supporting Social Enterprises).md
-      - Projects/Bob (Eldercare).md
-      - Projects/Living@SG (Accessibility).md
-      - Projects/Birdhouse (Eldercare).md
-      - Projects/Ohm Sweet Ohm (Sustainability).md
-      - Projects/EBI, Emotional Baggage Interface (Mental Health).md
       - Projects/.keep
+      - Projects/Pear (Education).md
+      - Projects/CareerQuest (Education).md
+      - Projects/Ho Seh Bo? (Eldercare).md
+      - Projects/Civic Coders (Eldercare).md
+      - Projects/HowAreYou (Eldercare).md
+      - Projects/SilverPal (Eldercare).md
+      - Projects/Birdhouse (Eldercare).md
+      - Projects/Bob (Eldercare).md
+      - Projects/CareCard (Eldercare).md
+      - Projects/Foodchain (Healthcare).md
+      - Projects/OTOT (Healthcare).md
+      - Projects/CareInfo (Healthcare).md
+      - Projects/EBI, Emotional Baggage Interface (Mental Health).md
+      - Projects/BFGreen (Sustainability).md
+      - Projects/GroupUp (Sustainability).md
+      - Projects/Build for Food (Sustainability).md
+      - Projects/Ohm Sweet Ohm (Sustainability).md
+      - Projects/have anot? (Accessibility).md
+      - Projects/Living@SG (Accessibility).md
+      - Projects/Scamhunt (Scams).md
+      - Projects/Good Goods (Supporting Social Enterprises).md
       - About BFG 2024.md
       - Accelerator & Funding.md
       - Share problem statements.md
