@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Projects
 ---
-<h4>Supporting Seniors - Empowering Communities to Care for the Elderly</h4>
+<h4><strong>Supporting Seniors </strong>- Empowering Communities to Care for the Elderly</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AccessBridge__1_.jpg">
 </div>
