@@ -6,7 +6,9 @@ description: ""
 third_nav_title: Projects
 ---
 <h4>Supporting Seniors - Seniors Living Alone</h4>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Civic_Coders__1_.jpg">
+</div>
 <p>A team of idealists, building things for the public good.</p>
 <p><strong>Team members:</strong>
 </p>
