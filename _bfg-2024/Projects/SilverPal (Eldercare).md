@@ -6,6 +6,9 @@ description: ""
 third_nav_title: Projects
 ---
 <h4><strong>Supporting Seniors - Encouraging active participation among male seniors</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Silver_Surfers_Social_Club__2_.jpg">
+</div>
 <p>Helping the silver generation surf through the sea of uncertainties together.</p>
 <p><strong>Team members:</strong>
 </p>
