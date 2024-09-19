@@ -6,7 +6,9 @@ description: ""
 third_nav_title: Projects
 ---
 <h4>Health &amp; Wellbeing - Encouraging Fitness Among Working Adults</h4>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Legs_Day__1_.jpg">
+</div>
 <p>Our team, "Legs Day," recognizes that strong legs are the cornerstone
 of overall fitness and athletic performance. Just as how our Legs play
 a critical role in any comprehensive fitness regimen, our team aims to
