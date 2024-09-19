@@ -24,14 +24,14 @@ sections:
           description: $20,000
           url: /accelerator-funding/
   - infopic:
-      title: How might we make Singapore better?
+      title: Build for Good 2024 Hackathon
       id: infopic
-      description: Tell us more about the issues that you care about.
-      button: Submit problem statements
-      url: /submit-problems/
-      image: /images/BFG_images.gif
+      description: Check out the 21 innovative solutions that the teams are working on!
+      button: bfg 2024 projects
+      url: /pear/
+      image: /images/BFG24.gif
       alt: Build for Good projects
-      subtitle: we are back!
+      subtitle: "happening now:"
   - infopic:
       title: Build for Good Environment
       description: 80 builders, 19 innovative solutions for a greener Singapore.
