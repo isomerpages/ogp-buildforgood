@@ -6,7 +6,9 @@ description: ""
 third_nav_title: Projects
 ---
 <h4>Health &amp; Wellbeing - Empowering Caregivers</h4>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MedInfo__1_.jpg">
+</div>
 <p>Empowering Caregivers with Simple, Accessible Support.</p>
 <p><strong>Team members:</strong>
 </p>
