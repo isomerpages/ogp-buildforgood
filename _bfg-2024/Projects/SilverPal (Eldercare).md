@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Projects
 ---
-<h4><strong>Supporting Seniors - Encouraging active participation among male seniors</strong></h4>
+<h4><strong>Supporting Seniors </strong>- Encouraging active participation among male seniors</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Silver_Surfers_Social_Club__2_.jpg">
 </div>
