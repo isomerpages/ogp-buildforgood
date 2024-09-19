@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Projects
 ---
-<h4><strong>Supporting Seniors - Empowering AAC Volunteers</strong></h4>
+<h4><strong>Supporting Seniors </strong>- Empowering AAC Volunteers</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ho_Seh_Bo.jpg">
 </div>
