@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Projects
 ---
-<h4>Health &amp; Wellbeing - Empowering Caregivers</h4>
+<h4><strong>Health &amp; Wellbeing</strong> - Empowering Caregivers</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MedInfo__1_.jpg">
 </div>
