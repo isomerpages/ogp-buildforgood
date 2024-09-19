@@ -2,6 +2,7 @@ collections:
   bfg-2024:
     output: true
     order:
+      - About BFG 2024.md
       - Projects/.keep
       - Projects/Pear (Education).md
       - Projects/CareerQuest (Education).md
@@ -24,7 +25,6 @@ collections:
       - Projects/Living@SG (Accessibility).md
       - Projects/Scamhunt (Scams).md
       - Projects/Good Goods (Supporting Social Enterprises).md
-      - About BFG 2024.md
       - Accelerator & Funding.md
       - Share problem statements.md
       - Terms & Conditions.md
