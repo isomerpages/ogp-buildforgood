@@ -6,8 +6,11 @@ description: ""
 third_nav_title: Projects
 ---
 <h4>Environment &amp; Sustainability - Energy consumption</h4>
-<p></p>
-<p>Team members:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Current_Affairs__1_.jpg">
+</div>
+<p><strong>Team members:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Asher Laiu, Software Engineer</p>
