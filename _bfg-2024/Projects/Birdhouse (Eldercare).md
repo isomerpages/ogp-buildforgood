@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Projects
 ---
-<h4><strong>Supporting seniors - Unnoticed senior deaths</strong></h4>
+<h4><strong>Supporting seniors </strong>- Unnoticed senior deaths</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HeartHackers__1_.jpg">
 </div>
