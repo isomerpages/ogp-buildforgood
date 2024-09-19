@@ -6,8 +6,9 @@ description: ""
 third_nav_title: Projects
 ---
 <h4>Digital Inclusion &amp; Accessibility - Community Engagement</h4>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event_SG__1_.jpg">
+</div>
 <p>We are EventExplorer, a dynamic team with various expertise, united by
 our common goal of building for public good.</p>
 <p><strong>Team members:</strong>
