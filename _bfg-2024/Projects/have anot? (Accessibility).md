@@ -6,7 +6,9 @@ description: ""
 third_nav_title: Projects
 ---
 <h4>Digital Inclusion &amp; Accessibility - Discoverability of Government Products</h4>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JustWhack__1_.jpg">
+</div>
 <p>Hi there! 👋 We are Team JustWhack! As our name implies, we are a passionate
 group that loves to embrace challenges head-on and turn ambitious visions
 into reality. ✨</p>
