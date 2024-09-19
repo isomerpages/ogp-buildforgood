@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Projects
 ---
-<h4>Health &amp; Wellbeing - Encouraging Fitness Among Working Adults</h4>
+<h4><strong>Health &amp; Wellbeing</strong> - Encouraging Fitness Among Working Adults</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Legs_Day__1_.jpg">
 </div>
