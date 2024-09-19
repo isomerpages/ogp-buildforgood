@@ -61,7 +61,7 @@ training.
 <p>We plan to develop a no-frills fitness app solution targeted at busy working
 adults looking to start their muscle building journey. The app will feature
 a simplified interface that recommends short and attainable workout programs
-and challenges through <s>gamification</s>, educating users on various muscle-strengthening
+and challenges through educating users on various muscle-strengthening
 activities. Our solution aims to help users familiarize themselves with
 workouts, develop habits, and maintain consistency. All exercises will
 meet the Health Promotion Board (HPB) guidelines quota of 8-10 sets of
