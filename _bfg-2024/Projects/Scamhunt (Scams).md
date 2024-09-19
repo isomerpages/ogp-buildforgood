@@ -77,4 +77,3 @@ quickly.
 <br>Ignoring a scam only saves you, reporting it saves everyone.
 <br>
 <br>Happy Hunting!</p>
-<p></p>
