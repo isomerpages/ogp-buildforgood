@@ -6,7 +6,9 @@ description: ""
 third_nav_title: Projects
 ---
 <h4><strong>Supporting Seniors - Empowering AAC Volunteers</strong></h4>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ho_Seh_Bo.jpg">
+</div>
 <p>We are a trio from diverse backgrounds, united by a shared mission to
 create a kinder, more inclusive Singapore – especially for our seniors!
 Together, we are not just building a better tomorrow but also one that
