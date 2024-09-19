@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Projects
 ---
 <h4>Safety &amp; Security - Social media scams</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rojak__2_.jpg">
 </div>
