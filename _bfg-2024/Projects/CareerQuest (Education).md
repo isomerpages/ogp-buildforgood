@@ -7,6 +7,9 @@ third_nav_title: Projects
 ---
 <h4>Youth &amp; Education - Career Guidance for Junior College Students</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Solulu_Sistas__1_.jpg">
+</div>
 <p>Youth empowering YOU(th).</p>
 <p><strong>Team members:</strong>
 </p>
