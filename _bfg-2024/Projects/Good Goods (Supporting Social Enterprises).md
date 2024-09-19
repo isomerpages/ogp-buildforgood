@@ -6,7 +6,9 @@ description: ""
 third_nav_title: Projects
 ---
 <h4>Supporting Social Enterprises</h4>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital_Igniters__1_.jpg">
+</div>
 <p>We are a team of students from the National University of Singapore, driven
 by our passion for design and technology. We want to use our creativity
 and expertise to ignite meaningful change, making Singapore a more better
