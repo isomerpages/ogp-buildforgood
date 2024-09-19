@@ -41,13 +41,11 @@ sections:
       image: /images/BFG_GIF__1_.gif
       subtitle: it's a wrap!
   - infobar:
-      title: Impact of Build for Good
+      title: BFG Environment Highlights
       id: infobar
-      description: Witness the impact made by our 5 winning teams from Build for Good
-        Environment  🎊   <iframe allowfullscreen="" allow="accelerometer;
-        autoplay; clipboard-write; encrypted-media; gyroscope;
-        picture-in-picture; web-share" frameborder="0" title="YouTube video
-        player"
-        src="https://www.youtube.com/embed/QL0xOLwpeP0?si=IifJJGIiWUeML83R"
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/0M-2B3Wewhg?si=2ehqYgRrXRQGo-Ke"
         height="315" width="560"></iframe>
 ---

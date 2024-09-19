@@ -3,6 +3,28 @@ collections:
     output: true
     order:
       - About BFG 2024.md
+      - Projects/.keep
+      - Projects/Pear (Education).md
+      - Projects/CareerQuest (Education).md
+      - Projects/Ho Seh Bo? (Eldercare).md
+      - Projects/Civic Coders (Eldercare).md
+      - Projects/HowAreYou (Eldercare).md
+      - Projects/SilverPal (Eldercare).md
+      - Projects/Birdhouse (Eldercare).md
+      - Projects/Bob (Eldercare).md
+      - Projects/CareCard (Eldercare).md
+      - Projects/Foodchain (Healthcare).md
+      - Projects/OTOT (Healthcare).md
+      - Projects/CareInfo (Healthcare).md
+      - Projects/EBI, Emotional Baggage Interface (Mental Health).md
+      - Projects/BFGreen (Sustainability).md
+      - Projects/GroupUp (Sustainability).md
+      - Projects/Build for Food (Sustainability).md
+      - Projects/Ohm Sweet Ohm (Sustainability).md
+      - Projects/have anot? (Accessibility).md
+      - Projects/Living@SG (Accessibility).md
+      - Projects/Scamhunt (Scams).md
+      - Projects/Good Goods (Supporting Social Enterprises).md
       - Accelerator & Funding.md
       - Share problem statements.md
       - Terms & Conditions.md
