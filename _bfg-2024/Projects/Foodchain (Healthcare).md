@@ -6,7 +6,9 @@ description: ""
 third_nav_title: Projects
 ---
 <h4><strong>Health &amp; Wellbeing - Improving Dietary Habits</strong></h4>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Foodchain_1_.jpg">
+</div>
 <p><strong>Team members:</strong>
 </p>
 <ul data-tight="true" class="tight">
