@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Projects
 ---
-<h4><strong>Youth &amp; Education - Career Guidance for Junior College Students</strong></h4>
+<h4><strong>Youth &amp; Education </strong>- Career Guidance for Junior College Students</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Solulu_Sistas__1_.jpg">
