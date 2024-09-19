@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Projects
 ---
-<h4>Youth &amp; Education - Supporting academically weaker students</h4>
+<h4><strong>Youth &amp; Education - Supporting academically weaker students</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Seed__1_.jpg">
