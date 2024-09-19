@@ -7,6 +7,10 @@ third_nav_title: Projects
 ---
 <h4>Youth &amp; Education - Supporting academically weaker students</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Seed__1_.jpg">
+</div>
+<p></p>
 <p>Introducing Team Seed: We’re here to plant the seeds of change in education!
 🌱
 <br>
