@@ -6,7 +6,9 @@ description: ""
 third_nav_title: Projects
 ---
 <h4>Environment &amp; Sustainability - Encouraging eco-consumption</h4>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BFGreen__1_.jpg">
+</div>
 <p>Our Earth deserves to be an important user or stakeholder in every problem
 that we're trying to solve! But we know not everyone has her at their top
 of mind, and our team hopes to find simple, insightful, and fun ways to
