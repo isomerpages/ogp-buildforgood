@@ -6,7 +6,9 @@ description: ""
 third_nav_title: Projects
 ---
 <h4><strong>Supporting Seniors - Socially isolated seniors</strong></h4>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bob__2_.jpg">
+</div>
 <p>Like Bob the Builder (of good)</p>
 <p><strong>Team members:</strong>
 </p>
