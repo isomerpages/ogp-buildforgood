@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Projects
 ---
-<h4><strong>Health &amp; Wellbeing - Improving Dietary Habits</strong></h4>
+<h4><strong>Health &amp; Wellbeing </strong>- Improving Dietary Habits</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Foodchain_1_.jpg">
 </div>
