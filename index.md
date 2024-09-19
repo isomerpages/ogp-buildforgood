@@ -29,7 +29,7 @@ sections:
       description: Check out the 21 innovative solutions that the teams are working on!
       button: bfg 2024 projects
       url: /pear/
-      image: /images/BFG_images.gif
+      image: /images/BFG24.gif
       alt: Build for Good projects
       subtitle: "happening now:"
   - infopic:
