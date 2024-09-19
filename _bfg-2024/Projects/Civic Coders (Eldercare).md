@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Projects
 ---
-<h4><strong>Supporting Seniors </strong>b</h4>
+<h4><strong>Supporting Seniors </strong>- Seniors Living Alone</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Civic_Coders__1_.jpg">
 </div>
