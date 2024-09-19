@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Projects
 ---
-<h4>Digital Inclusion &amp; Accessibility - Community Engagement</h4>
+<h4><strong>Digital Inclusion &amp; Accessibility</strong> - Community Engagement</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event_SG__1_.jpg">
 </div>
