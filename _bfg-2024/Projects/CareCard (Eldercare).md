@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Projects
 ---
-<h4>Supporting Seniors - Connecting Eldercare Organisations</h4>
+<h4><strong>Supporting Seniors </strong>- Connecting Eldercare Organisations</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Good_People__1_.jpg">
 </div>
