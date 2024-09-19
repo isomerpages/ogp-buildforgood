@@ -6,7 +6,9 @@ description: ""
 third_nav_title: Projects
 ---
 <h4><strong>Supporting seniors - Unnoticed senior deaths</strong></h4>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HeartHackers__1_.jpg">
+</div>
 <p>Hello, World! We are HeartHackers ❤️, a team of 4 with diverse backgrounds
 but with a common passion - to help and provide support to the elderly
 and caregivers. We seek to address their evolving needs and aspirations,
