@@ -9,7 +9,9 @@ third_nav_title: Projects
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AreYouOk__1_.jpg">
 </div>
-<p>Team members:</p>
+<p>We put the good in tech for good.</p>
+<p><strong>Team members:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Jocelyn Teo, Experience Designer</p>
