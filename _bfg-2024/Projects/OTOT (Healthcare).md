@@ -35,57 +35,53 @@ fitness app.</p>
 </ul>
 <p></p>
 <h4>Problem Statement</h4>
-<p>Singapore's healthcare sector faces mounting pressure from rising demands
-and costs, coupled with limited resources. To address this challenge, the
-Ministry of Health (MOH) is spearheading the HealthierSG initiative, to
-move from a reactive model of treating illness to a proactive approach
-of promoting wellness and prevention. While the percentage of residents
-engaging in sufficient total physical activity has increased to 78.5% in
-2023, only one-thirds (33.7%) of Singapore residents reported having sufficient
-muscle-strengthening activities.
+<p>Singapore's healthcare sector faces increasing demands and costs with
+limited resources. To address this challenge, we aim to engage in preventive
+healthcare through promoting wellness. However, while Singapore’s physical
+activity engagement has increased to 78.5% in 2023, only one-third (33.7%)
+of the population performs sufficient muscle-strengthening activities (National
+Population Health Survey 2023).
 <br>
-<br>According the the updated HPB guidelines, individuals are encouraged to
-engage in muscle strengthening activity at moderate- or vigorous-intensity
-at least 2 days a week as these activities to improve their overall wellness
-in body composition, bone health, cognitive functions and mental health.
-<br>
-<br>We discovered that beginner working adults who wants to engage in muscle-strenghtening
-activities don't know the right exercises to do. This results in the individuals
-not starting/continuing strength training to achieve the best preventive
-health outcomes. There is a need to reduce this friction and provide them
-a seamless experience when navigating through their first foray into resistance
-training.
+<br>Of these users, we discovered that working adults who intend to start
+their muscle-strengthening training activities are hesitant to participate
+as they are overwhelmed by the exercises or programs and have general misconceptions
+towards the activities. As a result, this prevents individuals from participating
+in any muscle strengthening activities, reducing their overall quality
+of health.
 <br>
 </p>
 <h4>Proposed Solution</h4>
-<p>We plan to develop a no-frills fitness app solution targeted at busy working
-adults looking to start their muscle building journey. The app will feature
+<p>We plan to develop a simple fitness app solution targeted at working adults
+looking to start their muscle strengthening journey. The app will feature
 a simplified interface that recommends short and attainable workout programs
-and challenges through educating users on various muscle-strengthening
-activities. Our solution aims to help users familiarize themselves with
-workouts, develop habits, and maintain consistency. All exercises will
-meet the Health Promotion Board (HPB) guidelines quota of 8-10 sets of
-8-12 repetitions for muscle-strengthening activities.
+while also educating users on various misconceptions on muscle-strengthening
+activities. Our solution aims to help users feel more assured and to familiarize
+themselves with workouts, develop habits, and maintain consistency so they
+will be inclined to progress and participate in the activities. Recommended
+exercises and programs will utilise the Health Promotion Board (HPB) guidelines
+as guidance.
+<br><strong><br>Key features</strong>
 <br>
-<br><strong>Key Features</strong>
-<br>
-<br><strong>Short-Form Curated Workouts: </strong>
-<br>- Users will be greeted with a simplified user interface showcasing brief
-workouts.
+<br><strong>Short-Form Curated Workouts:</strong>
+<br>- Users will be greeted with a simplified user interface showcasing step-by-step
+guidance on resistance training
 <br>- These short-form exercises will educate users on proper techniques and
-program structure.
+program structure in a digestible format.
 <br>- This approach helps users familiarize themselves with activities, kickstarting
-their muscle strengthening journey.
+their muscle strengthening journey for a lifelong health.
 <br>
-<br><strong>Goal-Oriented Programs:</strong>
-<br>- The app will recommend workouts and programs based on user-selected
-goals (e.g., muscle building, maintenance).
-<br>- Setting goal-oriented programs allows users to express preferences.
-<br>- The app will develop personalized plans tailored to each user's objectives.
+<br><strong>Educational Library</strong>
+<br>- Users will be greeted with a simple design and interface to make it
+less intimidating for users to learn about resistance training
+<br>- The Library will contain short Guides, videos and articles to address
+common questions and misconceptions asked from starting resistance training.
+<br>- The library acts as a resource for users to reference while performing
+resistance training to check through their form and also understand how
+resistance training can benefit their health
 <br>
-<br><strong>Individual Challenges Leaderboard</strong>
-<br>- A leaderboard will allow users to track their progression and personal
-bests.
-<br>- This feature enables users to see clear improvements over time.
-<br>- The gamification aspect encourages consistency and motivation.</p>
-<p></p>
+<br><strong>Streaks and Leaderboards</strong>
+<br>- Completing a full path will fulfill a “streak”
+<br>- Streaks will allow users to earn certain in-app badges
+<br>- This can also be replaced with incentives if collaborations with HPB
+<br>
+</p>
