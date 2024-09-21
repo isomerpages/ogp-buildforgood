@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Projects
 ---
-<h4><strong>Environment &amp; Sustainability</strong> - Optimising Food Distribution Operations</h4>
+<h4><strong>Environment &amp; Sustainability</strong> - Optimising Surplus Food Re-distribution</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Build_for_Food__1_.jpg">
 </div>
