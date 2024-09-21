@@ -60,28 +60,30 @@ themselves with workouts, develop habits, and maintain consistency so they
 will be inclined to progress and participate in the activities. Recommended
 exercises and programs will utilise the Health Promotion Board (HPB) guidelines
 as guidance.
-<br><strong><br>Key features</strong>
+<br><strong><br><u>Key features</u></strong>
 <br>
-<br><strong>Short-Form Curated Workouts:</strong>
-<br>- Users will be greeted with a simplified user interface showcasing step-by-step
-guidance on resistance training
-<br>- These short-form exercises will educate users on proper techniques and
-program structure in a digestible format.
-<br>- This approach helps users familiarize themselves with activities, kickstarting
-their muscle strengthening journey for a lifelong health.
+<br><strong>Curated Workouts Programs:</strong>
+<br>- Users will be provided a personalised workout program based on their
+inputs with step-by-step guidance on resistance training.
+<br>- These programs are designed to be beginner-friendly and will educate
+users on proper techniques in a digestible format.
+<br>- This approach helps users to gain confidence and kickstarting their
+muscle strengthening journey for a lifelong health.
 <br>
-<br><strong>Educational Library</strong>
-<br>- Users will be greeted with a simple design and interface to make it
-less intimidating for users to learn about resistance training
-<br>- The Library will contain short Guides, videos and articles to address
-common questions and misconceptions asked from starting resistance training.
-<br>- The library acts as a resource for users to reference while performing
-resistance training to check through their form and also understand how
-resistance training can benefit their health
+<br><strong>Educational Digital Library</strong>
+<br>- Users will be greeted with a digital library that neatly categorises
+videos and articles on resistance training
+<br>- The library will contain short how-to guides, videos and articles to
+address common questions and misconceptions asked from starting resistance
+training.
+<br>- The library acts as a resource for users to reference to understand
+how resistance training can benefit their health and potentially receive
+updated from HPB
 <br>
-<br><strong>Streaks and Leaderboards</strong>
-<br>- Completing a full path will fulfill a “streak”
-<br>- Streaks will allow users to earn certain in-app badges
-<br>- This can also be replaced with incentives if collaborations with HPB
+<br><strong>Motivational Reminders</strong>
+<br>- Thoroughout key points in the app, we will place encouragements and
+motivational reminders to engage users and drive repeat engagements
+<br>- Some features include a fitness weekly log, streaks and post-program
+reviews
 <br>
 </p>
