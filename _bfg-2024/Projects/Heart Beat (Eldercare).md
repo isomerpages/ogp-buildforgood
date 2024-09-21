@@ -1,6 +1,6 @@
 ---
-title: Civic Coders (Eldercare)
-permalink: /civic-coders/
+title: Heart Beat (Eldercare)
+permalink: /heart-beat/
 variant: tiptap
 description: ""
 third_nav_title: Projects

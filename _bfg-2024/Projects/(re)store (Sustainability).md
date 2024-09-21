@@ -1,6 +1,6 @@
 ---
-title: BFGreen (Sustainability)
-permalink: /bfgreen/
+title: (re)store (Sustainability)
+permalink: /restore/
 variant: tiptap
 description: ""
 third_nav_title: Projects

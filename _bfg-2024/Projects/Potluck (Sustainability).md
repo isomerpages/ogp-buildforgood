@@ -1,14 +1,20 @@
 ---
-title: Build for Food (Sustainability)
-permalink: /build-for-food/
+title: Potluck (Sustainability)
+permalink: /potluck/
 variant: tiptap
 description: ""
 third_nav_title: Projects
 ---
-<h4><strong>Environment &amp; Sustainability</strong> - Optimising Food Distribution Operations</h4>
+<h4><strong>Environment &amp; Sustainability</strong> - Optimising Surplus Food Re-distribution</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Build_for_Food__1_.jpg">
 </div>
+<p>We Build For Food! We love to eat and hate to see good food feed the landfill
+instead of our tummies.
+<br>
+<br>Using our flair for data crunching, nifty scripting, and mindful bots,
+we aim to share surplus food with as many foodies as possible, one byte
+at a time!</p>
 <p><strong>Team members:</strong>
 </p>
 <ul data-tight="true" class="tight">

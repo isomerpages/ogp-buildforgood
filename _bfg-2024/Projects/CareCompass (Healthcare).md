@@ -1,6 +1,6 @@
 ---
-title: CareInfo (Healthcare)
-permalink: /careinfo/
+title: CareCompass (Healthcare)
+permalink: /carecompass/
 variant: tiptap
 description: ""
 third_nav_title: Projects

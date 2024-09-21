@@ -9,7 +9,9 @@ third_nav_title: Projects
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AreYouOk__1_.jpg">
 </div>
-<p>Team members:</p>
+<p>We put the good in tech for good.</p>
+<p><strong>Team members:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Jocelyn Teo, Experience Designer</p>
@@ -33,23 +35,25 @@ support (85.1% were between ages 22 and older), 79.6% of the respondents
 were concerned with finding a suitable therapist and 44.9% worry about
 establishing rapport with their therapists.
 <br>
-<br>For the respondents who switch therapists, they switch anywhere between
-2 to 7 therapists. In fact, for those who switched, 89% were concerned
-about repeating their stories and establishing rapport with their new therapists.
-<br>
 <br>The concern is warranted, because mental healthcare seekers experience
 demoralizing frustration when there is information discontuinity. This
 information discontinuity can happen:
 <br>
-<br>1. between the previous and next session with the same therapist,
-<br>2. between old and new therapists within the same organization,
-<br>3. between the therapist in previous organization and the next therapist
-in the next organization when they are referred from one place to another.
+<br>1. when there are long waits between the previous and next session with
+their therapist,
+<br>2. not being able to find a topic to talk about
 <br>
 <br>This results in a poor experience and potentially loss of faith in the
 system that leads to increased dropout rates because they feel unsupported
-by the system.</p>
-<p></p>
+by the system.
+<br>
+<br>In additional, therapists having no way of tracking the wellness of the
+mental healthcare seeker between sessions apart from journaling and other
+apps that help provide proxy data to wellness, e.g., sleep cycles and steps
+walked. On the other hand, helpful techniques such as journalling can be
+a challenge because it is a hassle to type/write continuously.
+<br>
+</p>
 <h4>Proposed Solution</h4>
 <p>EBI is a companion application for mental health support seekers to:
 <br>

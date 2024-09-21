@@ -9,6 +9,7 @@ third_nav_title: Projects
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Current_Affairs__1_.jpg">
 </div>
+<p>Smarter Data, Greener Homes.</p>
 <p><strong>Team members:</strong>
 </p>
 <ul data-tight="true" class="tight">

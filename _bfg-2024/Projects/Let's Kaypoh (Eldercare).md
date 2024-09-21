@@ -1,6 +1,6 @@
 ---
-title: Bob (Eldercare)
-permalink: /bob/
+title: Let's Kaypoh (Eldercare)
+permalink: /lets-kaypoh/
 variant: tiptap
 description: ""
 third_nav_title: Projects
@@ -9,7 +9,7 @@ third_nav_title: Projects
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bob__2_.jpg">
 </div>
-<p>Like Bob the Builder (of good)</p>
+<p>Like Bob the Builder (of good).</p>
 <p><strong>Team members:</strong>
 </p>
 <ul data-tight="true" class="tight">
