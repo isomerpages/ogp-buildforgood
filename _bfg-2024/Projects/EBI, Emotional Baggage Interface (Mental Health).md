@@ -51,8 +51,9 @@ by the system.
 mental healthcare seeker between sessions apart from journaling and other
 apps that help provide proxy data to wellness, e.g., sleep cycles and steps
 walked. On the other hand, helpful techniques such as journalling can be
-a challenge because it is a hassle to type/write continuously.</p>
-<p></p>
+a challenge because it is a hassle to type/write continuously.
+<br>
+</p>
 <h4>Proposed Solution</h4>
 <p>EBI is a companion application for mental health support seekers to:
 <br>
