@@ -25,13 +25,10 @@ third_nav_title: Projects
 <li>
 <p>Chan Jia Yi, AI Researcher/Engineer</p>
 </li>
-<li>
-<p>Javerri Kho, Industrial engineer</p>
-</li>
 </ul>
 <p></p>
 <h4>Problem Statement</h4>
-<p>Male retirees aged 50-60 are increasingly living alone and need to begin
+<p>Male retirees aged 55-65 are increasingly living alone and need to begin
 active ageing activities early to prevent social isolation and its associated
 health risks. This group is more vulnerable to isolation due to a lack
 of existing social networks and community engagement opportunities as they
@@ -45,7 +42,7 @@ by organisations, such as AAC and PA that align with their interests —
 such as gardening, cooking, and technology workshops — we create opportunities
 for social engagement and purposeful involvement.
 <br>
-<br>How It Works:
+<br><strong>How It Works: </strong>
 <br>1. Personalised Event Discovery: A user-friendly platform that recommends
 local events based on each senior's interests, making it easy to find and
 join activities they enjoy.
@@ -56,8 +53,7 @@ alone.
 events and welcome new participants, creating an inclusive, supportive
 environment.
 <br>
-<br>
-<br>Key Benefits:
+<br><strong>Key Benefits: </strong>
 <br>Meaningful Engagement: Provides seniors with purposeful activities that
 encourage social interaction and skill development.
 <br>Offline first, digital second: Starting point to foster in-person engagement
