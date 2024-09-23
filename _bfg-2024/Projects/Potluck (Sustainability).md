@@ -25,7 +25,7 @@ at a time!</p>
 <p>Trevor Ong Yee Siang, Software Engineer</p>
 </li>
 <li>
-<p>Don Chia Qi En, Design</p>
+<p>Don Chia Qi En, Software Engineer</p>
 </li>
 <li>
 <p>Tan Wei Shaun, Software Engineer</p>
