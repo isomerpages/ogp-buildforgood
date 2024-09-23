@@ -29,23 +29,19 @@ into reality. ✨</p>
 </li>
 </ul>
 <h4>Problem Statement</h4>
-<p>Government agencies often incur substantial costs when contracting vendors
-to build large-scale technology systems. While this used to be inevitable,
-the landscape has changed. Today, a wide range of competitive products
-exists for nearly every use case, many of which are developed in-house
-by agencies like GovTech or OGP. This presents an opportunity to reduce
-costs by reusing existing solutions instead of reinventing the wheel. However,
-many government officers responsible for system proposals are unfamiliar
-with the range of available tools or lack the ability to think of a system
-as combinations of modular components. As a result, they rely heavily on
-vendor quotes, missing opportunities to fact-check costs or reuse existing
-systems. Addressing this knowledge gap can significantly reduce both the
-number of contracted components and overall expenses, while swinging the
-bargaining power back in favour of the government agencies.</p>
+<p>Public officers seeking to digitize their processes often struggle with
+defining their problems and lack awareness of existing government solutions
+and how they can be combined to address specific challenges. This disconnect
+leads to inefficient implementations that fail to tackle underlying issues,
+resulting in lost opportunities for improved service delivery. Not to mention,
+higher costs and longer development time. By fostering better problem scoping
+and awareness of available resources, government agencies can achieve more
+effective and sustainable digital transformations.</p>
 <h4>Proposed Solution</h4>
-<p>have anot? is an AI-powered chatbot that allows users to describe their
-problem and discover government products that they can use to build a solution.
-By understanding the user's pain points and solution requirements, the
-chatbot recommends a suite of products that can solve the problem, along
-with the solution architecture and estimated cost.</p>
+<p>have anot? is an AI-powered chatbot that assists users in effectively
+scoping their problems, suggesting features, and recommending existing
+products for digital solutions. By streamlining the entire process, have
+anot? enables public officers to minimize the need for completely bespoke
+systems. This approach helps them save both costs and time, ultimately
+enhancing their ability to serve citizens more effectively and efficiently.</p>
 <p></p>
