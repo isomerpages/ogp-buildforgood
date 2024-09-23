@@ -40,12 +40,11 @@ costs.</p>
 <br>Singapore’s reliance on imported fossil fuels and water, along with energy-intensive
 processes like desalination and water reclamation, makes the nation vulnerable
 to global market fluctuations and environmental challenges. As fossil fuels
-deplete and water treatment demands rise, sustainable management becomes
-more urgent, especially with increasing urban needs and climate change.  Despite
-national conservation efforts and rising citizen concern about the cost
-of living and household expenses, many Singaporeans remain disengaged from
-energy and water-saving practices, leading to higher environmental impact
-and household costs.
+deplete, sustainable management becomes more urgent, especially with increasing
+urban needs and climate change.  Despite national conservation efforts
+and rising citizen concern about the cost of living and household expenses,
+many Singaporeans remain disengaged from energy-saving practices, leading
+to higher environmental impact and household costs.
 <br>
 <br><strong>Proposed Solution</strong>
 <br>We are developing a mobile-optimized web app that serves as a cost estimation
@@ -55,6 +54,6 @@ and corresponding costs.
 <br>
 <br><strong>Benefits</strong>
 <br>- Provides users with personalized cost estimates.
-<br>- Encourages informed decision-making regarding appliance usage.
+<br>- Encourages informed decision-making regarding appliance usage and provides
+energy-saving tips.
 <br>- Supports national sustainability goals by promoting energy efficiency.</p>
-<p></p>
