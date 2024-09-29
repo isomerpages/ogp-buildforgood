@@ -49,5 +49,5 @@ sections:
         picture-in-picture; web-share" frameborder="0" title="YouTube video
         player"
         src="https://www.youtube.com/embed/W1G3jwhDnUY?si=dtOdqjMUMfha-G3v"
-        height="315" width="560"></iframe>
+        height="315" width="100%"></iframe>
 ---
