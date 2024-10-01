@@ -24,7 +24,7 @@ sections:
           description: $20,000
           url: /accelerator-funding/
   - infopic:
-      title: Build for Good 2024 Hackathon
+      title: Build for Good 2024
       id: infopic
       description: Check out the 21 innovative solutions that the teams have built
         over the month!
@@ -32,7 +32,7 @@ sections:
       url: /pear/
       image: /images/BFG24.gif
       alt: Build for Good projects
-      subtitle: 28 Aug - 28 Sep
+      subtitle: Aug - Sep 2024
   - infopic:
       title: Build for Good Environment
       description: 80 builders, 19 innovative solutions for a greener Singapore.
@@ -40,7 +40,7 @@ sections:
       url: /bfg-environment/
       alt: Image alt text
       image: /images/BFG_GIF__1_.gif
-      subtitle: it's a wrap!
+      subtitle: May - Jun 2024
   - infobar:
       title: Build for Good Hackathon 2024
       id: infobar
