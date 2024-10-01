@@ -26,12 +26,13 @@ sections:
   - infopic:
       title: Build for Good 2024 Hackathon
       id: infopic
-      description: Check out the 21 innovative solutions that the teams are working on!
+      description: Check out the 21 innovative solutions that the teams have built
+        over the month!
       button: bfg 2024 projects
       url: /pear/
       image: /images/BFG24.gif
       alt: Build for Good projects
-      subtitle: "happening now:"
+      subtitle: 28 Aug - 28 Sep Sep
   - infopic:
       title: Build for Good Environment
       description: 80 builders, 19 innovative solutions for a greener Singapore.
