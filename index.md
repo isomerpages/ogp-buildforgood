@@ -32,7 +32,7 @@ sections:
       url: /pear/
       image: /images/BFG24.gif
       alt: Build for Good projects
-      subtitle: 28 Aug - 28 Sep Sep
+      subtitle: 28 Aug - 28 Sep
   - infopic:
       title: Build for Good Environment
       description: 80 builders, 19 innovative solutions for a greener Singapore.
@@ -42,7 +42,7 @@ sections:
       image: /images/BFG_GIF__1_.gif
       subtitle: it's a wrap!
   - infobar:
-      title: Impact of Build for Good
+      title: Build for Good Hackathon 2024
       id: infobar
       description: Witness the impact made by our 5 winning teams from Build for Good
         Environment 🎊  <iframe allowfullscreen="" allow="accelerometer;
