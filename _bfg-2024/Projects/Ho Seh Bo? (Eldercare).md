@@ -64,3 +64,7 @@ and tailored support they deserve in this digital age.
 <br>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ho_Seh_Bo.png">
+</div>
+<p></p>
