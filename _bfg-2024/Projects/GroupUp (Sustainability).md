@@ -60,3 +60,8 @@ overload.
 logistics, the platform will help users save money while avoiding overconsumption.
 It fosters more responsible buying habits and promotes cooperative consumption,
 benefiting both individuals and the broader community.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GroupUP.png">
+</div>
+<p></p>
