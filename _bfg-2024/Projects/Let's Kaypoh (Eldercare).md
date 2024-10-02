@@ -59,4 +59,7 @@ with the elderly they support.
 <br>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BFG_Hackathon_Poster_Final___Let_sKayPoh.png">
+</div>
 <p></p>
