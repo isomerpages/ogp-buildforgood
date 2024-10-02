@@ -92,3 +92,7 @@ and caregivers
 <br>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/A2_Poster_final_CareInfo_.png">
+</div>
+<p></p>
