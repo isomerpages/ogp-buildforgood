@@ -60,3 +60,7 @@ beneficiaries
 <br>- Allow organisations to seek help from other volunteers to help with
 urgent tasks</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Care_Card.png">
+</div>
+<p></p>
