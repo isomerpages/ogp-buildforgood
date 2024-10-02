@@ -107,4 +107,7 @@ approach to supporting high-risk elderly individuals.
 <br>
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HeartBeat.png">
+</div>
 <p></p>
