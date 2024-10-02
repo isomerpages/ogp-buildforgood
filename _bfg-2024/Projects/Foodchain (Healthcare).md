@@ -55,6 +55,11 @@ quality of care and nutritional outcomes for elderly patients.
 <br>
 <br>
 <br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Foodchain.png">
+</div>
+<p>
 <br>
 </p>
 <p></p>
