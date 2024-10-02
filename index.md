@@ -28,7 +28,7 @@ sections:
       id: infopic
       description: We just concluded our third & largest BFG! Check out the winning
         teams & all the 21 innovative solutions.
-      button: bfg 2024 Recap
+      button: See Recap
       url: /bfg-2024
       image: /images/BFG24.gif
       alt: Build for Good projects
