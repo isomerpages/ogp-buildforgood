@@ -76,3 +76,8 @@ to find social enterprises that match their specific needs.
 <br><strong>3. Crowdsourcing Feature</strong>
 <br>An avenue for buyers to suggest social enterprises not yet listed on the
 app.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GoodGoods.png">
+</div>
+<p></p>
