@@ -75,3 +75,7 @@ pattern recognition and analysis
 <br>- Timely access to care
 <br>- Reduced risk of undetected emergencies</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HeartHackers___Birdhouse_A2_Infographics__without_bleed_.png">
+</div>
+<p></p>
