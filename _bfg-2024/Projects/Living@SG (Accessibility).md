@@ -64,3 +64,7 @@ information and reminders on-the-go for neighbourhoods of interest, thereby
 resolving inconveniences caused by missing important information, and hence
 improving their living experience in Singapore.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LivingSG.png">
+</div>
+<p></p>

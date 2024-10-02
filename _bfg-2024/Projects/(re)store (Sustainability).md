@@ -77,3 +77,7 @@ in their business! For a start, our website links out to the platform/merchant
 where users can buy the eco-product (while we monitor if there’s strong
 reason/demand to let users to buy via our site).</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/re_store.png">
+</div>
+<p></p>

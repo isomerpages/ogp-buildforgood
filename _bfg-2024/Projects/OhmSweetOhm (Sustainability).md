@@ -57,3 +57,8 @@ and corresponding costs.
 <br>- Encourages informed decision-making regarding appliance usage and provides
 energy-saving tips.
 <br>- Supports national sustainability goals by promoting energy efficiency.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Current_Affairs___Ohm_Sweet_Ohm_Final.png">
+</div>
+<p></p>

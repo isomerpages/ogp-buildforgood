@@ -58,3 +58,7 @@ careers. Improving existing ECG services by introducing additional connections
 with industry professionals will also complement the role of ECG counsellors
 in school in providing authentic experiences.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CareerQuest.png">
+</div>
+<p></p>

@@ -24,14 +24,15 @@ sections:
           description: $20,000
           url: /accelerator-funding/
   - infopic:
-      title: Build for Good 2024 Hackathon
+      title: Build for Good 2024
       id: infopic
-      description: Check out the 21 innovative solutions that the teams are working on!
-      button: bfg 2024 projects
-      url: /pear/
+      description: We just concluded our third & largest BFG! Check out the winning
+        teams & all the 21 innovative solutions.
+      button: See Recap
+      url: /bfg-2024
       image: /images/BFG24.gif
       alt: Build for Good projects
-      subtitle: "happening now:"
+      subtitle: Aug - Sep 2024
   - infopic:
       title: Build for Good Environment
       description: 80 builders, 19 innovative solutions for a greener Singapore.
@@ -39,15 +40,12 @@ sections:
       url: /bfg-environment/
       alt: Image alt text
       image: /images/BFG_GIF__1_.gif
-      subtitle: it's a wrap!
+      subtitle: May - Jun 2024
   - infobar:
-      title: Impact of Build for Good
       id: infobar
-      description: Witness the impact made by our 5 winning teams from Build for Good
-        Environment 🎊  <iframe allowfullscreen="" allow="accelerometer;
-        autoplay; clipboard-write; encrypted-media; gyroscope;
-        picture-in-picture; web-share" frameborder="0" title="YouTube video
-        player"
-        src="https://www.youtube.com/embed/W1G3jwhDnUY?si=dtOdqjMUMfha-G3v"
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/WFIf2AhWJ9M?si=0jiFMwlCiGy-TMC_"
         height="315" width="100%"></iframe>
 ---
