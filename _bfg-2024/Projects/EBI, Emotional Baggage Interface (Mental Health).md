@@ -67,6 +67,8 @@ and allows them to share their stories more quickly with therapists.
 <br>
 <br>For therapists, they can prepare themselves to help mental health support
 seekers better and spend more time on building rapport with their patients.</p>
-<p></p>
 <h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AreYouOkposterfinal.png">
+</div>
 <p></p>
