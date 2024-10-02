@@ -26,10 +26,10 @@ sections:
   - infopic:
       title: Build for Good 2024
       id: infopic
-      description: Check out the 21 innovative solutions that the teams have built
-        over the month!
-      button: bfg 2024 projects
-      url: /pear/
+      description: We just concluded our third & largest BFG! Check out the winning
+        teams & all the 21 innovative solutions.
+      button: bfg 2024 Recap
+      url: /bfg-2024
       image: /images/BFG24.gif
       alt: Build for Good projects
       subtitle: Aug - Sep 2024
@@ -42,12 +42,10 @@ sections:
       image: /images/BFG_GIF__1_.gif
       subtitle: May - Jun 2024
   - infobar:
-      title: Build for Good Hackathon 2024
       id: infobar
-      description: 'Catch a glimpse of the month-long journey:  <iframe
-        allowfullscreen="" allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture; web-share"
-        frameborder="0" title="YouTube video player"
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/WFIf2AhWJ9M?si=0jiFMwlCiGy-TMC_"
-        height="315" width="100%"></iframe>'
+        height="315" width="100%"></iframe>
 ---
