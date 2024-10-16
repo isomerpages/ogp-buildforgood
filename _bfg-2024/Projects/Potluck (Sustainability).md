@@ -74,6 +74,6 @@ join the food waste reduction movement, contributing to Singapore’s Zero
 Waste Masterplan targets.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Potluck.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Potluck_Pitch_Infographic.png">
 </div>
 <p></p>
