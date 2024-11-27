@@ -2,7 +2,6 @@ collections:
   bfg-2024:
     output: true
     order:
-      - Starter Fund.md
       - BFG 2024.md
       - About BFG 2024.md
       - Hackathon Projects/.keep
@@ -28,4 +27,5 @@ collections:
       - Hackathon Projects/Scamhunt (Scams).md
       - Hackathon Projects/Good Goods (Supporting Social Enterprises).md
       - Accelerator Teams.md
+      - Starter Fund.md
       - Terms & Conditions.md
