@@ -2,6 +2,7 @@ collections:
   bfg-2024:
     output: true
     order:
+      - Starter Fund.md
       - BFG 2024.md
       - About BFG 2024.md
       - Hackathon Projects/.keep
