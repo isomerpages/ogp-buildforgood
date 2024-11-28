@@ -41,13 +41,11 @@ potential victims.
 <br>
 <br>Social media platforms are home to all the top scams reported this year
 including Job scams, Phishing scams, E-commerce scams and Investment scams.
-<br><strong><br><a href="https://www.scamshield.gov.sg/files/Scams%20and%20Cybercrime%20Briefs/2024_Mid_Year_SCC_Brief.pdf" class="in-cell-link" rel="noopener noreferrer nofollow" target="_blank"><u>SOURCE</u></a><br><br><br>PROBLEM STATEMENT <br><br></strong>Anti-scam
-government agencies struggle to effectively request removal of scam posts
-on social media platforms like Facebook &amp; Insta because they lack access
-to scams reported by users on these platforms.
-<br>
-<br>Ineffective takedown requests and slower identification of new scam threats
-is causing Singaporeans to lose millions per year.</p>
+<br><strong><br><a href="https://www.scamshield.gov.sg/files/Scams%20and%20Cybercrime%20Briefs/2024_Mid_Year_SCC_Brief.pdf" class="in-cell-link" rel="noopener noreferrer nofollow" target="_blank"><u>SOURCE</u></a><br><br><br>PROBLEM STATEMENT <br><br></strong>Social
+media platforms often fail to address and take down user reported scams.
+They also do not share this data with relevant authorities, hindering anti-scam
+efforts in Singapore. There has been a 28% increase in social media scams
+in 2024 and 83% of scam victims were contacted on Meta Platforms.</p>
 <p></p>
 <h4>Proposed Solution</h4>
 <p>A Telegram bot that enables Singaporeans to easily report scams by sharing
