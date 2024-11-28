@@ -14,6 +14,10 @@ and launch them with real users.
 </p>
 <h3><strong>Accelerator teams</strong></h3>
 <h4>Let's Kaypoh</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/letskaypoh.png">
+</div>
 <p>Let's Kaypoh is a platform that rallies the community to discover and
 check-in on nearby socially isolated elderly, reducing the reliance of
 senior monitoring on AACs and befriender organisations, and decreasing
@@ -22,7 +26,7 @@ senior loneliness.
 <br>Through a pilot conducted with SASCO West Coast AAC, Let's Kaypoh has
 facilitated 10 senior visits by 20 volunteers, and consolidated data on
 overall senior wellbeing for the AAC to monitor.</p>
-<p>Read more about Let's Kaypoh's problem statement and solution <a href="/lets-kaypoh" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p></p>
 <p><strong>Sign up to be a Kaypoh (volunteer) <a href="https://letskaypoh.org/" rel="noopener nofollow" target="_blank">here</a>!</strong>
 </p>
 <p></p>
@@ -35,7 +39,7 @@ of your home appliances—no extra devices or installations needed beyond
 your mobile phone or computer!</p>
 <p>With actionable insights, OhmSweetOhm empowers you to make smart choices
 to reduce energy use and save on your bills.</p>
-<p>Read more about OhmSweetOhm's problem statement and solution <a href="/ohmsweetohm" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p></p>
 <p><strong>Try out OhmSweetOhm </strong><a href="https://www.ohmsweetohm.sg/" rel="noopener nofollow" target="_blank">here</a><strong>!</strong>
 </p>
 <h4>EBI (Emotional Baggage Interface)</h4>
@@ -52,7 +56,6 @@ it easier for users to reflect and share their journeys.
 support feels at home. Our mission goes beyond journaling — we aim to raise
 mental health awareness and foster well-being for everyone.</p>
 <p></p>
-<p>Read more about EBI's problem statement and solution <a href="/ebi" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong>Try out EBI <a href="https://app.ebi.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>!</strong>
 </p>
 <p></p>
@@ -77,7 +80,6 @@ guidance on topics outside of the recommenders above
 Teams (CREST)) for caregivers desiring to speak with a professional for
 further advice</p>
 <p></p>
-<p>Read more about CareCompass' problem statement and solution <a href="/carecompass" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong>Try out CareCompass <a href="https://my.carecompass.sg/auth" rel="noopener nofollow" target="_blank">here</a>!</strong>
 </p>
 <p></p>
