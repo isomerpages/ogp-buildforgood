@@ -75,6 +75,9 @@ enhancing their ability to serve citizens more effectively and efficiently.</p>
 <p>Try out have anot <a href="https://haveanot.beta.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <h4>Scamhunt (scams)</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamHunt___SC3.png">
+</div>
 <p>Scamhunt is a telegram bot designed to tackle online scams effectively.
 It simplifies the process of reporting suspicious posts and leverages AI
 to assess the likelihood of scams in reported content. By providing authorities
