@@ -64,5 +64,9 @@ senior care.</p>
 <p>Check out Have Anot's problem statement &amp; solution <a href="/heart-beat/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 <h4>Scamhunt (scams)</h4>
-<p>(description)</p>
+<p>Scamhunt is a telegram bot designed to tackle online scams effectively.
+It simplifies the process of reporting suspicious posts and leverages AI
+to assess the likelihood of scams in reported content. By providing authorities
+with actionable insights, Scamhunt helps combat scams and encourages greater
+accountability from social media platforms.</p>
 <p>Check out Scamhunt's problem statement &amp; solution <a href="/scamhunt/" rel="noopener nofollow" target="_blank">here</a>.</p>
