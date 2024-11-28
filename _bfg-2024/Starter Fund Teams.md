@@ -44,8 +44,13 @@ senior care.</p>
 <p>Check out Foodchain's problem statement &amp; solution <a href="/foodchain/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 <h4>OTOT (health &amp; wellbeing)</h4>
-<p>(description)</p>
+<p>OTOT is a community-led workout buddy finder that allows users to discover
+nearby workout partners and create a safe and inclusive space for users
+to exercise together. The platform leverages peer-to-peer community support,
+where users motivate and learn from one another creating sustainable fitness
+habits.</p>
 <p>Check out OTOT's problem statement &amp; solution <a href="/otot/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Try out OTOT <a href="https://legs-day.vercel.app/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <h4>(re)store (sustainability)</h4>
 <p>(description)</p>
