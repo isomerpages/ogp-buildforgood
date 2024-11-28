@@ -14,45 +14,76 @@ and launch them with real users.
 </p>
 <h3><strong>Accelerator teams</strong></h3>
 <h4>Let's Kaypoh</h4>
-<p>Let's Kaypoh is a platform that rallies the community to check-in and
-help out socially isolated elderly, to reduce their reliance on AACs and
-befriender organisations.</p>
+<p>Let's Kaypoh is a platform that rallies the community to discover and
+check-in on nearby socially isolated elderly, reducing the reliance of
+senior monitoring on AACs and befriender organisations, and decreasing
+senior loneliness.
+<br>
+<br>Through a pilot conducted with SASCO West Coast AAC, Let's Kaypoh has
+facilitated 10 senior visits by 20 volunteers, and consolidated data on
+overall senior wellbeing for the AAC to monitor.</p>
 <p>Check out Let's Kaypoh's problem statement and solution <a href="/lets-kaypoh" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong>Sign up to be a Kaypoh (volunteer) <a href="https://letskaypoh.org/" rel="noopener nofollow" target="_blank">here</a>!</strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AIP_EVE_OGP_20240928_WEB_1124.jpg">
-</div>
 <h4>OhmSweetOhm</h4>
-<p>OhmSweetOhm is a web app that helps homeowners estimate their household
-energy consumption costs and encourage energy-saving.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OhmSweetOhm.png">
+</div>
+<p>OhmSweetOhm is a web-based cost calculator that estimates the energy costs
+of your home appliances—no extra devices or installations needed beyond
+your mobile phone or computer!</p>
+<p>With actionable insights, OhmSweetOhm empowers you to make smart choices
+to reduce energy use and save on your bills.</p>
 <p>Check out OhmSweetOhm's problem statement and solution <a href="/ohmsweetohm" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong>Try out OhmSweetOhm </strong><a href="https://www.ohmsweetohm.sg/" rel="noopener nofollow" target="_blank">here</a><strong>!</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AIP_EVE_OGP_20240928_WEB_1125__1_.jpg">
-</div>
 <h4>EBI (Emotional Baggage Interface)</h4>
-<p>EBI is a companion application that helps mental health support seekers
-describe their issues more quickly and seamlessly with any therapist.</p>
-<p>Check out EBI's problem statement and solution <a href="/ebi" rel="noopener nofollow" target="_blank">here</a>.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AIP_EVE_OGP_20240928_WEB_1123.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frame_427318284.png">
 </div>
-<h4>CareCompass+</h4>
-<p>CareCompass+ is a one-stop platform for caregivers to find resources on
-caregiving, and recieve personalised, step-by-step care recommendations
-based on the needs of the recipients.</p>
+<p>EBI is a journaling app designed to help users explore and communicate
+their thoughts clearly, with data-driven insights into their progress.
+Key features include AI-powered prompts for deeper emotional exploration
+and auto-generated, shareable summaries that extract key insights, making
+it easier for users to reflect and share their journeys.
+<br>
+<br>Ultimately, we aspire to be a community where anyone seeking mental health
+support feels at home. Our mission goes beyond journaling — we aim to raise
+mental health awareness and foster well-being for everyone.</p>
+<p></p>
+<p>Check out EBI's problem statement and solution <a href="/ebi" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p><strong>Try out EBI <a href="https://app.ebi.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>!</strong>
+</p>
+<p></p>
+<h4>CareCompass</h4>
+<p>New family caregivers of dementia patients are often overwhelmed by the
+many decisions they have to make for their loved ones and the strain on
+their own mental/emotional health. While caregivers may receive some support
+from hospitals at point of diagnosis, there remains a gap for caregivers
+who search for help in community settings.
+<br>
+<br>For new family caregivers of patients with dementia, CareCompass is a
+personalised care navigator that facilitates quicker, less stressful day-to-day
+care.
+<br>
+<br>To address this, CareCompass:
+<br>1. Displays 3 top, personalised recommendations on topics including care
+services and support based on caregivers’ stated preferences
+<br>2. Features a conversational chatbot trained on publicly available resources
+from trusted partners (e.g. Dementia Singapore, AIC) for interactive, instant
+guidance on topics outside of the recommenders above
+<br>3. Will close the loop with community touchpoints (e.g. Community Outreach
+Teams (CREST)) for caregivers desiring to speak with a professional for
+further advice</p>
+<p></p>
 <p>Check out CareCompass' problem statement and solution <a href="/carecompass" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong>Try out CareCompass <a href="https://my.carecompass.sg/auth" rel="noopener nofollow" target="_blank">here</a>!</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AIP_EVE_OGP_20240928_WEB_1122.jpg">
-</div>
 <p></p>
 <h4>GymLah</h4>
+<p></p>
 <p>GymLah is a platform that allows seniors to book, reschedule, and manage
 their gym appointments with just a few clicks. By streamlining the appointment
 process, GymLah not only empowers seniors to take charge of their fitness
