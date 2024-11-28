@@ -59,9 +59,15 @@ senior care.</p>
 <p>(description)</p>
 <p>Check out Bloo's problem statement &amp; solution <a href="/bloo/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
-<h4>Have Anot? (discoverability of government digital solutions)</h4>
-<p>(description)</p>
-<p>Check out Have Anot's problem statement &amp; solution <a href="/heart-beat/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<h4>have anot? (discoverability of government digital solutions)</h4>
+<p>have anot? is an AI-powered chatbot that assists users in effectively
+scoping their problems, suggesting features, and recommending existing
+products for digital solutions. By streamlining the entire process, have
+anot? enables public officers to minimize the need for completely bespoke
+systems. This approach helps them save both costs and time, ultimately
+enhancing their ability to serve citizens more effectively and efficiently.</p>
+<p>Check out have anot's problem statement &amp; solution <a href="/heart-beat/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Try out have anot <a href="https://haveanot.beta.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <h4>Scamhunt (scams)</h4>
 <p>Scamhunt is a telegram bot designed to tackle online scams effectively.
@@ -70,3 +76,4 @@ to assess the likelihood of scams in reported content. By providing authorities
 with actionable insights, Scamhunt helps combat scams and encourages greater
 accountability from social media platforms.</p>
 <p>Check out Scamhunt's problem statement &amp; solution <a href="/scamhunt/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Try out Scamhunt <a href="https://scamhunt.sg/" rel="noopener nofollow" target="_blank">here</a>.</p>
