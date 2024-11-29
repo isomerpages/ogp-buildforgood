@@ -119,4 +119,7 @@ the Admin platform and view the data we collect</p>
 </ul>
 </li>
 </ol>
+<blockquote>
+<p>Check out Scamhunt <a href="https://scamhunt.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
+</blockquote>
 <p></p>
