@@ -35,6 +35,15 @@ anti-scam efforts in Singapore. There has been a 28% increase in social
 media scams in 2024 and 83% of scam victims were contacted on Meta Platforms.</p>
 <p></p>
 <h4>Proposed Solution</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamHunt___SC1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamHunt___SC3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamHunt___SC2.png">
+</div>
 <p><strong>Scamhunt is trying to solve the problem by</strong>
 </p>
 <ol>
