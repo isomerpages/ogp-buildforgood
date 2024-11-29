@@ -22,7 +22,7 @@ and launch them with real users.
 check-in on nearby socially isolated elderly, reducing the reliance of
 senior monitoring on AACs and befriender organisations, and decreasing
 senior loneliness.</p>
-<p>Read more about CareCompass' problem statement &amp; solution <a href="/lets-kaypoh/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Read more about Let's Kaypoh's problem statement &amp; solution <a href="/lets-kaypoh/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <blockquote>
 <p><strong>Sign up as a Kaypoh (volunteer) <a href="https://letskaypoh.org/" rel="noopener nofollow" target="_blank">here</a>!</strong>
 </p>
