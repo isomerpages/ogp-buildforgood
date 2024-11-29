@@ -59,7 +59,7 @@ thereby onboarding more businesses to redistribute surplus food through
 organisations in the food surplus/waste space?</p>
 <p></p>
 <h4>Proposed Solution</h4>
-<p>We propose an integrated digital platform designed to optimise surplus
+<p>Potluck is an integrated digital platform designed to optimise surplus
 food redistribution operations between the three main groups of stakeholders.
 <br>
 <br>1. Donors (food businesses): Giving them the ability to easily create
