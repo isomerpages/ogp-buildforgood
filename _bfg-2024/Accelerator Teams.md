@@ -26,7 +26,7 @@ senior loneliness.
 <br>Through a pilot conducted with SASCO West Coast AAC, Let's Kaypoh has
 facilitated 10 senior visits by 20 volunteers, and consolidated data on
 overall senior wellbeing for the AAC to monitor.</p>
-<p></p>
+<p>Read more about CareCompass' problem statement &amp; solution <a href="/lets-kaypoh/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <blockquote>
 <p><strong>Sign up as a Kaypoh (volunteer) <a href="https://letskaypoh.org/" rel="noopener nofollow" target="_blank">here</a>!</strong>
 </p>
@@ -41,11 +41,12 @@ of your home appliances—no extra devices or installations needed beyond
 your mobile phone or computer!</p>
 <p>With actionable insights, OhmSweetOhm empowers you to make smart choices
 to reduce energy use and save on your bills.</p>
-<p></p>
+<p>Read more about CareCompass' problem statement &amp; solution <a href="/ohmsweetohm/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <blockquote>
 <p><strong>Try out OhmSweetOhm </strong><a href="https://www.ohmsweetohm.sg/" rel="noopener nofollow" target="_blank">here</a><strong>!</strong>
 </p>
 </blockquote>
+<p></p>
 <h4>EBI (Emotional Baggage Interface)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frame_427318284.png">
@@ -55,7 +56,7 @@ their thoughts clearly, with data-driven insights into their progress.
 Key features include AI-powered prompts for deeper emotional exploration
 and auto-generated, shareable summaries that extract key insights, making
 it easier for users to reflect and share their journeys.</p>
-<p></p>
+<p>Read more about EBI' problem statement &amp; solution <a href="/ebi/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <blockquote>
 <p><strong>Try out EBI <a href="https://app.ebi.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>!</strong>
 </p>
@@ -78,4 +79,5 @@ their gym appointments with just a few clicks. By streamlining the appointment
 process, GymLah not only empowers seniors to take charge of their fitness
 journey but also allows gym instructors to dedicate more time to what truly
 matters - providing quality guidance and support to the seniors.</p>
+<p>Read more about GymLah's problem statement &amp; solution <a href="/gymlah/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
