@@ -48,4 +48,5 @@ sections:
         web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/WFIf2AhWJ9M?si=0jiFMwlCiGy-TMC_"
         height="315" width="100%"></iframe>
+      subtitle: BFG 2024 hackathon recap
 ---
