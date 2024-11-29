@@ -73,6 +73,10 @@ these missions, more businesses and organisations will be encouraged to
 join the food waste reduction movement, contributing to Singapore’s Zero
 Waste Masterplan targets.</p>
 <p></p>
+<blockquote>
+<p>Check out Potluck <a href="https://potluck.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
+</blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Potluck_Pitch_Infographic.png">
 </div>
