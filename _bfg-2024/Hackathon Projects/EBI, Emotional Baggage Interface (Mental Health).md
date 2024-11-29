@@ -55,18 +55,15 @@ a challenge because it is a hassle to type/write continuously.
 <br>
 </p>
 <h4>Proposed Solution</h4>
-<p>EBI is a companion application for mental health support seekers to:
+<p>EBI is a journaling app designed to help users explore and communicate
+their thoughts clearly, with data-driven insights into their progress.
+Key features include AI-powered prompts for deeper emotional exploration
+and auto-generated, shareable summaries that extract key insights, making
+it easier for users to reflect and share their journeys.
 <br>
-<br>- share information with therapists from a community-based mental healthcare
-provider
-<br>- help describe their issues better for reflection and subsequent sessions
-<br>- control and edit their own data for future reference
-<br>
-<br>These features help with managing information discontuity between sessions
-and allows them to share their stories more quickly with therapists.
-<br>
-<br>For therapists, they can prepare themselves to help mental health support
-seekers better and spend more time on building rapport with their patients.</p>
+<br>Ultimately, we aspire to be a community where anyone seeking mental health
+support feels at home. Our mission goes beyond journaling — we aim to raise
+mental health awareness and foster well-being for everyone.</p>
 <h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AreYouOkposterfinal.png">
