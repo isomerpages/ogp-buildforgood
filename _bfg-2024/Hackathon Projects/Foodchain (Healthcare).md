@@ -46,18 +46,19 @@ their meal history while waiting for their consultation in the hospital.
 The app would use simple, intuitive interfaces, potentially incorporating
 visual aids or voice input in various dialects. This allows elderly patients
 to accurately communicate their dietary habits.</p>
-<blockquote>
-<p>Try out Foodchain <a href="https://meal-recall-app-4am9v.ondigitalocean.app/mealtime" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
-</blockquote>
+<p></p>
 <p><strong>Impact: </strong>By the start of the consultation, dieticians
 will have access to a comprehensive meal history. This streamlines the
 dietary assessment process, enabling dieticians to focus on meal planning
 tailored to the patient’s dietary restrictions, ultimately improving the
 quality of care and nutritional outcomes for elderly patients.
 <br>
-<br>
+</p>
+<blockquote>
+<p>Try out Foodchain <a href="https://meal-recall-app-4am9v.ondigitalocean.app/mealtime" rel="noopener noreferrer nofollow" target="_blank">here</a>!
 <br>
 </p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Foodchain.png">
 </div>
