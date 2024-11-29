@@ -74,7 +74,8 @@ upcycled 20kg of food waste in total.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC_9910.jpg">
 </div>
-<p></p>
+<p><strong>Find out more about SUSFeed <a href="https://susfeedsg.com/" rel="noopener noreferrer nofollow" target="_blank">here</a>!</strong>
+</p>
 <p></p>
 <blockquote>
 <p>Check out the accelerator journey of our 5 winning teams here:</p>
