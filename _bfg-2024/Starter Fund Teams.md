@@ -57,13 +57,27 @@ habits.</p>
 <p>Check out (re)store's problem statement &amp; solution <a href="/restore/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 <h4>Potluck (sustainability)</h4>
-<p>(description)</p>
+<p>Potluck is an integrated digital platform designed to optimise surplus
+food redistribution operations between the three main groups of stakeholders.
+<br>
+<br>1. Donors (food businesses): Giving them the ability to easily create
+listings of available surplus food with photos, tags and collection time-frame
+<br>2. Volunteers: Automated matching to suitable collection windows
+<br>3. Rescue group coordinators: Dashboard and logging systems to provide
+an oversight of listings and collection status through real-time updates
+<br>
+<br>By reducing the administrative burden and increasing the efficiency of
+these missions, more businesses and organisations will be encouraged to
+join the food waste reduction movement, contributing to Singapore’s Zero
+Waste Masterplan targets.</p>
+<p></p>
 <p>Check out Potluck's problem statement &amp; solution <a href="/potluck/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 <h4>Bloo (sustainability)</h4>
 <p>(description)</p>
 <p>Check out Bloo's problem statement &amp; solution <a href="/bloo/" rel="noopener nofollow" target="_blank">here</a>.</p>
-<p></p>
+<p><strong>Try out Bloo <a href="https://bloobin.netlify.app/" rel="noopener noreferrer nofollow" target="_blank">here</a>!</strong>
+</p>
 <h4>have anot? (discoverability of government digital solutions)</h4>
 <p>have anot? is an AI-powered chatbot that assists users in effectively
 scoping their problems, suggesting features, and recommending existing
