@@ -41,7 +41,7 @@ social media scam</p>
 </li>
 <li>
 <p><a href="/have-anot/" rel="noopener nofollow" target="_blank">have anot?</a> -
-discoverability of govt digital solutions</p>
+discoverability of government digital solutions</p>
 </li>
 <li>
 <p><a href="/otot/" rel="noopener nofollow" target="_blank">OTOT</a> - health
