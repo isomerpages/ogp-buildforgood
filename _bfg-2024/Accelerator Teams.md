@@ -37,7 +37,7 @@ of your home appliances—no extra devices or installations needed beyond
 your mobile phone or computer!</p>
 <p>With actionable insights, OhmSweetOhm empowers you to make smart choices
 to reduce energy use and save on your bills.</p>
-<p>Read more about CareCompass' problem statement &amp; solution <a href="/ohmsweetohm/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Read more about OhmSweetOhm' problem statement &amp; solution <a href="/ohmsweetohm/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <blockquote>
 <p><strong>Try out OhmSweetOhm </strong><a href="https://www.ohmsweetohm.sg/" rel="noopener nofollow" target="_blank">here</a><strong>!</strong>
 </p>
