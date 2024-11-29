@@ -28,7 +28,7 @@ sections:
       id: infopic
       description: After the hackathon concluded, 5 teams advanced to the accelerator
         phase to further develop and launch their solutions.
-      button: view accelerator teams
+      button: learn more
       url: /accelerator/
       image: /images/BFG24.gif
       alt: Build for Good Accelerator
