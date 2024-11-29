@@ -73,11 +73,8 @@ care.</p>
 </blockquote>
 <p></p>
 <h4>GymLah</h4>
-<p></p>
-<p>GymLah is a platform that allows seniors to book, reschedule, and manage
-their gym appointments with just a few clicks. By streamlining the appointment
-process, GymLah not only empowers seniors to take charge of their fitness
-journey but also allows gym instructors to dedicate more time to what truly
-matters - providing quality guidance and support to the seniors.</p>
+<p>GymLah is a tailored booking application for senior gyms in Singapore.
+It simplifies scheduling for instructors and empowers seniors to manage
+their progress independently.</p>
 <p>Read more about GymLah's problem statement &amp; solution <a href="/gymlah/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
