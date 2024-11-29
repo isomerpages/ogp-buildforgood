@@ -3,7 +3,7 @@ title: have anot? (Accessibility)
 permalink: /have-anot/
 variant: tiptap
 description: ""
-third_nav_title: Projects
+third_nav_title: Hackathon Projects
 ---
 <h4><strong>Digital Inclusion &amp; Accessibility</strong> - Discoverability of Government Products</h4>
 <div class="isomer-image-wrapper">
@@ -44,6 +44,10 @@ products for digital solutions. By streamlining the entire process, have
 anot? enables public officers to minimize the need for completely bespoke
 systems. This approach helps them save both costs and time, ultimately
 enhancing their ability to serve citizens more effectively and efficiently.</p>
+<p></p>
+<blockquote>
+<p>Try out have anot <a href="https://haveanot.beta.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
+</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/have_anot.png">

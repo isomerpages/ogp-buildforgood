@@ -3,7 +3,7 @@ title: Heart Beat (Eldercare)
 permalink: /heart-beat/
 variant: tiptap
 description: ""
-third_nav_title: Projects
+third_nav_title: Hackathon Projects
 ---
 <h4><strong>Supporting Seniors </strong>- Seniors Living Alone</h4>
 <div class="isomer-image-wrapper">
@@ -35,23 +35,18 @@ to AIC) where seniors passed away unnoticed.
 <br>
 </p>
 <h4>Proposed Solution</h4>
-<p>Seniors deserve to live their final years with dignity, surrounded by
-the care and attention they need, not isolated in fear of being forgotten.
-The thought of a loved one passing away unnoticed is heartbreaking for
-any family.
-<br>
-<br>Our solution is a gentle, non-intrusive daily check-in system designed
-with empathy for isolated seniors. A simple set of button allows seniors
-to let their families know they’re okay, giving them a sense of security
-and connection without feeling like a burden. If a senior doesn't check
-in within a given timeframe, or if seniors trigger an emergency button,
-an immediate alert ensures that help can reach them in time, preventing
-the tragedy of being alone in an emergency. This system not only safeguards
-their physical well-being but also offers emotional comfort, reminding
-seniors that they are seen, cared for, and never truly alone. It provides
-families with peace of mind, knowing their loved ones are safe and supported,
-even from a distance.</p>
-<p></p>
+<p><strong>HeartBeat</strong> is a simple and easy-to-use device that helps
+keep seniors safe and gives peace of mind to their caregivers. Seniors
+just need to check-in via the app once a day and let their caregivers know
+they’re okay. If they forget to check in, HeartBeat automatically sends
+a text message to their caregiver, so they can follow up quickly. HeartBeat
+is designed to be senior-friendly, making it easy for anyone to use without
+needing technical skills.</p>
+<p>HeartBeat helps seniors stay independent while making sure their loved
+ones are always in the loop. It also creates a daily habit that gives seniors
+a sense of security and connection. With its practical design and ability
+to grow with users’ needs, HeartBeat is making it easier for families and
+communities to care for their elderly loved ones.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Heart_Beat.png">
 </div>

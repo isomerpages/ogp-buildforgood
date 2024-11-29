@@ -3,7 +3,7 @@ title: (re)store (Sustainability)
 permalink: /restore/
 variant: tiptap
 description: ""
-third_nav_title: Projects
+third_nav_title: Hackathon Projects
 ---
 <h4><strong>Environment &amp; Sustainability</strong> - Encouraging eco-consumption</h4>
 <div class="isomer-image-wrapper">

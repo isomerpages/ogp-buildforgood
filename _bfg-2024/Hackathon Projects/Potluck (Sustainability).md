@@ -3,7 +3,7 @@ title: Potluck (Sustainability)
 permalink: /potluck/
 variant: tiptap
 description: ""
-third_nav_title: Projects
+third_nav_title: Hackathon Projects
 ---
 <h4><strong>Environment &amp; Sustainability</strong> - Optimising Surplus Food Re-distribution</h4>
 <div class="isomer-image-wrapper">
@@ -59,7 +59,7 @@ thereby onboarding more businesses to redistribute surplus food through
 organisations in the food surplus/waste space?</p>
 <p></p>
 <h4>Proposed Solution</h4>
-<p>We propose an integrated digital platform designed to optimise surplus
+<p>Potluck is an integrated digital platform designed to optimise surplus
 food redistribution operations between the three main groups of stakeholders.
 <br>
 <br>1. Donors (food businesses): Giving them the ability to easily create
@@ -72,6 +72,10 @@ an oversight of listings and collection status through real-time updates
 these missions, more businesses and organisations will be encouraged to
 join the food waste reduction movement, contributing to Singapore’s Zero
 Waste Masterplan targets.</p>
+<p></p>
+<blockquote>
+<p>Check out Potluck <a href="https://potluck.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
+</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Potluck_Pitch_Infographic.png">

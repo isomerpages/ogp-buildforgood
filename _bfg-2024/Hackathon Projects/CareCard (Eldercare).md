@@ -3,7 +3,7 @@ title: CareCard (Eldercare)
 permalink: /carecard/
 variant: tiptap
 description: ""
-third_nav_title: Projects
+third_nav_title: Hackathon Projects
 ---
 <h4><strong>Supporting Seniors </strong>- Connecting Eldercare Organisations</h4>
 <div class="isomer-image-wrapper">

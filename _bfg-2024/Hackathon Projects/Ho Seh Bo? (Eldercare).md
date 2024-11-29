@@ -3,7 +3,7 @@ title: Ho Seh Bo? (Eldercare)
 permalink: /ho-seh-bo/
 variant: tiptap
 description: ""
-third_nav_title: Projects
+third_nav_title: Hackathon Projects
 ---
 <h4><strong>Supporting Seniors </strong>- Empowering AAC Volunteers</h4>
 <div class="isomer-image-wrapper">
@@ -47,24 +47,22 @@ volunteer base, thus supporting more seniors effectively.
 <br>
 </p>
 <h4>Proposed Solution</h4>
-<p>Leveraging AI, we envision an application designed to streamline the allocation
-of manpower and automate the creation of detailed records and checklists
-drawing on past data, enabling data analytics that can personalize care.
-This tool not only reduces the time spent on preparation and recording
-during house visits, but also enhances the Active Ageing Centre (AAC) staff's
-ability to connect with each senior on a more personal level. Additionally,
-it could significantly ease the volunteer onboarding process for AACs,
-enabling AACs to sustain and even expand their senior monitoring systems
-effectively.
-<br>
-<br>Through this tool, we aim to empower AACs to preserve the invaluable human
+<p>Our application empowers AAC staff and volunteers to conduct more personalized
+house visits for socially isolated seniors while seamlessly digitizing
+visitation records. By leveraging AI, the application equips staff and
+volunteers with contextual knowledge about seniors before visits, generates
+dynamic, personalized questions to enhance engagement during or after visits,
+and provides managers with a comprehensive overview of visitation activities.
+Additionally, it offers actionable insights for timely interventions in
+critical situations.</p>
+<p>Through this tool, we aim to empower AACs to preserve the invaluable human
 touch in their services, blending traditional house visits with the efficiency
-and precision of digital technology, ensuring seniors receive the attentive
-and tailored support they deserve in this digital age.
+and precision of digital technology, ensuring these seniors receive the
+attentive and tailored support they deserve in this digital age while streamlining
+the AACs’ operations and easing their workload.
 <br>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ho_Seh_Bo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographic___Finale__For_Sharing_.png">
 </div>
 <p></p>

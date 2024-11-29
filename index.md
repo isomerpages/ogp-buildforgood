@@ -24,15 +24,15 @@ sections:
           description: $20,000
           url: /accelerator-funding/
   - infopic:
-      title: Build for Good 2024
+      title: Build for Good Accelerator
       id: infopic
-      description: We just concluded our third & largest BFG! Check out the winning
-        teams & all the 21 innovative solutions.
-      button: See Recap
-      url: /bfg-2024
+      description: After the hackathon concluded, 5 teams advanced to the accelerator
+        phase to further develop and launch their solutions.
+      button: learn more
+      url: /accelerator/
       image: /images/BFG24.gif
-      alt: Build for Good projects
-      subtitle: Aug - Sep 2024
+      alt: Build for Good Accelerator
+      subtitle: Oct - Nov 2024
   - infopic:
       title: Build for Good Environment
       description: 80 builders, 19 innovative solutions for a greener Singapore.
@@ -48,4 +48,5 @@ sections:
         web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/WFIf2AhWJ9M?si=0jiFMwlCiGy-TMC_"
         height="315" width="100%"></iframe>
+      subtitle: BFG 2024 hackathon recap
 ---

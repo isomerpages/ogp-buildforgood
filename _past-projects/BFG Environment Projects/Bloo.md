@@ -34,6 +34,9 @@ reducing the overall efficiency of recycling programs. Addressing this
 issue requires heightened public awareness through innovative solutions
 to reduce such occurrences.</p>
 <h4>Proposed solution</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bloo_product.png">
+</div>
 <p>To tackle the issue of recycling bin contamination in Singapore, we propose
 an AI-powered chatbot solution that leverages computer vision and a large
 language model to guide users on proper recycling practices. This chatbot
@@ -47,4 +50,8 @@ users with recycling-related queries. By enhancing public awareness and
 equipping individuals with the necessary knowledge to recycle correctly,
 we aim to significantly reduce contamination rates in recycling bins, improving
 the overall efficiency and effectiveness of Singapore's recycling programs.</p>
+<p></p>
+<blockquote>
+<p>Try out Bloo <a href="https://bloobin.netlify.app/" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
+</blockquote>
 <p></p>

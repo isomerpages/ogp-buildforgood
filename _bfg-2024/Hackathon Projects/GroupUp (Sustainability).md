@@ -3,7 +3,7 @@ title: GroupUp (Sustainability)
 permalink: /groupup/
 variant: tiptap
 description: ""
-third_nav_title: Projects
+third_nav_title: Hackathon Projects
 ---
 <h4><strong>Environment &amp; Sustainability</strong> - Reducing Overconsumption through Group Buying</h4>
 <div class="isomer-image-wrapper">

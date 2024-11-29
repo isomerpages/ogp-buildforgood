@@ -3,7 +3,7 @@ title: Birdhouse (Eldercare)
 permalink: /birdhouse/
 variant: tiptap
 description: ""
-third_nav_title: Projects
+third_nav_title: Hackathon Projects
 ---
 <h4><strong>Supporting seniors </strong>- Unnoticed senior deaths</h4>
 <div class="isomer-image-wrapper">
