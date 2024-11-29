@@ -13,7 +13,7 @@ and launch them with real users.
 <br>
 </p>
 <h3><strong>Accelerator teams</strong></h3>
-<h4>Let's Kaypoh</h4>
+<h4><strong>Let's Kaypoh</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/letskaypoh.png">
@@ -28,7 +28,7 @@ senior loneliness.</p>
 </p>
 </blockquote>
 <p></p>
-<h4>OhmSweetOhm</h4>
+<h4><strong>OhmSweetOhm</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OhmSweetOhm.png">
 </div>
@@ -43,7 +43,7 @@ to reduce energy use and save on your bills.</p>
 </p>
 </blockquote>
 <p></p>
-<h4>EBI (Emotional Baggage Interface)</h4>
+<h4><strong>EBI (Emotional Baggage Interface)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frame_427318284.png">
 </div>
@@ -58,7 +58,10 @@ it easier for users to reflect and share their journeys.</p>
 </p>
 </blockquote>
 <p></p>
-<h4>CareCompass</h4>
+<h4><strong>CareCompass</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CareCompass.png">
+</div>
 <p>For new family caregivers of patients with dementia, CareCompass is a
 personalised care navigator that facilitates quicker, less stressful day-to-day
 care.</p>
@@ -68,7 +71,7 @@ care.</p>
 </p>
 </blockquote>
 <p></p>
-<h4>GymLah</h4>
+<h4><strong>GymLah</strong></h4>
 <p>GymLah is a tailored booking application for senior gyms in Singapore.
 It simplifies scheduling for instructors and empowers seniors to manage
 their progress independently.</p>
