@@ -29,53 +29,94 @@ third_nav_title: Hackathon Projects
 </li>
 </ul>
 <h4>Problem Statement</h4>
-<p><strong>BACKGROUND<br></strong>As per Cybercrime Brief for 2024, more
-scammers are targeting victims through Meta platforms (Facebook, WhatsApp,
-Instagram), and Telegram.
-<br>
-<br>Reported cases have increased to 8,336 from 6,555 last year. For ~85%
-of reported social media scams, scammers used these platforms to contact
-potential victims.
-<br>
-<br>Of the total scam victims, adults aged 30 to 49 made up the largest proportion.
-<br>
-<br>Social media platforms are home to all the top scams reported this year
-including Job scams, Phishing scams, E-commerce scams and Investment scams.
-<br><strong><br><a href="https://www.scamshield.gov.sg/files/Scams%20and%20Cybercrime%20Briefs/2024_Mid_Year_SCC_Brief.pdf" class="in-cell-link" rel="noopener noreferrer nofollow" target="_blank"><u>SOURCE</u></a><br><br><br>PROBLEM STATEMENT <br><br></strong>Social
-media platforms often fail to address and take down user reported scams.
-They also do not share this data with relevant authorities, hindering anti-scam
-efforts in Singapore. There has been a 28% increase in social media scams
-in 2024 and 83% of scam victims were contacted on Meta Platforms.</p>
+<p>Social media platforms often fail to address and take down user reported
+scams. They also do not share this data with relevant authorities, hindering
+anti-scam efforts in Singapore. There has been a 28% increase in social
+media scams in 2024 and 83% of scam victims were contacted on Meta Platforms.</p>
 <p></p>
 <h4>Proposed Solution</h4>
+<p><strong>Scamhunt is trying to solve the problem by</strong>
+</p>
+<ol>
+<li>
+<p>Enabling easy reporting of suspicious posts</p>
+</li>
+<li>
+<p>Providing AI-powered assessment of scam likelihood for reported posts</p>
+</li>
+<li>
+<p>Equipping authorities with actionable data to combat online scams hold
+social media platforms accountable</p>
+</li>
+</ol>
+<p></p>
+<p><strong>Our MVP</strong>
+</p>
 <p>A Telegram bot that enables Singaporeans to easily report scams by sharing
 links and screenshots for social media scam posts.
 <br>It then compiles this data into usable reports for authorities to make
-effective takedown requests.
-<br>
-<br>This is not possible in Scamshield app right now.
-<br>
-<br>Singaporeans can contribute additional information about their reported
-scams, view their contributions, and track their personal impact and a
-leaderboard to see top scam hunters in Singapore.
-<br>
-<br>Future versions will bring Scamhunt bots to more messaging platforms and
-support additional media formats for easier scam reporting.
-<br>
-<br>The core gaming aspect will be enhanced to include badges, weekly challenges,
-group-based hunting mini-games and more!
-<br>
-<br>Scamhunt aims to create a centralized database of social media scam reports
-for authorities to identify, respond to and request takedowns for new threat
-quickly.
-<br>
-<br>This will reduce the risk of financial losses and keep Singaporeans safe.
-<br>
-<br>Ignoring a scam only saves you, reporting it saves everyone.
-<br>
-<br>Happy Hunting!</p>
+effective takedown requests.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scamhunt.png">
-</div>
+<p><strong>After the hackathon we have improved the product&nbsp;</strong>
+</p>
+<ol>
+<li>
+<p><strong>User Engagement and Experience</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Scamunt <a href="https://scamhunt.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>website</u></a> for
+people who don’t have a Telegram</p>
+</li>
+<li>
+<p>Improvements to <a href="https://web.telegram.org/k/#@ScamHunt_bot" rel="noopener noreferrer nofollow" target="_blank"><u>Telegram bot</u></a>.
+Whatsapp bot exploration ongoing</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>API to check&nbsp; for scams and integrate scam feeds</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Law enforcement agencies can use our core scam likelines tech to check
+for scams in their data feeds</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Higher Report Quality</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Improved accuracy in scam classifications by type and by platform</p>
+</li>
+<li>
+<p>Unique reports by each user and overall</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Collaboration with Authorities</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ongoing conversation with GASP to test our tech on some of their feeds</p>
+</li>
+<li>
+<p>Ongoing conversations with MDDI to promote Scamhunt to their internal
+community and linking with IMDA/CSA for potential pilots/collaboration.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Data Security</strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Data is stored in a secured database. Only authenticated users can access
+the Admin platform and view the data we collect</p>
+</li>
+</ul>
+</li>
+</ol>
 <p></p>
