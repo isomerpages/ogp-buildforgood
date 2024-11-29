@@ -39,23 +39,14 @@ face a few key barriers in doing so: fear of regular commitment (48%),
 language barrier with the elderly (45%), and it being too time-consuming
 (39%).</p>
 <h4>Proposed Solution</h4>
-<p>We aim to democratise and lower the barriers to volunteering by reducing
-the dependency on AACs and befriender organisations to allocate and schedule
-resources such as volunteer visitations and errand running.
+<p>Let's Kaypoh is a platform that rallies the community to discover and
+check-in on nearby socially isolated elderly, reducing the reliance of
+senior monitoring on AACs and befriender organisations, and decreasing
+senior loneliness.
 <br>
-<br>We intend to rally the community around the elderly by providing a platform
-that connects members of the public with one another with a focus on the
-socially isolated elderly in their neighbourhood to do simple monitoring
-tasks and errand running.
-<br>
-<br>With this platform, members of a community can work together to check-in
-and help out elderlies who need it most, and escalate to the respective
-AACs and befriender organisations should the need arise. As a result, AACs
-and befriender organisations can now rely on a much larger, closer-to-home
-pool of manpower to conduct more frequent checks and assistance for the
-socially isolated, and divert resources more efficiently when needed. In
-the long run, the younger generation can cultivate organic relationships
-with the elderly they support.
+<br>Through a pilot conducted with SASCO West Coast AAC, Let's Kaypoh has
+facilitated 10 senior visits by 20 volunteers, and consolidated data on
+overall senior wellbeing for the AAC to monitor.
 <br>
 </p>
 <p></p>
