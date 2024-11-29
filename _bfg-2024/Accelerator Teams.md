@@ -72,6 +72,10 @@ care.</p>
 </blockquote>
 <p></p>
 <h4><strong>GymLah</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_29_at_4_18_21_PM.png">
+</div>
 <p>GymLah is a tailored booking application for senior gyms in Singapore.
 It simplifies scheduling for instructors and empowers seniors to manage
 their progress independently.</p>
