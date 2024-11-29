@@ -51,4 +51,7 @@ equipping individuals with the necessary knowledge to recycle correctly,
 we aim to significantly reduce contamination rates in recycling bins, improving
 the overall efficiency and effectiveness of Singapore's recycling programs.</p>
 <p></p>
+<blockquote>
+<p>Try out Bloo <a href="https://bloobin.netlify.app/" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
+</blockquote>
 <p></p>
