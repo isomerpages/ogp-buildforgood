@@ -60,26 +60,10 @@ mental health awareness and foster well-being for everyone.</p>
 </p>
 <p></p>
 <h4>CareCompass</h4>
-<p>New family caregivers of dementia patients are often overwhelmed by the
-many decisions they have to make for their loved ones and the strain on
-their own mental/emotional health. While caregivers may receive some support
-from hospitals at point of diagnosis, there remains a gap for caregivers
-who search for help in community settings.
-<br>
-<br>For new family caregivers of patients with dementia, CareCompass is a
+<p>For new family caregivers of patients with dementia, CareCompass is a
 personalised care navigator that facilitates quicker, less stressful day-to-day
-care.
-<br>
-<br>To address this, CareCompass:
-<br>1. Displays 3 top, personalised recommendations on topics including care
-services and support based on caregivers’ stated preferences
-<br>2. Features a conversational chatbot trained on publicly available resources
-from trusted partners (e.g. Dementia Singapore, AIC) for interactive, instant
-guidance on topics outside of the recommenders above
-<br>3. Will close the loop with community touchpoints (e.g. Community Outreach
-Teams (CREST)) for caregivers desiring to speak with a professional for
-further advice</p>
-<p></p>
+care.</p>
+<p>Read more about CareCompass' problem statement &amp; solution <a href="/carecompass/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong>Try out CareCompass <a href="https://my.carecompass.sg/auth" rel="noopener nofollow" target="_blank">here</a>!</strong>
 </p>
 <p></p>
