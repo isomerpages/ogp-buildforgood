@@ -31,7 +31,7 @@ sections:
       button: view accelerator teams
       url: /accelerator/
       image: /images/BFG24.gif
-      alt: Build for Good projects
+      alt: Build for Good Accelerator
       subtitle: Oct - Nov 2024
   - infopic:
       title: Build for Good Environment
