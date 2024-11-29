@@ -64,33 +64,25 @@ could be useful but results may be too generic.
 <br>
 <br>
 <br><strong>Problem statement </strong>
-<br>Caregivers of elderly with dementia need to search for and sift through
-multiple sources of information to make good care decisions when their
-loved ones require informal care. This results in a disproportionate amount
-of stress and time spent searching for and evaluating information because
-there is no single source of trusted, curated advice on next steps they
-should take for their care recipient’s needs.</p>
+<br>New family caregivers of dementia patients are often overwhelmed by the
+many decisions they have to make for their loved ones and the strain on
+their own mental/emotional health. While caregivers may receive some support
+from hospitals at point of diagnosis, there remains a gap for caregivers
+who search for help in community settings.</p>
 <h4>Proposed Solution</h4>
-<p>We aim to develop a centralised platform with a conversational chat interface
-that takes in user input about the needs of their care recipients and pulls
-resources from trusted websites (e.g. DementiaSG, Agency for Integrated
-Care) that are regularly maintained. The output would be a set of personalised,
-step by step recommendations to help caregivers formulate their care plans.
-The chat interface would provide an alternative search experience that
-is like talking to a trusted friend instead of clicking through websites.
-The personalisation and organisation of plans would also help overcome
-the genericity of current online information, increasing the utility of
-outputs.
+<p>For new family caregivers of patients with dementia, CareCompass is a
+personalised care navigator that facilitates quicker, less stressful day-to-day
+care.
 <br>
-<br><strong>Impact</strong>
-<br>- Reduction in time caregivers spend searching for information (and hence
-working hours saved, $ saved)
-<br>- Reduction in stress in the search experience
-<br>- Additional resource for clinics / social workers to better help patients
-and caregivers
-<br>- Increase visibility and adoption of resources for community partners
-<br>
-</p>
+<br><strong>To address this, CareCompass:</strong>
+<br>1. Displays 3 top, personalised recommendations on topics including care
+services and support based on caregivers’ stated preferences
+<br>2. Features a conversational chatbot trained on publicly available resources
+from trusted partners (e.g. Dementia Singapore, AIC) for interactive, instant
+guidance on topics outside of the recommenders above
+<br>3. Will close the loop with community touchpoints (e.g. Community Outreach
+Teams (CREST)) for caregivers desiring to speak with a professional for
+further advice</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/A2_Poster_final_CareInfo_.png">
