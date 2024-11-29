@@ -52,7 +52,7 @@ their thoughts clearly, with data-driven insights into their progress.
 Key features include AI-powered prompts for deeper emotional exploration
 and auto-generated, shareable summaries that extract key insights, making
 it easier for users to reflect and share their journeys.</p>
-<p>Read more about EBI' problem statement &amp; solution <a href="/ebi/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Read more about EBI's problem statement &amp; solution <a href="/ebi/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <blockquote>
 <p><strong>Try out EBI <a href="https://app.ebi.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>!</strong>
 </p>
