@@ -2,7 +2,6 @@ collections:
   bfg-2024:
     output: true
     order:
-      - BFG 2024.md
       - About BFG 2024.md
       - Hackathon Projects/.keep
       - Hackathon Projects/Pear (Education).md
