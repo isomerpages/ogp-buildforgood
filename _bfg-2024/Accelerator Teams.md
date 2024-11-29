@@ -27,8 +27,10 @@ senior loneliness.
 facilitated 10 senior visits by 20 volunteers, and consolidated data on
 overall senior wellbeing for the AAC to monitor.</p>
 <p></p>
-<p><strong>Sign up to be a Kaypoh (volunteer) <a href="https://letskaypoh.org/" rel="noopener nofollow" target="_blank">here</a>!</strong>
+<blockquote>
+<p><strong>Sign up as a Kaypoh (volunteer) <a href="https://letskaypoh.org/" rel="noopener nofollow" target="_blank">here</a>!</strong>
 </p>
+</blockquote>
 <p></p>
 <h4>OhmSweetOhm</h4>
 <div class="isomer-image-wrapper">
@@ -40,8 +42,10 @@ your mobile phone or computer!</p>
 <p>With actionable insights, OhmSweetOhm empowers you to make smart choices
 to reduce energy use and save on your bills.</p>
 <p></p>
+<blockquote>
 <p><strong>Try out OhmSweetOhm </strong><a href="https://www.ohmsweetohm.sg/" rel="noopener nofollow" target="_blank">here</a><strong>!</strong>
 </p>
+</blockquote>
 <h4>EBI (Emotional Baggage Interface)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frame_427318284.png">
@@ -50,22 +54,22 @@ to reduce energy use and save on your bills.</p>
 their thoughts clearly, with data-driven insights into their progress.
 Key features include AI-powered prompts for deeper emotional exploration
 and auto-generated, shareable summaries that extract key insights, making
-it easier for users to reflect and share their journeys.
-<br>
-<br>Ultimately, we aspire to be a community where anyone seeking mental health
-support feels at home. Our mission goes beyond journaling — we aim to raise
-mental health awareness and foster well-being for everyone.</p>
+it easier for users to reflect and share their journeys.</p>
 <p></p>
+<blockquote>
 <p><strong>Try out EBI <a href="https://app.ebi.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>!</strong>
 </p>
+</blockquote>
 <p></p>
 <h4>CareCompass</h4>
 <p>For new family caregivers of patients with dementia, CareCompass is a
 personalised care navigator that facilitates quicker, less stressful day-to-day
 care.</p>
 <p>Read more about CareCompass' problem statement &amp; solution <a href="/carecompass/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<blockquote>
 <p><strong>Try out CareCompass <a href="https://my.carecompass.sg/auth" rel="noopener nofollow" target="_blank">here</a>!</strong>
 </p>
+</blockquote>
 <p></p>
 <h4>GymLah</h4>
 <p></p>
