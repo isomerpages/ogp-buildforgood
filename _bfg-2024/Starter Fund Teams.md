@@ -42,13 +42,14 @@ seamlessly digitizing visitation records. By leveraging AI, the application
 equips staff and volunteers with contextual knowledge about seniors before
 visits, generates dynamic, personalized questions to enhance engagement
 during or after visits, and provides managers with a comprehensive overview
-of visitation activities. Additionally, it offers actionable insights for
-timely interventions in critical situations. Through this tool, we aim
-to empower AACs to preserve the invaluable human touch in their services,
-blending traditional house visits with the efficiency and precision of
-digital technology, ensuring these seniors receive the attentive and tailored
-support they deserve in this digital age while streamlining the AACs’ operations
-and easing their workload.&nbsp;</p>
+of visitation activities.</p>
+<p>Additionally, it offers actionable insights for timely interventions in
+critical situations. Through this tool, we aim to empower AACs to preserve
+the invaluable human touch in their services, blending traditional house
+visits with the efficiency and precision of digital technology, ensuring
+these seniors receive the attentive and tailored support they deserve in
+this digital age while streamlining the AACs’ operations and easing their
+workload.&nbsp;</p>
 <p>Check out Ho Seh Bo's problem statement &amp; solution <a href="/ho-seh-bo/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 <h4>Foodchain (health &amp; wellbeing)</h4>
