@@ -35,13 +35,21 @@ of young people aged 15 to 35 experience persistent feelings of emptiness,
 tension, or distress, underscoring the growing national priority on mental
 health. Recognizing the importance of mental well-being for a functional
 society, EBI addresses key challenges faced by three user personas:</p>
-<p>1. Therapy users frustrated by repeating their stories when switching
-providers or tracking progress.</p>
-<p>2. Regular journalers who struggle to explore emotions or gain new perspectives.</p>
-<p>3. Individuals dealing with significant life events, seeking ways to manage
+<ol data-tight="true" class="tight">
+<li>
+<p>Therapy users frustrated by repeating their stories when switching providers
+or tracking progress.</p>
+</li>
+<li>
+<p>Regular journalers who struggle to explore emotions or gain new perspectives.</p>
+</li>
+<li>
+<p>Individuals dealing with significant life events, seeking ways to manage
 overwhelming feelings.
 <br>
 </p>
+</li>
+</ol>
 <h4>Proposed Solution</h4>
 <p>EBI is a journaling app designed to help users explore and communicate
 their thoughts clearly, with data-driven insights into their progress.
