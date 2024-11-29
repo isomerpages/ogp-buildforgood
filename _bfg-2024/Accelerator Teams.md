@@ -21,11 +21,7 @@ and launch them with real users.
 <p>Let's Kaypoh is a platform that rallies the community to discover and
 check-in on nearby socially isolated elderly, reducing the reliance of
 senior monitoring on AACs and befriender organisations, and decreasing
-senior loneliness.
-<br>
-<br>Through a pilot conducted with SASCO West Coast AAC, Let's Kaypoh has
-facilitated 10 senior visits by 20 volunteers, and consolidated data on
-overall senior wellbeing for the AAC to monitor.</p>
+senior loneliness.</p>
 <p>Read more about CareCompass' problem statement &amp; solution <a href="/lets-kaypoh/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <blockquote>
 <p><strong>Sign up as a Kaypoh (volunteer) <a href="https://letskaypoh.org/" rel="noopener nofollow" target="_blank">here</a>!</strong>
