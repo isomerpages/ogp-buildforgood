@@ -24,6 +24,8 @@ to our natural environment.</p>
 <p>Through a pilot conducted with NParks covering 170 hectares at Bukit Timah
 Nature Reserve, Koel has trained the model to recognise 10 bird species
 and demonstrated a 20x decrease in time taken to analyse bird recording.</p>
+<p><strong>Check out Koel <a href="https://www.koel.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>!</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC_9905.jpg">
@@ -47,6 +49,8 @@ users and translates them into actionable insights for key stakeholders
 <p>Through a pilot with Koufu at 2 coffeeshops and 1 food court, ReportLah!
 collected 216 pieces of feedback from toilet users in 9 days, synthesising
 key actionable insights for stakeholders to review.</p>
+<p><strong>Find out more about ReportLah <a href="https://www.instagram.com/thereportlah/" rel="noopener noreferrer nofollow" target="_blank">here</a>!</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC_9898.jpg">
 </div>
@@ -57,6 +61,8 @@ to other healthcare providers with less priviledged recipients.</p>
 RemediSG successfully facilitated 5 donor-recipient matches, distributing
 S$500 worth of medication which would otherwise have gone to waste, and
 abated 10kg worth of CO2 emissions.</p>
+<p><strong>Check out RemediSG <a href="https://www.remedisg.com/" rel="noopener noreferrer nofollow" target="_blank">here</a>!</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC_9894.jpg">
 </div>
