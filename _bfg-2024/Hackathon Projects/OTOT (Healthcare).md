@@ -80,7 +80,11 @@ face gym anxiety.&nbsp;
 </p>
 </li>
 </ol>
+<blockquote>
+<p>Try out OTOT <a href="https://legs-day.vercel.app/" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OTOT.png">
 </div>
+<p></p>
 <p></p>
