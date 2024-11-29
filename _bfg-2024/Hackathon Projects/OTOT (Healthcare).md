@@ -35,58 +35,51 @@ fitness app.</p>
 </ul>
 <p></p>
 <h4>Problem Statement</h4>
-<p>Singapore's healthcare sector faces increasing demands and costs with
-limited resources. To address this challenge, we aim to engage in preventive
-healthcare through promoting wellness. However, while Singapore’s physical
-activity engagement has increased to 78.5% in 2023, only one-third (33.7%)
-of the population performs sufficient muscle-strengthening activities (National
-Population Health Survey 2023).
+<p>Singapore faces a critical health challenge; while physical activity engagement
+has increased to 78.5% in 2023, only one-third (33.7%) of the population
+performs sufficient muscle-strengthening activities (<a href="https://www.moh.gov.sg/docs/librariesprovider5/resources-statistics/reports/national-population-health-survey-2023-report.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>National Population Health Survey 2023</u></a>).
+This issue is particularly evident in adults over 30 and amongst females.
+The lack of muscle-strengthening activities correlates strongly with increased
+chronic disease risks, making this a significant public health concern.
 <br>
-<br>Of these users, we discovered that working adults who intend to start
-their muscle-strengthening training activities are hesitant to participate
-as they are overwhelmed by the exercises or programs and have general misconceptions
-towards the activities. As a result, this prevents individuals from participating
-in any muscle strengthening activities, reducing their overall quality
-of health.
+</p>
+<p>Common barriers include (1) gym anxiety, especially among beginners and
+specific demographics (2) lack of proper guidance without costly personal
+training (3) difficulty finding compatible workout partners. These factors
+contribute to low participation rates despite the known health benefits
+of strength training.
 <br>
 </p>
 <h4>Proposed Solution</h4>
-<p>We plan to develop a simple fitness app solution targeted at working adults
-looking to start their muscle strengthening journey. The app will feature
-a simplified interface that recommends short and attainable workout programs
-while also educating users on various misconceptions on muscle-strengthening
-activities. Our solution aims to help users feel more assured and to familiarize
-themselves with workouts, develop habits, and maintain consistency so they
-will be inclined to progress and participate in the activities. Recommended
-exercises and programs will utilise the Health Promotion Board (HPB) guidelines
-as guidance.
-<br><strong><br><u>Key features</u></strong>
-<br>
-<br><strong>Curated Workouts Programs:</strong>
-<br>- Users will be provided a personalised workout program based on their
-inputs with step-by-step guidance on resistance training.
-<br>- These programs are designed to be beginner-friendly and will educate
-users on proper techniques in a digestible format.
-<br>- This approach helps users to gain confidence and kickstarting their
-muscle strengthening journey for a lifelong health.
-<br>
-<br><strong>Educational Digital Library</strong>
-<br>- Users will be greeted with a digital library that neatly categorises
-videos and articles on resistance training
-<br>- The library will contain short how-to guides, videos and articles to
-address common questions and misconceptions asked from starting resistance
-training.
-<br>- The library acts as a resource for users to reference to understand
-how resistance training can benefit their health and potentially receive
-updated from HPB
-<br>
-<br><strong>Motivational Reminders</strong>
-<br>- Thoroughout key points in the app, we will place encouragements and
-motivational reminders to engage users and drive repeat engagements
-<br>- Some features include a fitness weekly log, streaks and post-program
-reviews
+<p>OTOT is a community-led workout buddy finder that allows users to discover
+nearby workout partners and create a safe and inclusive space for users
+to exercise together. The platform leverages peer-to-peer community support,
+where users motivate and learn from one another creating sustainable fitness
+habits.
 <br>
 </p>
+<p><strong>Core Features</strong>
+</p>
+<ol>
+<li>
+<p><strong>Buddy Finder Map Interface: </strong>Users are able to identify
+nearby workout partners through a map interface and connect with compatible
+workout partners based on proficiency level, schedule, and preferences.
+Real-time availability tracking and in-app chat facilitate seamless coordination.</p>
+</li>
+<li>
+<p><strong>Workout sessions: </strong>Users access pre-populated workout
+suggestions based on the meetup location. This ensures proper progression
+while allowing users to be flexible in their workouts of choice.</p>
+</li>
+<li>
+<p><strong>Inclusive Communities: </strong>The platform creates dedicated
+safe spaces especially for demographics like females and seniors who typically
+face gym anxiety.&nbsp;
+<br>
+</p>
+</li>
+</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OTOT.png">
 </div>
