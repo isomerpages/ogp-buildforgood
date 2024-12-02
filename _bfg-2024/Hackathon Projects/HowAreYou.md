@@ -6,6 +6,9 @@ description: ""
 third_nav_title: Hackathon Projects
 ---
 <h4><strong>Supporting Seniors </strong>- Empowering communities to care for seniors</h4>
+<p><strong>Note: </strong>The team later pivoted to work on a different problem
+statement &amp; solution (<a href="/gymlah/" rel="noopener nofollow" target="_blank">GymLah</a>)
+during the accelerator phase.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AccessBridge__1_.jpg">
 </div>
@@ -107,8 +110,6 @@ approach to supporting high-risk elderly individuals.
 <br>
 <br>
 </p>
-<p><strong>Note: </strong>The team later pivoted to work on a different problem
-statement &amp; solution (<a href="/gymlah/" rel="noopener nofollow" target="_blank">GymLah</a>)
-during the accelerator phase.
+<p>
 <br>
 </p>
