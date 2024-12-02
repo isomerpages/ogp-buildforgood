@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - About BFG 2024.md
-      - Hackathon Projects/HowAreYou.md
+      - Hackathon Projects/HowAreYou (Eldercare).md
       - Hackathon Projects/.keep
       - Hackathon Projects/Pear (Education).md
       - Hackathon Projects/CareerQuest (Education).md
