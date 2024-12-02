@@ -106,5 +106,9 @@ technology, and real-time GPS data. It ensures a more connected and responsive
 approach to supporting high-risk elderly individuals.
 <br>
 <br>
+</p>
+<p><strong>Note: </strong>The team later pivoted to work on a different problem
+statement &amp; solution (<a href="/gymlah/" rel="noopener nofollow" target="_blank">GymLah</a>)
+during the accelerator phase.
 <br>
 </p>
