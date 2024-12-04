@@ -13,14 +13,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Hero_Banner.png
-  - infobar:
-      id: infobar
-      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
-        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-        web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/QFk5qR8kb7Q?si=HrEpB16FVHCJWebv"
-        height="315" width="100%"></iframe>
-      subtitle: BFG 2024 accelerator recap
   - infopic:
       title: Build for Good Accelerator
       id: infopic
@@ -40,4 +32,12 @@ sections:
       alt: Image alt text
       image: /images/BFG24.gif
       subtitle: Aug - Sep 2024
+  - infobar:
+      id: infobar
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/QFk5qR8kb7Q?si=HrEpB16FVHCJWebv"
+        height="315" width="100%"></iframe>
+      subtitle: BFG 2024 accelerator recap
 ---
