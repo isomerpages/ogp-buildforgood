@@ -34,13 +34,14 @@ sections:
       alt: Build for Good Accelerator
       subtitle: Oct - Nov 2024
   - infopic:
-      title: Build for Good Environment
-      description: 80 builders, 19 innovative solutions for a greener Singapore.
-      button: see recap
-      url: /bfg-environment/
+      title: Build for Good Hackathon
+      description: 100 builders, 21 innovative solutions tackling issues such as
+        eldercare, healthcare, and sustainability.
+      button: see projects
+      url: /bfg2024/
       alt: Image alt text
-      image: /images/BFG_GIF__1_.gif
-      subtitle: May - Jun 2024
+      image: /images/BFG24.gif
+      subtitle: Aug - Sep 2024
   - infobar:
       id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
