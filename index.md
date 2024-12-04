@@ -13,16 +13,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Hero_Banner.png
-      key_highlights:
-        - title: In Collaboration with
-          description: SG Gov Partnerships Office
-          url: /bfg2024
-        - title: Happening on
-          description: 28 AUG — 28 SEP 2024
-          url: /builder
-        - title: funding of up to
-          description: $20,000
-          url: /accelerator-funding/
   - infopic:
       title: Build for Good Accelerator
       id: infopic
