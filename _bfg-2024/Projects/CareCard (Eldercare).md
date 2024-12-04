@@ -60,12 +60,13 @@ beneficiaries
 <br>- Allow organisations to seek help from other volunteers to help with
 urgent tasks</p>
 <p></p>
-<p>&lt;a href="mailto:thecarecard@gmail.com"&gt;</p>
-<p>&lt;button class="bp-button is-secondary is-medium has-text-white is-uppercase
-search-button"&gt;</p>
-<p>Contact Team</p>
-<p>&lt;/button&gt;</p>
-<p>&lt;/a&gt;</p>
+
+<a href="mailto:thecarecard@gmail.com">
+    <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
+        Contact Team
+    </button>
+</a>
+
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Care_Card.png">
 </div>
