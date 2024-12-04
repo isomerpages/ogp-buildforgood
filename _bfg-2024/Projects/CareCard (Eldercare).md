@@ -63,7 +63,11 @@ urgent tasks</p>
 <p>&lt;a href="<a href="mailto:thecarecard@gmail.com" rel="noopener nofollow" target="_blank">mailto:thecarecard@gmail.com</a>"&gt;&lt;button
 class="bp-button is-secondary is-medium has-text-white is-uppercase search-button"&gt;
 Contact team &lt;/button&gt; &lt;/a&gt;</p>
-<p></p>
+<p>&lt;button class="bp-button is-secondary is-medium has-text-white is-uppercase
+search-button"&gt; Contact team &lt;/button&gt;</p>
+<p>&lt;a href="https://www.google.com"&gt;hello &lt;/a&gt;</p>
+<p>&lt;a href="mailto:<a href="mailto:thecarecard@gmail.com" rel="noopener noreferrer nofollow" target="_blank">thecarecard@gmail.com</a>"&gt;hello
+mailto&lt;/a&gt;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Care_Card.png">
 </div>
