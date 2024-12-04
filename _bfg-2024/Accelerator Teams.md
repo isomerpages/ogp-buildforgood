@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QFk5qR8kb7Q?si=HrEpB16FVHCJWebv"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QFk5qR8kb7Q?si=HrEpB16FVHCJWebv"></iframe>
 </div>
 <h3><strong>Build for Good Accelerator</strong></h3>
 <p>Following the hackathon, 5 teams moved on to an 8-week accelerator programme
