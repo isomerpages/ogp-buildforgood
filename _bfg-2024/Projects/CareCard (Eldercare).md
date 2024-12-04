@@ -60,6 +60,11 @@ beneficiaries
 <br>- Allow organisations to seek help from other volunteers to help with
 urgent tasks</p>
 <p></p>
+<p>&lt;a href="<a href="https://form.gov.sg/65e834286bd31a821726d281" rel="noopener noreferrer nofollow" target="_blank">mailto:</a>
+<a href="mailto:thecarecard@gmail.com" rel="noopener noreferrer nofollow" target="_blank">thecarecard@gmail.com</a>"&gt; &lt;button class="bp-button is-secondary
+is-medium has-text-white is-uppercase search-button"&gt; Contact team &lt;/button&gt;
+&lt;/a&gt;</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Care_Card.png">
 </div>
