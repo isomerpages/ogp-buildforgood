@@ -37,7 +37,7 @@ sections:
       title: Build for Good Hackathon
       description: 100 builders, 21 innovative solutions tackling issues such as
         eldercare, healthcare, and sustainability.
-      button: see projects
+      button: learn more
       url: /bfg2024/
       alt: Image alt text
       image: /images/BFG24.gif
