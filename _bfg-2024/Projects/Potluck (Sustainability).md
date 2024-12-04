@@ -76,7 +76,13 @@ Waste Masterplan targets.</p>
 <blockquote>
 <p>Check out Potluck <a href="https://potluck.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 </blockquote>
-<p></p>
+<p>
+	<a href="mailto:contact@potluck.sg">
+    <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
+        Contact Team
+    </button>
+</a>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Potluck_Pitch_Infographic.png">
 </div>
