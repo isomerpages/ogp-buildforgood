@@ -20,7 +20,7 @@ sections:
         phase to further develop and launch their solutions.
       button: learn more
       url: /accelerator/
-      image: /images/BFG24.gif
+      image: /images/BFG24_Accelerator.gif
       alt: Build for Good Accelerator
       subtitle: Oct - Nov 2024
   - infopic:
