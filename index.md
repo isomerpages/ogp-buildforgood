@@ -46,7 +46,7 @@ sections:
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/WFIf2AhWJ9M?si=0jiFMwlCiGy-TMC_"
+        src="https://www.youtube.com/embed/QFk5qR8kb7Q?si=HrEpB16FVHCJWebv"
         height="315" width="100%"></iframe>
-      subtitle: BFG 2024 hackathon recap
+      subtitle: BFG 2024 accelerator recap
 ---
