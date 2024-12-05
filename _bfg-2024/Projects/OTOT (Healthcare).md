@@ -86,5 +86,11 @@ face gym anxiety.&nbsp;
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OTOT.png">
 </div>
-<p></p>
+<p>
+	<a href="mailto:mervynchua01@gmail.com">
+    <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
+        Contact Team
+    </button>
+</a>
+</p>
 <p></p>
