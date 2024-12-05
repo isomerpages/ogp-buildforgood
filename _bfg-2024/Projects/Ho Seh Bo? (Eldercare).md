@@ -1,9 +1,9 @@
 ---
 title: Ho Seh Bo? (Eldercare)
 permalink: /ho-seh-bo/
-variant: tiptap
+variant: markdown
 description: ""
-third_nav_title: Hackathon Projects
+third_nav_title: Projects
 ---
 <h4><strong>Supporting Seniors </strong>- Empowering AAC Volunteers</h4>
 <div class="isomer-image-wrapper">
@@ -61,7 +61,14 @@ and precision of digital technology, ensuring these seniors receive the
 attentive and tailored support they deserve in this digital age while streamlining
 the AACs’ operations and easing their workload.
 <br>
-</p>
+	</p>
+	<a href="mailto:hosehbo.team@gmail.com">
+    <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
+        Contact Team
+    </button>
+</a>
+	
+
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographic___Finale__For_Sharing_.png">
 </div>

@@ -1,9 +1,9 @@
 ---
 title: (re)store (Sustainability)
 permalink: /restore/
-variant: tiptap
+variant: markdown
 description: ""
-third_nav_title: Hackathon Projects
+third_nav_title: Projects
 ---
 <h4><strong>Environment &amp; Sustainability</strong> - Encouraging eco-consumption</h4>
 <div class="isomer-image-wrapper">
@@ -76,7 +76,14 @@ is to nudge them towards being greener and wanting to offer greener alternatives
 in their business! For a start, our website links out to the platform/merchant
 where users can buy the eco-product (while we monitor if there’s strong
 reason/demand to let users to buy via our site).</p>
-<p></p>
+<p>
+<a href="mailto:joycelynchua11@gmail.com">
+    <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
+        Contact Team
+    </button>
+</a>
+
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/re_store.png">
 </div>

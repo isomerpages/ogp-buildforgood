@@ -3,7 +3,7 @@ title: GymLah (Eldercare)
 permalink: /gymlah/
 variant: tiptap
 description: ""
-third_nav_title: Hackathon Projects
+third_nav_title: Projects
 ---
 <h4><strong>Supporting Seniors </strong>- Empowering seniors to stay fit</h4>
 <div class="isomer-image-wrapper">

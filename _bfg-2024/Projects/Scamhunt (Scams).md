@@ -1,9 +1,9 @@
 ---
 title: Scamhunt (Scams)
 permalink: /scamhunt/
-variant: tiptap
+variant: markdown
 description: ""
-third_nav_title: Hackathon Projects
+third_nav_title: Projects
 ---
 <h4><strong>Safety &amp; Security</strong> - Social media scams</h4>
 <div class="isomer-image-wrapper">
@@ -131,4 +131,10 @@ the Admin platform and view the data we collect</p>
 <blockquote>
 <p>Check out Scamhunt <a href="https://scamhunt.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 </blockquote>
-<p></p>
+<p>
+	<a href="mailto:scamhunt.sg@gmail.com">
+    <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
+        Contact Team
+    </button>
+</a>
+</p>

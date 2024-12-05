@@ -3,29 +3,29 @@ collections:
     output: true
     order:
       - About BFG 2024.md
-      - Hackathon Projects/.keep
-      - Hackathon Projects/Pear (Education).md
-      - Hackathon Projects/CareerQuest (Education).md
-      - Hackathon Projects/Ho Seh Bo? (Eldercare).md
-      - Hackathon Projects/Heart Beat (Eldercare).md
-      - Hackathon Projects/GymLah (Eldercare).md
-      - Hackathon Projects/SilverPals (Eldercare).md
-      - Hackathon Projects/Birdhouse (Eldercare).md
-      - Hackathon Projects/Let's Kaypoh (Eldercare).md
-      - Hackathon Projects/CareCard (Eldercare).md
-      - Hackathon Projects/HowAreYou (Eldercare).md
-      - Hackathon Projects/Foodchain (Healthcare).md
-      - Hackathon Projects/OTOT (Healthcare).md
-      - Hackathon Projects/CareCompass (Healthcare).md
-      - Hackathon Projects/EBI, Emotional Baggage Interface (Mental Health).md
-      - Hackathon Projects/(re)store (Sustainability).md
-      - Hackathon Projects/GroupUp (Sustainability).md
-      - Hackathon Projects/Potluck (Sustainability).md
-      - Hackathon Projects/OhmSweetOhm (Sustainability).md
-      - Hackathon Projects/have anot? (Accessibility).md
-      - Hackathon Projects/Living@SG (Accessibility).md
-      - Hackathon Projects/Scamhunt (Scams).md
-      - Hackathon Projects/Good Goods (Supporting Social Enterprises).md
+      - Projects/.keep
+      - Projects/Pear (Education).md
+      - Projects/CareerQuest (Education).md
+      - Projects/Ho Seh Bo? (Eldercare).md
+      - Projects/Heart Beat (Eldercare).md
+      - Projects/GymLah (Eldercare).md
+      - Projects/SilverPals (Eldercare).md
+      - Projects/Birdhouse (Eldercare).md
+      - Projects/Let's Kaypoh (Eldercare).md
+      - Projects/CareCard (Eldercare).md
+      - Projects/HowAreYou (Eldercare).md
+      - Projects/Foodchain (Healthcare).md
+      - Projects/OTOT (Healthcare).md
+      - Projects/CareCompass (Healthcare).md
+      - Projects/EBI, Emotional Baggage Interface (Mental Health).md
+      - Projects/(re)store (Sustainability).md
+      - Projects/GroupUp (Sustainability).md
+      - Projects/Potluck (Sustainability).md
+      - Projects/OhmSweetOhm (Sustainability).md
+      - Projects/have anot? (Accessibility).md
+      - Projects/Living@SG (Accessibility).md
+      - Projects/Scamhunt (Scams).md
+      - Projects/Good Goods (Supporting Social Enterprises).md
       - Accelerator Teams.md
       - Starter Fund Teams.md
       - Terms & Conditions.md

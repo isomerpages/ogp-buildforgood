@@ -13,16 +13,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Hero_Banner.png
-      key_highlights:
-        - title: In Collaboration with
-          description: SG Gov Partnerships Office
-          url: /bfg2024
-        - title: Happening on
-          description: 28 AUG — 28 SEP 2024
-          url: /builder
-        - title: funding of up to
-          description: $20,000
-          url: /accelerator-funding/
   - infopic:
       title: Build for Good Accelerator
       id: infopic
@@ -30,23 +20,24 @@ sections:
         phase to further develop and launch their solutions.
       button: learn more
       url: /accelerator/
-      image: /images/BFG24.gif
+      image: /images/BFG24_Accelerator.gif
       alt: Build for Good Accelerator
       subtitle: Oct - Nov 2024
   - infopic:
-      title: Build for Good Environment
-      description: 80 builders, 19 innovative solutions for a greener Singapore.
-      button: see recap
-      url: /bfg-environment/
+      title: Build for Good Hackathon
+      description: 100 builders, 21 innovative solutions tackling issues such as
+        eldercare, healthcare, and sustainability.
+      button: learn more
+      url: /bfg2024/
       alt: Image alt text
-      image: /images/BFG_GIF__1_.gif
-      subtitle: May - Jun 2024
+      image: /images/BFG24.gif
+      subtitle: Aug - Sep 2024
   - infobar:
       id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/WFIf2AhWJ9M?si=0jiFMwlCiGy-TMC_"
+        src="https://www.youtube.com/embed/QFk5qR8kb7Q?si=HrEpB16FVHCJWebv"
         height="315" width="100%"></iframe>
-      subtitle: BFG 2024 hackathon recap
+      subtitle: BFG 2024 accelerator recap
 ---

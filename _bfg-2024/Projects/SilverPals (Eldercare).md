@@ -3,7 +3,7 @@ title: SilverPals (Eldercare)
 permalink: /silverpals/
 variant: tiptap
 description: ""
-third_nav_title: Hackathon Projects
+third_nav_title: Projects
 ---
 <h4><strong>Supporting Seniors </strong>- Encouraging active participation among male seniors</h4>
 <div class="isomer-image-wrapper">

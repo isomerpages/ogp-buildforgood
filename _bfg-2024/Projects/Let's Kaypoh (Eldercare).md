@@ -3,7 +3,7 @@ title: Let's Kaypoh (Eldercare)
 permalink: /lets-kaypoh/
 variant: tiptap
 description: ""
-third_nav_title: Hackathon Projects
+third_nav_title: Projects
 ---
 <h4><strong>Supporting Seniors </strong>- Socially isolated seniors</h4>
 <div class="isomer-image-wrapper">

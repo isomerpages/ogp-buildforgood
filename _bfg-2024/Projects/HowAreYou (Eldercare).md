@@ -3,7 +3,7 @@ title: HowAreYou (Eldercare)
 permalink: /howareyou/
 variant: tiptap
 description: ""
-third_nav_title: Hackathon Projects
+third_nav_title: Projects
 ---
 <h4><strong>Supporting Seniors </strong>- Empowering communities to care for seniors</h4>
 <p><strong>Note: </strong>The team later pivoted to work on a different problem

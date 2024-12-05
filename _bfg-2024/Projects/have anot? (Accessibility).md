@@ -1,9 +1,9 @@
 ---
 title: have anot? (Accessibility)
 permalink: /have-anot/
-variant: tiptap
+variant: markdown
 description: ""
-third_nav_title: Hackathon Projects
+third_nav_title: Projects
 ---
 <h4><strong>Digital Inclusion &amp; Accessibility</strong> - Discoverability of Government Products</h4>
 <div class="isomer-image-wrapper">
@@ -52,4 +52,10 @@ enhancing their ability to serve citizens more effectively and efficiently.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/have_anot.png">
 </div>
-<p></p>
+<p>
+	<a href="mailto:haveanot.sg@gmail.com">
+    <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
+        Contact Team
+    </button>
+</a>
+</p>

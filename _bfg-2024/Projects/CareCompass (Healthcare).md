@@ -3,7 +3,7 @@ title: CareCompass (Healthcare)
 permalink: /carecompass/
 variant: tiptap
 description: ""
-third_nav_title: Hackathon Projects
+third_nav_title: Projects
 ---
 <h4><strong>Health &amp; Wellbeing</strong> - Empowering Caregivers</h4>
 <div class="isomer-image-wrapper">

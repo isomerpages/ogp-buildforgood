@@ -1,9 +1,9 @@
 ---
 title: CareCard (Eldercare)
 permalink: /carecard/
-variant: tiptap
+variant: markdown
 description: ""
-third_nav_title: Hackathon Projects
+third_nav_title: Projects
 ---
 <h4><strong>Supporting Seniors </strong>- Connecting Eldercare Organisations</h4>
 <div class="isomer-image-wrapper">
@@ -60,6 +60,13 @@ beneficiaries
 <br>- Allow organisations to seek help from other volunteers to help with
 urgent tasks</p>
 <p></p>
+
+<a href="mailto:thecarecard@gmail.com">
+    <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
+        Contact Team
+    </button>
+</a>
+
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Care_Card.png">
 </div>
