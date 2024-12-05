@@ -131,4 +131,10 @@ the Admin platform and view the data we collect</p>
 <blockquote>
 <p>Check out Scamhunt <a href="https://scamhunt.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 </blockquote>
-<p></p>
+<p>
+	<a href="mailto:scamhunt.sg@gmail.com">
+    <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
+        Contact Team
+    </button>
+</a>
+</p>
