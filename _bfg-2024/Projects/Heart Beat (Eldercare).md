@@ -49,7 +49,7 @@ to grow with users’ needs, HeartBeat is making it easier for families and
 communities to care for their elderly loved ones.</p>
 
 <p>
-<a href="mailto:hosehbo.team@gmail.com">
+<a href="mailto:heartbeatbfg@gmail.com">
 	<button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
 			Contact Team
 	</button>
