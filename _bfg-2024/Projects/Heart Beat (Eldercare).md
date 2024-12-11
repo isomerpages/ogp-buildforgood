@@ -1,7 +1,7 @@
 ---
 title: Heart Beat (Eldercare)
 permalink: /heart-beat/
-variant: tiptap
+variant: markdown
 description: ""
 third_nav_title: Projects
 ---
@@ -47,6 +47,15 @@ ones are always in the loop. It also creates a daily habit that gives seniors
 a sense of security and connection. With its practical design and ability
 to grow with users’ needs, HeartBeat is making it easier for families and
 communities to care for their elderly loved ones.</p>
+
+<p>
+<a href="mailto:heartbeatbfg@gmail.com">
+	<button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
+			Contact Team
+	</button>
+</a>
+	</p>
+
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Heart_Beat.png">
 </div>
