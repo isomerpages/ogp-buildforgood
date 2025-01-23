@@ -44,8 +44,8 @@ social media scam</p>
 discoverability of government digital solutions</p>
 </li>
 <li>
-<p><a href="/otot/" rel="noopener nofollow" target="_blank">OTOT</a> - health
-&amp; wellbeing</p>
+<p><a href="/workoutkakis/" rel="noopener nofollow" target="_blank">WorkoutKakis</a> -
+health &amp; wellbeing</p>
 </li>
 <li>
 <p><a href="/foodchain/" rel="noopener nofollow" target="_blank">Foodchain</a> -
