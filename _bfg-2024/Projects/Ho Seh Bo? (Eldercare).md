@@ -67,7 +67,6 @@ the AACs’ operations and easing their workload.
         Contact Team
     </button>
 </a>
-	
 
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographic___Finale__For_Sharing_.png">
