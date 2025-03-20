@@ -14,6 +14,17 @@ sections:
   - hero:
       background: /images/Hero_Banner.png
   - infopic:
+      title: Community Hackathon
+      subtitle: we are back!
+      id: infopic
+      description: This year, we are organising the Community Hackathon with the
+        People's Association to crowdsource tech solutions that address
+        community challenges.
+      button: find out more
+      url: https://community-hackathon.gov.sg
+      image: /images/CH_Website_Banner.png
+      alt: Image alt text
+  - infopic:
       title: Build for Good Accelerator
       id: infopic
       description: After the hackathon concluded, 5 teams advanced to the accelerator
