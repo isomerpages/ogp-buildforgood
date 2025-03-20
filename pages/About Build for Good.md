@@ -14,7 +14,9 @@ We want to build a space where people feel empowered and inspired to make our wo
 
 #### Build for Good hackathon and accelerator
 
-Build for Good runs month-long citizen hackathons where teams will choose a public good problem to work on, identify solutions, build prototypes, and test them with users. They will be provided the necessary support through their journey such as domain expertise, mentorship, workshops and resources. At the finale, teams will present their solutions to government leaders and industry experts. Winning teams will receive funding and go through a 8-week accelerator to further develop their products, and potentially launch them with real users. 
+Build for Good runs month-long citizen hackathons where teams will choose a public good problem to work on, identify solutions, build prototypes, and test them with users. They will be provided the necessary support through their journey such as domain expertise, mentorship, workshops and resources. At the finale, teams will present their solutions to government leaders and industry experts. 
+
+Winning teams will receive funding and go through a 8-week accelerator to further develop their products, and potentially launch them with real users. The accelerator programme will focus on imparting skills, knowledge and networks essential for scaling solutions through sustained growth, and launch them with real users.
 
 To date, we have organised three Build for Good hackathons - engaging a total of 240 builders who built 52 impactful solutions for public good. Check out the highlights of our past Build for Good hackathons [here]([resource:43:40631]).
 
