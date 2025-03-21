@@ -2,7 +2,6 @@ collections:
   past-projects:
     output: true
     order:
-      - BFG 2024 Projects.md
       - BFG Environment Projects/.keep
       - BFG Environment Projects/Bloo.md
       - BFG Environment Projects/CleanSlate.md
