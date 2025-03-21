@@ -2,6 +2,7 @@ collections:
   past-projects:
     output: true
     order:
+      - BFG 2024/WorkoutKakis (Healthcare).md
       - BFG 2024/Foodchain (Healthcare).md
       - BFG 2024/HowAreYou (Eldercare).md
       - BFG 2024/CareCard (Eldercare).md
