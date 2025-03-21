@@ -2,6 +2,7 @@ collections:
   past-projects:
     output: true
     order:
+      - BFG 2024/have anot? (Accessibility).md
       - BFG 2024/OhmSweetOhm (Sustainability).md
       - BFG 2024/Potluck (Sustainability).md
       - BFG 2024/GroupUp (Sustainability).md
