@@ -2,6 +2,7 @@ collections:
   past-projects:
     output: true
     order:
+      - BFG 2024/Birdhouse (Eldercare).md
       - BFG 2024/SilverPals (Eldercare).md
       - BFG 2024/GymLah (Eldercare).md
       - BFG 2024/Heart Beat (Eldercare).md
