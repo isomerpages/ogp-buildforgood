@@ -1,5 +1,5 @@
 collections:
-  past-hackathons:
+  recap:
     output: true
     order:
       - BFG2024.md
