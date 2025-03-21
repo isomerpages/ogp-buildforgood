@@ -22,7 +22,7 @@ sections:
         community challenges.
       button: find out more
       url: https://community-hackathon.gov.sg
-      image: /images/CH_Website_Banner.png
+      image: /images/FINAL_CH_website_banner.png
       alt: Image alt text
   - infopic:
       title: Build for Good Accelerator
