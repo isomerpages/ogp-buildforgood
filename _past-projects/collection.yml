@@ -2,6 +2,7 @@ collections:
   past-projects:
     output: true
     order:
+      - BFG 2024/HowAreYou (Eldercare).md
       - BFG 2024/CareCard (Eldercare).md
       - BFG 2024/Let's Kaypoh (Eldercare).md
       - BFG 2024/Birdhouse (Eldercare).md
