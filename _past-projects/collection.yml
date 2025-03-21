@@ -2,6 +2,7 @@ collections:
   past-projects:
     output: true
     order:
+      - BFG 2024/Heart Beat (Eldercare).md
       - BFG 2024/Ho Seh Bo? (Eldercare).md
       - BFG 2024/CareerQuest (Education).md
       - BFG 2024/Pear (Education).md
