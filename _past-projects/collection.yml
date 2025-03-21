@@ -2,6 +2,7 @@ collections:
   past-projects:
     output: true
     order:
+      - BFG 2024/GroupUp (Sustainability).md
       - BFG 2024/(re)store (Sustainability).md
       - BFG 2024/EBI, Emotional Baggage Interface (Mental Health).md
       - BFG 2024/CareCompass (Healthcare).md
