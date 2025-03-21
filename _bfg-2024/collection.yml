@@ -2,5 +2,4 @@ collections:
   bfg-2024:
     output: true
     order:
-      - About BFG 2024.md
       - Starter Fund Teams.md
