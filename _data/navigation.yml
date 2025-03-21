@@ -2,8 +2,8 @@ logo: /images/BFG_Logo.png
 links:
   - title: About
     url: /about/
-  - title: Bfg 2024
-    collection: bfg-2024
+  - title: Community Hackathon
+    url: /community-hackathon
   - title: Recap
     collection: recap
   - title: Past Projects
