@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - About BFG 2024.md
-      - Projects/.keep
       - Starter Fund Teams.md
