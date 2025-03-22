@@ -3,7 +3,7 @@ title: Scamhunt (Scams)
 permalink: /scamhunt/
 variant: markdown
 description: ""
-third_nav_title: Projects
+third_nav_title: BFG 2024
 ---
 <h4><strong>Safety &amp; Security</strong> - Social media scams</h4>
 <div class="isomer-image-wrapper">

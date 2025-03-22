@@ -1,9 +1,9 @@
 ---
-title: OTOT (Healthcare)
-permalink: /otot/
+title: WorkoutKakis (Healthcare)
+permalink: /workoutkakis/
 variant: markdown
 description: ""
-third_nav_title: Projects
+third_nav_title: BFG 2024
 ---
 <h4><strong>Health &amp; Wellbeing</strong> - Encouraging Fitness Among Working Adults</h4>
 <div class="isomer-image-wrapper">
@@ -51,7 +51,7 @@ of strength training.
 <br>
 </p>
 <h4>Proposed Solution</h4>
-<p>OTOT is a community-led workout buddy finder that allows users to discover
+<p>WorkoutKakis is a community-led workout buddy finder that allows users to discover
 nearby workout partners and create a safe and inclusive space for users
 to exercise together. The platform leverages peer-to-peer community support,
 where users motivate and learn from one another creating sustainable fitness
@@ -81,11 +81,12 @@ face gym anxiety.&nbsp;
 </li>
 </ol>
 <blockquote>
-<p>Try out OTOT <a href="https://legs-day.vercel.app/" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
+<p>Try out WorkoutKakis <a href="https://legs-day.vercel.app/" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 </blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OTOT.png">
 </div>
+*Note: The product name has been changed from OTOT to WorkoutKakis
 <p>
 	<a href="mailto:mervynchua01@gmail.com">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">

@@ -3,7 +3,7 @@ title: OhmSweetOhm (Sustainability)
 permalink: /ohmsweetohm/
 variant: tiptap
 description: ""
-third_nav_title: Projects
+third_nav_title: BFG 2024
 ---
 <h4><strong>Environment &amp; Sustainability</strong> - Energy consumption</h4>
 <div class="isomer-image-wrapper">

@@ -3,7 +3,7 @@ title: CareerQuest (Education)
 permalink: /careerquest/
 variant: tiptap
 description: ""
-third_nav_title: Projects
+third_nav_title: BFG 2024
 ---
 <h4><strong>Youth &amp; Education </strong>- Career Guidance for Junior College Students</h4>
 <p></p>

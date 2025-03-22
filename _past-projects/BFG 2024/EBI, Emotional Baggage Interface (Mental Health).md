@@ -3,7 +3,7 @@ title: EBI, Emotional Baggage Interface (Mental Health)
 permalink: /ebi/
 variant: tiptap
 description: ""
-third_nav_title: Projects
+third_nav_title: BFG 2024
 ---
 <h4><strong>Health &amp; Wellbeing </strong>- Mental Health</h4>
 <div class="isomer-image-wrapper">

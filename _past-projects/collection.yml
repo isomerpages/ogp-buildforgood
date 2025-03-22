@@ -2,6 +2,29 @@ collections:
   past-projects:
     output: true
     order:
+      - BFG 2024/Good Goods (Supporting Social Enterprises).md
+      - BFG 2024/Scamhunt (Scams).md
+      - BFG 2024/Living@SG (Accessibility).md
+      - BFG 2024/have anot? (Accessibility).md
+      - BFG 2024/OhmSweetOhm (Sustainability).md
+      - BFG 2024/Potluck (Sustainability).md
+      - BFG 2024/GroupUp (Sustainability).md
+      - BFG 2024/(re)store (Sustainability).md
+      - BFG 2024/EBI, Emotional Baggage Interface (Mental Health).md
+      - BFG 2024/CareCompass (Healthcare).md
+      - BFG 2024/WorkoutKakis (Healthcare).md
+      - BFG 2024/Foodchain (Healthcare).md
+      - BFG 2024/HowAreYou (Eldercare).md
+      - BFG 2024/CareCard (Eldercare).md
+      - BFG 2024/Let's Kaypoh (Eldercare).md
+      - BFG 2024/Birdhouse (Eldercare).md
+      - BFG 2024/SilverPals (Eldercare).md
+      - BFG 2024/GymLah (Eldercare).md
+      - BFG 2024/Heart Beat (Eldercare).md
+      - BFG 2024/Ho Seh Bo? (Eldercare).md
+      - BFG 2024/CareerQuest (Education).md
+      - BFG 2024/Pear (Education).md
+      - BFG 2024/.keep
       - BFG Environment Projects/.keep
       - BFG Environment Projects/Bloo.md
       - BFG Environment Projects/CleanSlate.md

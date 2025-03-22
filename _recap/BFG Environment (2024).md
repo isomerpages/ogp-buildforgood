@@ -1,5 +1,5 @@
 ---
-title: BFG Environment
+title: BFG Environment (2024)
 permalink: /bfg-environment/
 variant: tiptap
 description: ""

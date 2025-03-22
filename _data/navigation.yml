@@ -2,14 +2,12 @@ logo: /images/BFG_Logo.png
 links:
   - title: About
     url: /about/
-  - title: Bfg 2024
-    collection: bfg-2024
-  - title: Past Hackathons
-    collection: past-hackathons
+  - title: Community Hackathon
+    url: https://community-hackathon.gov.sg
+  - title: Recap
+    collection: recap
   - title: Past Projects
     collection: past-projects
-  - title: FAQ
-    url: /faq
   - title: Contact
     url: /contact/
   - title: Newsroom

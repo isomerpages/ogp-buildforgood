@@ -3,7 +3,7 @@ title: Foodchain (Healthcare)
 permalink: /foodchain/
 variant: tiptap
 description: ""
-third_nav_title: Projects
+third_nav_title: BFG 2024
 ---
 <h4><strong>Health &amp; Wellbeing </strong>- Improving Dietary Habits</h4>
 <div class="isomer-image-wrapper">

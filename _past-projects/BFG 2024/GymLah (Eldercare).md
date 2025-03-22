@@ -3,7 +3,7 @@ title: GymLah (Eldercare)
 permalink: /gymlah/
 variant: tiptap
 description: ""
-third_nav_title: Projects
+third_nav_title: BFG 2024
 ---
 <h4><strong>Supporting Seniors </strong>- Empowering seniors to stay fit</h4>
 <div class="isomer-image-wrapper">

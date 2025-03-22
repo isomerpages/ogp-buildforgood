@@ -1,0 +1,8 @@
+collections:
+  recap:
+    output: true
+    order:
+      - BFG Starter Fund.md
+      - BFG 2024.md
+      - BFG Environment (2024).md
+      - BFG 2023.md

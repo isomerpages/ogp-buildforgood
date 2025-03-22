@@ -3,7 +3,7 @@ title: Ho Seh Bo? (Eldercare)
 permalink: /ho-seh-bo/
 variant: markdown
 description: ""
-third_nav_title: Projects
+third_nav_title: BFG 2024
 ---
 <h4><strong>Supporting Seniors </strong>- Empowering AAC Volunteers</h4>
 <div class="isomer-image-wrapper">
@@ -67,7 +67,6 @@ the AACs’ operations and easing their workload.
         Contact Team
     </button>
 </a>
-	
 
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographic___Finale__For_Sharing_.png">

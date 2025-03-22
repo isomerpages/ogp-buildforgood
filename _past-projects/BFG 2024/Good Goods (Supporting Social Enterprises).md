@@ -3,7 +3,7 @@ title: Good Goods (Supporting Social Enterprises)
 permalink: /good-goods/
 variant: tiptap
 description: ""
-third_nav_title: Projects
+third_nav_title: BFG 2024
 ---
 <h4>Supporting Social Enterprises</h4>
 <div class="isomer-image-wrapper">

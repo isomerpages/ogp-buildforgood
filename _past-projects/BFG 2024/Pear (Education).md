@@ -3,7 +3,7 @@ title: Pear (Education)
 permalink: /pear/
 variant: tiptap
 description: ""
-third_nav_title: Projects
+third_nav_title: BFG 2024
 ---
 <h4><strong>Youth &amp; Education</strong> - Supporting academically weaker students</h4>
 <p></p>
